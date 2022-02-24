@@ -15,5 +15,8 @@ We are committed to make all of our teaching material available to the public. F
 - Anant Sujatanagarjuna
 - Benjamin Leiding
 
+## License
+Creative Commons Attribution Share Alike 4.0 International
+
 ## Contact
 Prof. Dr. Benjamin Leiding - benjamin.leiding@tu-clausthal.de
