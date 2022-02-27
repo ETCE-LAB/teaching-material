@@ -1,5 +1,23 @@
 This repository contains the teaching materials of the "Requirements Engineering" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
 
+## Content
+
+| ID    | Topic                     | Slides                                        |
+|-------|---------------------------|-----------------------------------------------|
+| L00   | Organization              | [Slides](RE-L00-Organization.pdf)             |
+| L01   | Introduction              | [Slides](RE-L01-Introduction.pdf)             |
+| L02   | System Context Boundaries | [Slides](RE-L02-System-Context-Boundaries.pdf)|
+| L03   | Elicitation               | [Slides](RE-L03-Elicitation.pdf)              |  
+| L04-1 | Documentation - Part 1    | [Slides](RE-L04-Documentation--Part-1.pdf)    |
+| L04-2 | Documentation - Part 2    | [Slides](RE-L04-Documentation--Part-2.pdf)    |
+| L04-3 | Documentation - Part 3    | [Slides](RE-L04-Documentation--Part-3.pdf)    |
+| L05   | Negotiation               | [Slides](RE-L05-Negotiation.pdf)              |
+| L06   | Validation                | [Slides](RE-L06-Validation.pdf)               |
+| L07   | Management                | [Slides](RE-L07_Management.pdf)               |
+| L08   | Traceability              | [Slides](RE-L08_Traceability.pdf)             |
+| L09   | Tool Support              | [Slides](RE-L09_Tool-Support.pdf)             |
+
+
 ## Disclaimer
 
 The course is modeled and built based on the book "Requirements Engineering – Fundamentals, Principles and Techniques" [(link)](https://link.springer.com/de/book/9783642125775) by Klaus Pohl.
