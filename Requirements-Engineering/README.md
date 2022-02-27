@@ -1,6 +1,19 @@
 This repository contains the teaching materials of the "Requirements Engineering" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
 
-## Content
+## Course Content
+
+- Core terminology and core tasks of requirements engineering
+- Overview requirements engineering process
+- Elicitation techniques
+- Documentation methods
+- Textual, model-based and formal requirements specification
+- Requirements negotiation
+- Requirements validation
+- Requirements Management
+- Traceability
+
+
+## Lectures
 
 | ID    | Topic                     | Slides                                        |
 |-------|---------------------------|-----------------------------------------------|
