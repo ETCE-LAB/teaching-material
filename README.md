@@ -10,6 +10,8 @@ We are committed to make all of our teaching material available to the public. F
 - The Limits to Growth - Sustainability and the Circular Economy (coming soon)
 - Requirements Engineering
 
+## Feedback/Issues
+Please report issues via the bug tracker or leave a comment.
 
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
