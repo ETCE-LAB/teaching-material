@@ -30,6 +30,9 @@ This repository contains the teaching materials of the "Requirements Engineering
 | L08   | Traceability              | [Slides](RE-L08_Traceability.pdf)             |
 | L09   | Tool Support              | [Slides](RE-L09_Tool-Support.pdf)             |
 
+## Contributors (past and present)
+- Anant Sujatanagarjuna
+- Benjamin Leiding
 
 ## Disclaimer
 
