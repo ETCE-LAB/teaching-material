@@ -13,10 +13,6 @@ We are committed to make all of our teaching material available to the public. F
 ## Feedback/Issues
 Please report issues via the bug tracker or leave a comment.
 
-## Contributors (past and present)
-- Anant Sujatanagarjuna
-- Benjamin Leiding
-
 ## License
 Creative Commons Attribution Share Alike 4.0 International
 
