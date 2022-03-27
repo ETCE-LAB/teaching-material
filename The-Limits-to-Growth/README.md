@@ -8,7 +8,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 - Feedback loops and tipping points
 - Implications of closed systems with a finite supply of resources
 - The sub-processes and steps of a circular economy – incl. the era of R and era of D
-- Technology-focused approaches towards sustainability
+- Approaches towards sustainability
 
 
 ## Contributors (past and present)
