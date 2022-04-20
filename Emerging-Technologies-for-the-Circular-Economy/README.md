@@ -8,6 +8,23 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 - Basic understanding of concepts/techniques for data protection and privacy in smart decentralised systems
 - Practical experience in the prototypical implementation of an application in the context of the course
 
+## Lectures
+
+| ID    | Topic                                   | Slides                                                | Video |
+|-------|-----------------------------------------|-------------------------------------------------------|-------|
+| L00   | Organization                            | [Slides](ETCE-L00-Organization.pdf)                   |       |
+| L01   | Introduction to the Circular Economy I  | [Slides](ETCE-L01-Introduction-to-the-CE--PART-1.pdf) |       |
+| L02   | Introduction to the Circular Economy II |                                                       |       |
+| L03   | TBA                                     |                                                       |       |
+| L04   | TBA                                     |                                                       |       |
+| L05   | TBA                                     |                                                       |       |
+| L06   | TBA                                     |                                                       |       |
+| L07   | TBA                                     |                                                       |       |
+| L08   | TBA                                     |                                                       |       |
+| L09   | TBA                                     |                                                       |       |
+| L10   | TBA                                     |                                                       |       |
+| L11   | Invited Lecture                         |                                                       |       |
+| L12   | Invited Lecture                         |                                                       |       |
 
 ## Contributors (past and present)
 - Arne Bochem
