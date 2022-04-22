@@ -12,8 +12,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 | ID    | Topic                                   | Slides                                                | Video |
 |-------|-----------------------------------------|-------------------------------------------------------|-------|
-| L00   | Organization                            | [Slides](ETCE-L00-Organization.pdf)                   |       |
-| L01   | Introduction to the Circular Economy I  | [Slides](ETCE-L01-Introduction-to-the-CE--PART-1.pdf) |       |
+| L00   | Organization                            | [Slides](ETCE-L00-Organization.pdf)                   | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
+| L01   | Introduction to the Circular Economy I  | [Slides](ETCE-L01-Introduction-to-the-CE--PART-1.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
 | L02   | Introduction to the Circular Economy II |                                                       |       |
 | L03   | TBA                                     |                                                       |       |
 | L04   | TBA                                     |                                                       |       |
