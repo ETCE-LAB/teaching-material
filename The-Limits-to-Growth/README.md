@@ -11,6 +11,15 @@ This repository contains the teaching materials of the "The Limits to Growth –
 - Approaches towards sustainability
 
 
+## Lectures
+
+| ID    | Topic                                   | Slides                                                | Video |
+|-------|-----------------------------------------|-------------------------------------------------------|-------|
+| L00   | Organization                            | [Slides](LTG-L00-Organization.pdf)                    |       |
+| L01   | Introduction - Part I  		  | 							 |       |
+| L02   | Introduction - Part II  		  | 							 |       |
+
+
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
 - Benjamin Leiding
