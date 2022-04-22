@@ -1,3 +1,5 @@
+<img src="https://www.presse.tu-clausthal.de/fileadmin/Presse/images/Corporate_Design/Logo/Logo_TUC_en_CMYK.jpg" width="300">
+
 This repository contains the teaching materials of the "The Limits to Growth – Sustainability and the Circular Economy" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
 
 ## Course Content

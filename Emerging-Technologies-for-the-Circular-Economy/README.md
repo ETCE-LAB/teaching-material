@@ -1,3 +1,5 @@
+<img src="https://www.presse.tu-clausthal.de/fileadmin/Presse/images/Corporate_Design/Logo/Logo_TUC_en_CMYK.jpg" width="300">
+
 This repository contains the teaching materials of the "Emerging Technologies for the Circular Economy" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
 
 ## Course Content
@@ -12,8 +14,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 | ID    | Topic                                   | Slides                                                | Video |
 |-------|-----------------------------------------|-------------------------------------------------------|-------|
-| L00   | Organization                            | [Slides](ETCE-L00-Organization.pdf)                   |       |
-| L01   | Introduction to the Circular Economy I  | [Slides](ETCE-L01-Introduction-to-the-CE--PART-1.pdf) |       |
+| L00   | Organization                            | [Slides](ETCE-L00-Organization.pdf)                   | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
+| L01   | Introduction to the Circular Economy I  | [Slides](ETCE-L01-Introduction-to-the-CE--PART-1.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
 | L02   | Introduction to the Circular Economy II |                                                       |       |
 | L03   | TBA                                     |                                                       |       |
 | L04   | TBA                                     |                                                       |       |
