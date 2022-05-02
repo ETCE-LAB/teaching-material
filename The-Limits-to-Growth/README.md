@@ -19,11 +19,16 @@ This repository contains the teaching materials of the "The Limits to Growth –
 |-------|-----------------------------------------|-------------------------------------------------------|-------|
 | L00   | Organization                            | [Slides](LTG-L00-Organization.pdf)                    | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html?jwsource=cl) |
 | L01   | Introduction - Part I  		              | [Slides](LTG-L01-Introduction-I.pdf)							    | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html?jwsource=cl) |
-| L02   | Introduction - Part II  		            | 							 |       |
+| L02   | Introduction - Part II  		            | [Slides](LTG-L02-Introduction-II.pdf)							 |       |
 | L03   | Introduction - Part III  		            | 							 |       |
+
+## Exercises
+
+| ID    | Topic                                   | Exercise Sheet                                     |
+|-------|-----------------------------------------|----------------------------------------------------|
+| E01   | Carbon Footprint                        | [Exercise](Exercises/E01-CarbonFootprint.pdf)      |
+
 
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
 - Benjamin Leiding
-
-
