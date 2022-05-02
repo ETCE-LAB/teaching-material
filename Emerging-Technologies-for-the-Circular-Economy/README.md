@@ -12,21 +12,21 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 ## Lectures
 
-| ID    | Topic                                   | Slides                                                | Video |
-|-------|-----------------------------------------|-------------------------------------------------------|-------|
-| L00   | Organization                            | [Slides](ETCE-L00-Organization.pdf)                   | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
-| L01   | Introduction to the Circular Economy I  | [Slides](ETCE-L01-Introduction-to-the-CE--PART-1.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
-| L02   | Introduction to the Circular Economy II |                                                       |       |
-| L03   | TBA                                     |                                                       |       |
-| L04   | TBA                                     |                                                       |       |
-| L05   | TBA                                     |                                                       |       |
-| L06   | TBA                                     |                                                       |       |
-| L07   | TBA                                     |                                                       |       |
-| L08   | TBA                                     |                                                       |       |
-| L09   | TBA                                     |                                                       |       |
-| L10   | TBA                                     |                                                       |       |
-| L11   | Invited Lecture                         |                                                       |       |
-| L12   | Invited Lecture                         |                                                       |       |
+| ID  | Topic                                   | Slides                                                | Video                                                                                                                      |
+|-----|-----------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| L00 | Organization                            | [Slides](ETCE-L00-Organization.pdf)                   | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
+| L01 | Introduction                            | [Slides](ETCE-L01-Introduction.pdf)                   | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
+| L02 | Circular Economy I                      | [Slides](ETCE-L02-Circular-Economy-I.pdf)             | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html?jwsource=cl) |
+| L03 | TBA                                     |                                                       |                                                                                                                            |
+| L04 | TBA                                     |                                                       |                                                                                                                            |
+| L05 | TBA                                     |                                                       |                                                                                                                            |
+| L06 | TBA                                     |                                                       |                                                                                                                            |
+| L07 | TBA                                     |                                                       |                                                                                                                            |
+| L08 | TBA                                     |                                                       |                                                                                                                            |
+| L09 | TBA                                     |                                                       |                                                                                                                            |
+| L10 | TBA                                     |                                                       |                                                                                                                            |
+| L11 | Invited Lecture                         |                                                       |                                                                                                                            |
+| L12 | Invited Lecture                         |                                                       |                                                                                                                            |
 
 ## Contributors (past and present)
 - Arne Bochem
