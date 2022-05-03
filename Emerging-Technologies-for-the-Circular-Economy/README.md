@@ -33,6 +33,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 - Anant Sujatanagarjuna
 - Benjamin Leiding
 - Keerthi Adabala
+- Priyanka Sharma
 
 ## Disclaimer
 
