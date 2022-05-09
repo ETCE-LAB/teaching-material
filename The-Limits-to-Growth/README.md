@@ -27,7 +27,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
 | E01   | Carbon Footprint                        | [Exercise](Exercises/E01-CarbonFootprint.pdf)      |
-| E02   | Household Waste			  | [Exercise](Exercise/E02-Household-Waste.pdf)       |
+| E02   | Household Waste			                    | [Exercise](Exercises/E02-Household-Waste.pdf)      |
 
 
 ## Contributors (past and present)
