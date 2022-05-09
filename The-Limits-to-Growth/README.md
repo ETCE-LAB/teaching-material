@@ -20,7 +20,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | L00   | Organization                            | [Slides](LTG-L00-Organization.pdf)                    | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html?jwsource=cl) |
 | L01   | Introduction - Part I  		              | [Slides](LTG-L01-Introduction-I.pdf)							    | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html?jwsource=cl) |
 | L02   | Introduction - Part II  		            | [Slides](LTG-L02-Introduction-II.pdf)							    | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html?token=TFpORnZyTFVUWGwzeGNpZHhXM01hcS84NTVnL3hnNXlHYTlJdXdvZjlKYz0=&jwsource=cl)       |
-| L03   | Introduction - Part III  		            | 							 |       |
+| L03   | Introduction - Part III  		            | [Slides](LTG-L03-Introduction-III.pdf) |       |
 
 ## Exercises
 
