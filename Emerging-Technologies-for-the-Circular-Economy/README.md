@@ -18,15 +18,18 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L01 | Introduction                            | [Slides](ETCE-L01-Introduction.pdf)                   | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L02 | Circular Economy I                      | [Slides](ETCE-L02-Circular-Economy-I.pdf)             | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L03 | Circular Economy II                     | [Slides](ETCE-L03-Circular-Economy-II.pdf)            | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L04 | Introduction to the Internet of Things  | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)        | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html)                                                                                                                            |
-| L05 | TBA                                     |                                                       |                                                                                                                            |
-| L06 | TBA                                     |                                                       |                                                                                                                            |
-| L07 | TBA                                     |                                                       |                                                                                                                            |
-| L08 | TBA                                     |                                                       |                                                                                                                            |
-| L09 | TBA                                     |                                                       |                                                                                                                            |
-| L10 | TBA                                     |                                                       |                                                                                                                            |
-| L11 | Invited Lecture                         |                                                       |                                                                                                                            |
-| L12 | Invited Lecture                         |                                                       |                                                                                                                            |
+| L04 | Introduction to the Internet of Things  | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)        | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
+| L05a| IoT Communication                       | [Slides](ETCE-L05a-IoT-Communications.pdf)            | |
+| L05b| IoT Secuirty & Privacy                  | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)      | |
+| L06 | IoT Data Processing & Big Data          |                                                       | |
+| L07 | Introduciton to Blockchain Technology   |                                                       | |
+| L08 | Blockchain Consensus                    |                                                       | |
+| L09 | Ethereum and Smart Contracts I          |                                                       | |
+| L10 | Ethereum and Smart Contracts II         |                                                       | |
+| L11 | Invited Lecture                         |                                                       | |
+| L12 | Invited Lecture                         |                                                       | |
+| L13 | Blockchain Technology and Sustainability|                                                       | |
+| L14 | The M2X Economy                         |                                                       | |
 
 ## Contributors (past and present)
 - Arne Bochem
