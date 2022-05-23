@@ -19,8 +19,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L02 | Circular Economy I                      | [Slides](ETCE-L02-Circular-Economy-I.pdf)             | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L03 | Circular Economy II                     | [Slides](ETCE-L03-Circular-Economy-II.pdf)            | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L04 | Introduction to the Internet of Things  | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)        | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L05a| IoT Communication                       | [Slides](ETCE-L05a-IoT-Communications.pdf)            | |
-| L05b| IoT Secuirty & Privacy                  | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)      | |
+| L05a| IoT Communication                       | [Slides](ETCE-L05a-IoT-Communications.pdf)            | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
+| L05b| IoT Secuirty & Privacy                  | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)      | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L06 | IoT Data Processing & Big Data          |                                                       | |
 | L07 | Introduciton to Blockchain Technology   |                                                       | |
 | L08 | Blockchain Consensus                    |                                                       | |
