@@ -22,7 +22,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | L02   | Introduction - Part II  		  | [Slides](LTG-L02-Introduction-II.pdf)		| [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L03   | Introduction - Part III  		  | [Slides](LTG-L03-Introduction-III.pdf)  | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L04   | What Happened So Far?			  | [Slides](LTG-L04-What-Happened-So-Far%3F.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
-| L05   | Lifecycle Assessment (LCA) | | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
+| L05   | Lifecycle Assessment (LCA) |[Slides](LTG-L05-LCA.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L05   | OpenLCA Tutorial   | - | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L06   | World3 | | |
 
@@ -33,6 +33,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | E01   | Carbon Footprint                        | [Exercise](Exercises/E01-CarbonFootprint.pdf)      |
 | E02   | Household Waste			  | [Exercise](Exercises/E02-Household-Waste.pdf)      |
 | E03   | My Favorite Food			  | [Exercise](Exercises/E03-My-Favorite-Food.pdf)     |
+| E04   | LCA of My Favourite Food| [Exercise](Exercises/E04-LCA-of-My-Favourite-Food.pdf)  |
 
 
 ## Contributors (past and present)
