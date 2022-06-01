@@ -21,8 +21,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L04 | Introduction to the Internet of Things  | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)        | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L05a| IoT Communication                       | [Slides](ETCE-L05a-IoT-Communications.pdf)            | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L05b| IoT Secuirty & Privacy                  | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)      | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L06 | IoT Data Processing & Big Data          |                                                       | |
-| L07 | Introduciton to Blockchain Technology   |                                                       | |
+| L06 | IoT Data Processing & Big Data          | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html)|
+| L07 | Introduciton to Blockchain Technology   | [Slides](ETCE-L07-BC1--Introduction-to-Blockchain-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html)|
 | L08 | Blockchain Consensus                    |                                                       | |
 | L09 | Ethereum and Smart Contracts I          |                                                       | |
 | L10 | Ethereum and Smart Contracts II         |                                                       | |
