@@ -24,7 +24,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | L04   | What Happened So Far?			  | [Slides](LTG-L04-What-Happened-So-Far%3F.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L05   | Lifecycle Assessment (LCA) |[Slides](LTG-L05-LCA.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L05   | OpenLCA Tutorial   | - | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
-| L06   | World3 | | |
+| L06   | World3 | [Slides](LTG-L06-World3.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html)|
 
 ## Exercises
 
@@ -34,6 +34,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | E02   | Household Waste			  | [Exercise](Exercises/E02-Household-Waste.pdf)      |
 | E03   | My Favorite Food			  | [Exercise](Exercises/E03-My-Favorite-Food.pdf)     |
 | E04   | LCA of My Favourite Food| [Exercise](Exercises/E04-LCA-of-My-Favourite-Food.pdf)  |
+| E05   | World3 | [Exercise](Exercises/E05-World3.pdf)  |
 
 
 ## Contributors (past and present)
