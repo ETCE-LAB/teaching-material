@@ -24,7 +24,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L06 | IoT Data Processing & Big Data          | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html)|
 | L07 | Introduciton to Blockchain Technology   | [Slides](ETCE-L07-BC1--Introduction-to-Blockchain-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html)|
 | L08 | Blockchain Consensus                    | [Slides](ETCE-L08-BC2--Consensus.pdf) 	        | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html)|
-| L09 | Ethereum and Smart Contracts I          |                                                       | |
+| L09 | Ethereum and Smart Contracts I          | [Slides](ETCE-L09-BC3--Ethereum-and-Smart-Contracts--PART-1.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L10 | Ethereum and Smart Contracts II         |                                                       | |
 | L11 | Invited Lecture                         |                                                       | |
 | L12 | Invited Lecture                         |                                                       | |
