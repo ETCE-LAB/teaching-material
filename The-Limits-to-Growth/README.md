@@ -27,6 +27,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | L06   | World3 | [Slides](LTG-L06-World3.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html)|
 | L07   | Circular Economy | [Slides](LTG-L07-Circular-Economy-I.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html)|
 | L08   | Circular Societies | comming soon | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
+| L09   | Technology | comming soon | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 ## Exercises
 
 | ID    | Topic                                   | Exercise Sheet                                     |
@@ -38,6 +39,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | E05   | World3 | [Exercise](Exercises/E05-World3.pdf)  |
 | E06   | Performance Economy | [Exercise](Exercises/E06-Performance-Economy.pdf)  |
 | E07   | Circular Societies | [Exercise](Exercises/E07-Circular-Society.pdf) |
+| E08   | Technology Assessment | [Exercise](Exercises/E08-Technology-Assessment.pdf) |
 
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
