@@ -26,8 +26,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L08 | Blockchain Consensus                    | [Slides](ETCE-L08-BC2--Consensus.pdf) 	        | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html)|
 | L09 | Ethereum and Smart Contracts I          | [Slides](ETCE-L09-BC3--Ethereum-and-Smart-Contracts--PART-1.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L10 | Ethereum and Smart Contracts II         | [Slides](ETCE-L10-BC4--Ethereum-and-Smart-Contracts--PART-2.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L11 | Invited Lecture                         |                                                       | |
-| L12 | Invited Lecture                         |                                                       | |
+| L11 | Invited Lecture                         | - | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
+| L12 | Invited Lecture                         | - | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L13 | Blockchain Technology and Sustainability|                                                       | |
 | L14 | The M2X Economy                         |                                                       | |
 
