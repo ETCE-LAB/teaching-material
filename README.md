@@ -6,8 +6,8 @@ This repository contains the teaching materials of the courses taught by the ETC
 We are committed to make all of our teaching material available to the public. Feel free to use it for your own purposes. Please share it widely. Please provide feedback and report issues!
 
 ## Courses
-- Emerging Technologies for the Circular Economy (work-in-progress)
-- The Limits to Growth - Sustainability and the Circular Economy (work-in-progress)
+- Emerging Technologies for the Circular Economy
+- The Limits to Growth - Sustainability and the Circular Economy 
 - Requirements Engineering
 
 ## Feedback/Issues

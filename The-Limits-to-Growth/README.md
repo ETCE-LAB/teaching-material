@@ -26,7 +26,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | L05   | OpenLCA Tutorial   | - | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L06   | World3 | [Slides](LTG-L06-World3.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html)|
 | L07   | Circular Economy | [Slides](LTG-L07-Circular-Economy-I.pdf)| [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html)|
-| L08   | Circular Societies | comming soon | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
+| L08   | Circular Societies | [Slides](LTG-L08-Circular-Society.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L09   | Technology | [Slides](LTG-L09-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 | L10   | Now What? | [Slides](LTG-L10-Now-What.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/the-limits-to-growth-sustainability-and-the-circular-economy_1270.html) |
 
