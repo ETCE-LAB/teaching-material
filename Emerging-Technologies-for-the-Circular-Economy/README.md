@@ -28,8 +28,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L10  | Ethereum and Smart Contracts II          | [Slides](ETCE-L10-BC4--Ethereum-and-Smart-Contracts--PART-2.pdf)  | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L11  | Invited Lecture                          | -                                                                 | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 | L12  | Invited Lecture                          | -                                                                 | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L13  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC5--Blockchain-Sustainability.pdf)             |  [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html)                                                                                                              |
-| L14  | The M2X Economy                          |                                                                   |                                                                                                                |
+| L13  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC5--Blockchain-Sustainability.pdf)             | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
+| L14  | The M2X Economy                          | [Slides](ETCE-L12-The-M2X-Economy.pdf)                            | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
 
 ## Contributors (past and present)
 - Arne Bochem
