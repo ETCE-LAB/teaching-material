@@ -17,27 +17,30 @@ This repository contains the teaching materials of the "Requirements Engineering
 
 ## Lectures
 
-| ID    | Topic                     | Slides                                        |
-|-------|---------------------------|-----------------------------------------------|
-| L00   | Organization              | [Slides](RE-L00-Organization.pdf)             |
-| L01   | Introduction              | [Slides](RE-L01-Introduction.pdf)             |
-| L02   | System Context Boundaries | [Slides](RE-L02-System-Context-Boundaries.pdf)|
-| L03   | Elicitation               | [Slides](RE-L03-Elicitation.pdf)              |  
-| L04-1 | Documentation - Part 1    | [Slides](RE-L04-Documentation--Part-1.pdf)    |
-| L04-2 | Documentation - Part 2    | [Slides](RE-L04-Documentation--Part-2.pdf)    |
-| L04-3 | Documentation - Part 3    | [Slides](RE-L04-Documentation--Part-3.pdf)    |
-| L05   | Negotiation               | [Slides](RE-L05-Negotiation.pdf)              |
-| L06   | Validation                | [Slides](RE-L06-Validation.pdf)               |
-| L07   | Management                | [Slides](RE-L07_Management.pdf)               |
-| L08   | Traceability              | [Slides](RE-L08_Traceability.pdf)             |
-| L09   | Tool Support              | [Slides](RE-L09_Tool-Support.pdf)             |
+| ID    | Topic                         | Slides                                        |
+|-------|-------------------------------|-----------------------------------------------|
+| L00   | Organization                  | [Slides](RE-L00-Organization.pdf)             |
+| L01   | Introduction                  | [Slides](RE-L01-Introduction.pdf)             |
+| L02   | System Context Boundaries and Types of Requirements | [Slides](RE-L02-System-Context-Boundaries-and-Types-of-Requirements.pdf)                        |
+| L03   | Elicitation - Part 1          | [Slides](RE-L03-Elicitation--Part-1.pdf)      |  
+| L04   | Elicitation - Part 2          | [Slides](RE-L04-Elicitation--Part-2.pdf)      |  
+| L05   | Negotiation                   | [Slides](RE-L05-Negotiation.pdf)              |  
+| L06   | Documentation - Introduction  | [Slides](RE-L06-Documentation--Introduction.pdf)|
+| L07   | Documentation - Textual       | [Slides](RE-L07-Documentation--Textual.pdf)   |
+| L08   | Documentation - Model-based   | [Slides](RE-L08-Documentation--Model-based.pdf)|
+| L09   | Documentation - Formal        | [Slides](RE-L09-Documentation--Formal.pdf)    |
+| L10   | Validation                    | [Slides](RE-L10-Validation.pdf)               |
+| L11   | Traceability                  | [Slides](RE-L11_Traceability.pdf)             |
+| L12   | Management                    | [Slides](RE-L12_Management.pdf)               |
+| L13   | Tool Support                  | [Slides](RE-L13_Tool-Support.pdf)             |
 
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
 - Benjamin Leiding
+- Sepideh Sayadkouh
 
 ## Disclaimer
 
 The course is modeled and built based on the book "Requirements Engineering – Fundamentals, Principles and Techniques" [(link)](https://link.springer.com/de/book/9783642125775) by Klaus Pohl.
 
-Special thanks to [Prof. Dr. Steffen Herbold](https://www.isse.tu-clausthal.de/en/get-in-touch/team-1/institutional-administration/prof-dr-steffen-herbold) and Dr. Christian Barelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.
+Special thanks to [Prof. Dr. Steffen Herbold](https://www.isse.tu-clausthal.de/en/get-in-touch/team-1/institutional-administration/prof-dr-steffen-herbold) and Dr. Christian Bartelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.
