@@ -36,7 +36,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 |-------|-----------------------------------------|----------------------------------------------------|
 | E01   | Carbon Footprint                        | [Exercise](Exercises/E01-CarbonFootprint.pdf)      |
 | E02   | Household Waste			  | [Exercise](Exercises/E02-Household-Waste.pdf)      |
-| E03   | My Favorite Food			  | [Exercise](Exercises/E03-My-Favorite-Food.pdf)     |
+| E03   | My Favourite Food			  | [Exercise](Exercises/E03-My-Favorite-Food.pdf)     |
 | E04   | LCA of My Favourite Food| [Exercise](Exercises/E04-LCA-of-My-Favourite-Food.pdf)  |
 | E05   | World3 | [Exercise](Exercises/E05-World3.pdf)  |
 | E06   | Performance Economy | [Exercise](Exercises/E06-Performance-Economy.pdf)  |
