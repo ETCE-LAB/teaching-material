@@ -4,13 +4,13 @@ This repository contains the teaching materials of the "The Limits to Growth –
 
 ## Course Content
 
-- Introduction to the terminology of the circular economy, sustainability, and related concepts (biocapacity, etc.)
+- Basics of climate change, environmental pollution, and dwindling non-renewable resources
+- Introduction to the circular economy, sustainability, and related concepts (biocapacity, etc.)
 - Sustainability goals
-- Basics of climate change and environmental pollution
 - Feedback loops and tipping points
 - Implications of closed systems with a finite supply of resources
-- The sub-processes and steps of a circular economy – incl. the era of R and era of D
-- Approaches towards sustainability
+- Technology-focused and technology-critical approaches towards sustainability
+- Circular Societies
 
 
 ## Lectures
