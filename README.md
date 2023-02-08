@@ -6,9 +6,9 @@ This repository contains the teaching materials of the courses taught by the ETC
 We are committed to make all of our teaching material available to the public. Feel free to use it for your own purposes. Please share it widely. Please provide feedback and report issues!
 
 ## Courses
-- Emerging Technologies for the Circular Economy
-- The Limits to Growth - Sustainability and the Circular Economy 
-- Requirements Engineering
+- [Emerging Technologies for the Circular Economy](https://github.com/ETCE-LAB/teaching-material/tree/master/Emerging-Technologies-for-the-Circular-Economy)
+- [The Limits to Growth - Sustainability and the Circular Economy](https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth)
+- [Requirements Engineering](https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering)
 
 ## Feedback/Issues
 Please report issues via the bug tracker or leave a comment.
