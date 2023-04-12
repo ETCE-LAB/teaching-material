@@ -38,6 +38,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 - Keerthi Adabala
 - Mayutan Arumaithurai
 - Priyanka Sharma
+- Shohreh Kia
 
 ## Disclaimer
 

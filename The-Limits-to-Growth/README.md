@@ -46,3 +46,5 @@ This repository contains the teaching materials of the "The Limits to Growth –
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
 - Benjamin Leiding
+- Theresa Sommer
+- Annika Hoppe
