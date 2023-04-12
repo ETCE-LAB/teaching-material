@@ -43,13 +43,6 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | E07   | Circular Societies                      | [Exercise](0_ARCHIVE/Summer-2022/Exercises/E07-Circular-Society.pdf)     |
 | E08   | Technology Assessment                   | [Exercise](0_ARCHIVE/Summer-2022/Exercises/E08-Technology-Assessment.pdf)|
 
-## Lecture Materials of Previous Semesters
-
-|                |                                         | 
-|----------------|-----------------------------------------|
-| 2022 - Summer  | [Link](0_ARCHIVE/Summer-2022/README.md) |
-
-
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
 - Benjamin Leiding
