@@ -4,7 +4,12 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 ## Course Content
 
-- TODO
+- Understanding the concept of a circular economy, sustainability, and related concepts (biocapacity, etc.).
+- Gain a basic understanding of causes, dimensions, and the characterization of climate change, environmental pollution, and dwindling non-renewable resources. 
+- Introduction to IoT and cyberphysical systems in the circular economy
+- Sensors and actuators for IoT, control and process systems of the circular economy
+- Experience in prototyping IoT applications and systems
+- The ability to critically assess upcoming technological solutions enabling/facilitating sustainability and the circular economy.
 
 ## Lectures
 
@@ -27,7 +32,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 
 ## Contributors (past and present)
-- Arne Bochem
 - Anant Sujatanagarjuna
 - Benjamin Leiding
 - Shohreh Kia
+- Sandra Nowosad
