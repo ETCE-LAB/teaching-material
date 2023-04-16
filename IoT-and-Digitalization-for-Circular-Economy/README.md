@@ -10,24 +10,24 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 | ID   | Topic                                    | Slides                                                            | Video                                                                                                          |
 |------|------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| L00  | Organization                             |    |  |
-| L01  | Introduction                             |    |  |
-| L02  | Circular Economy I                       |    |  |
-| L03  | Life Cycle Assessment (LCA)              |    |  |
-| L04  | Introduction to the Internet of Things   |    |  |
-| L05a | IoT Communication                        |    |  |
-| L05b | IoT Security & Privacy                   |    |  |
-| L06  | IoT Data Processing & Big Data           |    |  |
-| L07  | Industrial IoT                           |    |  |
-| L08  | IoT in Mining I                          |    |  |
-| L09  | IoT in Mining II                         |    |  |
+| L00  | Organization                             | [Slides](IoT-L00-Organization.pdf)                               |  |
+| L01  | Introduction                             | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf)                               |  |
+| L02  | Circular Economy                         |   |   | 
+| L03  | Lifecycle Assessment (LCA)               |   |   |
+|      | OpenLCA Tutorial                         | - |   |
+| L04  | Introduction to the Internet of Things   |   |   |
+| L05a | IoT Communication                        |   |   |
+| L05b | IoT Security & Privacy                   |   |   |
+| L06  | IoT Data Processing & Big Data           |   |   |
+|      | Extra MOOC Content - Foodsharing         |   |   |
+| L07  | Industrial IoT                           |   |   |
+| L08  | IoT in Mining I                          |   |   |
+| L09  | IoT in Mining II                         |   |   |
+| L10  | Technologies for Sustainability (MOOC)   |   |   |
 
 
 ## Contributors (past and present)
 - Arne Bochem
 - Anant Sujatanagarjuna
 - Benjamin Leiding
-- Keerthi Adabala
-- Mayutan Arumaithurai
-- Priyanka Sharma
 - Shohreh Kia

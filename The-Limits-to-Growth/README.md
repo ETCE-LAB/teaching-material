@@ -18,14 +18,15 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | ID    | Topic                                   | Slides                                                | Video |
 |-------|-----------------------------------------|-------------------------------------------------------|-------|
 | L00   | Organization                            | [Slides](LTG-L00-Organization.pdf)      |  |
-| L01   | Introduction           		  | |  |
+| L01   | Introduction           		          | |  |
 | L02   | 	  |  |  |
 | L03   |  	  |  |  |
 | L04   | 	  |  |  |
-| L05   | Lifecycle Assessment (LCA)      |   |  |
-| L05   | OpenLCA Tutorial                | - |  |
+| L05   | Lifecycle Assessment (LCA)              |   |  |
+|       | OpenLCA Tutorial                        | - |  |
 | L06   |  	  |  |  |
 | L07   |  	  |  |  |
+|       | Extra MOOC Content - Foodsharing        |   |   |
 | L08   | 	  |  |  |
 | L09   | 	  |  |  |
 | L10   |	  |  |  |
