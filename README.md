@@ -9,7 +9,7 @@ We are committed to make all of our teaching material available to the public. F
 - [Emerging Technologies for the Circular Economy](https://github.com/ETCE-LAB/teaching-material/tree/master/Emerging-Technologies-for-the-Circular-Economy)
 - [The Limits to Growth - Sustainability and the Circular Economy](https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth)
 - [Requirements Engineering](https://github.com/ETCE-LAB/teaching-material/tree/master/Requirements-Engineering)
-- [IoT and Digitalization for Circular Economy](https://github.com/ETCE-LAB/teaching-material/tree/master/IoT-and-Digitalization-for-Circular-Economy)
+- [IoT and Digitalization for the Circular Economy](https://github.com/ETCE-LAB/teaching-material/tree/master/IoT-and-Digitalization-for-Circular-Economy)
 
 ## Feedback/Issues
 Please report issues via the bug tracker or leave a comment.

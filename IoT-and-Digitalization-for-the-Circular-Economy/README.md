@@ -1,6 +1,6 @@
 <img src="https://www.presse.tu-clausthal.de/fileadmin/Presse/images/Corporate_Design/Logo/Logo_TUC_en_CMYK.jpg" width="300">
 
-This repository contains the teaching materials of the "IoT and Digitalization for Circular Economy" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
+This repository contains the teaching materials of the "IoT and Digitalization for the Circular Economy" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
 
 ## Course Content
 
