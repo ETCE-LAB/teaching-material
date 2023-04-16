@@ -31,6 +31,23 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L11  | Blockchain Technology and Sustainability |   |   |
 | L12  | Invited Lecture XOR The M2X Economy      |   |   |
 
+## Exercises
+
+| ID    | Topic                                   | Exercise Sheets                                    |
+|-------|-----------------------------------------|----------------------------------------------------|
+| E01   | Knowledge Test (MC)                     | - |
+| E02   | Circular Economy (MC)                   | - |
+| E03   | Lifecycle Assessment (LCA)              |   |
+| E04   | IoT Sensing and Gathering Data          |   |
+| E05   | IoT Security                            |   |
+| E06   | IoT Data Processing                     |   |
+| E07   | Industrial IoT                          |   |
+| E08   | Blockchain (MC)                         | - |
+| E09   | Blockchain - Getting Started            |   |
+| E10   | Blockchain - Consensus                  |   |
+| E11   | Blockchain - Tokens                     |   |
+| E12   | Blockchain - Smart Contracts and IoT    |   |
+
 
 ## Lecture Materials of Previous Semesters
 
