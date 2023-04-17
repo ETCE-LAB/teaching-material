@@ -14,22 +14,46 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 | ID   | Topic                                    | Slides                                                            | Video                                                                                                          |
 |------|------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| L00  | Organization                             | [Slides](ETCE-L00-Organization.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L01  | Introduction                             | [Slides](ETCE-L01-Introduction.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L02  | Circular Economy I                       | [Slides](ETCE-L02-Circular-Economy-I.pdf)                         | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L03  | Circular Economy II                      | [Slides](ETCE-L03-Circular-Economy-II.pdf)                        | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)                    | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf)                        | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)                  | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf)            | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L07  | Introduciton to Blockchain Technology    | [Slides](ETCE-L07-BC1--Introduction-to-Blockchain-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L08  | Blockchain Consensus                     | [Slides](ETCE-L08-BC2--Consensus.pdf)                             | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L09  | Ethereum and Smart Contracts I           | [Slides](ETCE-L09-BC3--Ethereum-and-Smart-Contracts--PART-1.pdf)  | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L10  | Ethereum and Smart Contracts II          | [Slides](ETCE-L10-BC4--Ethereum-and-Smart-Contracts--PART-2.pdf)  | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L11  | Invited Lecture                          | -                                                                 | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L12  | Invited Lecture                          | -                                                                 | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L13  | Blockchain Technology and Sustainability | [Slides](ETCE-L13-BC5--Blockchain-Sustainability.pdf)             | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
-| L14  | The M2X Economy                          | [Slides](ETCE-L14-The-M2X-Economy.pdf)                            | [Video](https://video.tu-clausthal.de/vorlesung/emerging-technologies-for-the-circular-economy-ss22_1268.html) |
+| L00  | Organization                             | [Slides](ETCE-L00-Organization.pdf)                               |  |
+| L01  | Introduction                             | [Slides](ETCE-L01-Introduction.pdf)                               |  |
+| L02  | Circular Economy                         |   |   | 
+| L03  | Lifecycle Assessment (LCA)               |   |   |
+|      | OpenLCA Tutorial                         | - |   |
+| L04  | Introduction to the Internet of Things   |   |   |
+| L05a | IoT Communication                        |   |   |
+| L05b | IoT Security & Privacy                   |   |   |
+| L06  | IoT Data Processing & Big Data           |   |   |
+|      | Extra MOOC Content - Foodsharing         |   |   |
+| L07  | Industrial IoT                           |   |   |
+| L08  | Introduciton to Blockchain Technology    |   |   |
+| L09  | Blockchain Consensus                     |   |   |
+| L10  | Ethereum and Smart Contracts             |   |   |
+| L11  | Blockchain Technology and Sustainability |   |   |
+| L12  | Invited Lecture XOR The M2X Economy      |   |   |
+
+## Exercises
+
+| ID    | Topic                                   | Exercise Sheets                                    |
+|-------|-----------------------------------------|----------------------------------------------------|
+| E01   | Knowledge Test (MC)                     | - |
+| E02   | Circular Economy (MC)                   | - |
+| E03   | Lifecycle Assessment (LCA)              |   |
+| E04   | IoT Sensing and Gathering Data          |   |
+| E05   | IoT Security                            |   |
+| E06   | IoT Data Processing                     |   |
+| E07   | Industrial IoT                          |   |
+| E08   | Blockchain (MC)                         | - |
+| E09   | Blockchain - Getting Started            |   |
+| E10   | Blockchain - Consensus                  |   |
+| E11   | Blockchain - Tokens                     |   |
+| E12   | Blockchain - Smart Contracts and IoT    |   |
+
+
+## Lecture Materials of Previous Semesters
+
+|                |                                         | 
+|----------------|-----------------------------------------|
+| 2022 - Summer  | [Link](0_ARCHIVE/Summer-2022/README.md) |
 
 ## Contributors (past and present)
 - Arne Bochem
