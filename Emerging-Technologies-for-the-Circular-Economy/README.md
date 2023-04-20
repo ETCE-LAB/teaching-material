@@ -14,8 +14,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 | ID   | Topic                                    | Slides                                                            | Video                                                                                                          |
 |------|------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| L00  | Organization                             | [Slides](ETCE-L00-Organization.pdf)                               |  |
-| L01  | Introduction                             | [Slides](ETCE-L01-Introduction.pdf)                               |  |
+| L00  | Organization                             | [Slides](ETCE-L00-Organization.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1336.html?token=RENwTTU2SU0wUGpPRm50dGtLNG1jRGd6K1JaOWZSVEhBMDFEZVRmaTdVWT0=)  |
+| L01  | Introduction                             | [Slides](ETCE-L01-Introduction.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1336.html?token=RENwTTU2SU0wUGpPRm50dGtLNG1jRGd6K1JaOWZSVEhBMDFEZVRmaTdVWT0=) |
 | L02  | Circular Economy                         |   |   | 
 | L03  | Lifecycle Assessment (LCA)               |   |   |
 |      | OpenLCA Tutorial                         | - |   |
