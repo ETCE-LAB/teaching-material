@@ -35,8 +35,8 @@ This repository contains the teaching materials of the "The Limits to Growth –
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Sustainability    | [Exercise](Exercises/E01-Sustainability.pdf) |
-| E02   | Carbon Footprint  |
+| E01   | Sustainability    | [Exercise](Exercises/E01-Sustainability.pdf)  |
+| E02   | Carbon Footprint  | [Exercise](Exercises/E02-CarbonFootprint.pdf) |
 | E03   |                   |       |
 | E04   |                   |       |
 | E05   |                   |       |
