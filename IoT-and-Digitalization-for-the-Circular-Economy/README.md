@@ -17,7 +17,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 |------|------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | L00  | Organization                             | [Slides](IoT-CE-L00-Organization.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1337.html?token=V3dNYk0ydEFEVnlwMkVHSGlleXhETnAzcHZaK0FXZ0MxanEzVkRwaTE1cz0=) |
 | L01  | Introduction                             | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1337.html?token=V3dNYk0ydEFEVnlwMkVHSGlleXhETnAzcHZaK0FXZ0MxanEzVkRwaTE1cz0=)  |
-| L02  | Circular Economy                         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf) |   | 
+| L02  | Circular Economy                         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf) | Video](https://video.tu-clausthal.de/vorlesung/1337.html?token=V3dNYk0ydEFEVnlwMkVHSGlleXhETnAzcHZaK0FXZ0MxanEzVkRwaTE1cz0=) | 
 | L03  | Lifecycle Assessment (LCA)               |   |   |
 |      | OpenLCA Tutorial                         | - |   |
 | L04  | Introduction to the Internet of Things   |   |   |
