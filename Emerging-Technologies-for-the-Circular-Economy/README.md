@@ -52,7 +52,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 |                                                                            |
 |----------------------------------------------------------------------------|
-| [Mushroom Substrate Bag OpenLCA file](OpenLCA/Mushroom Substrate Bag.xlsx) |
+| [Mushroom Substrate Bag OpenLCA file](OpenLCA/Mushroom-Substrate-Bag.xlsx) |
 
 ## Lecture Materials of Previous Semesters
 
