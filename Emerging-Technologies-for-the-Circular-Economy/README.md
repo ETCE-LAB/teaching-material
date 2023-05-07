@@ -48,6 +48,11 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E11   | Blockchain - Tokens                     |   |
 | E12   | Blockchain - Smart Contracts and IoT    |   |
 
+## Extra Material
+
+|                                                                            |
+|----------------------------------------------------------------------------|
+| [Mushroom Substrate Bag OpenLCA file](OpenLCA/Mushroom Substrate Bag.xlsx) |
 
 ## Lecture Materials of Previous Semesters
 
