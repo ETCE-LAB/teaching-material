@@ -15,9 +15,9 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 | ID   | Topic                                    | Slides                                                            | Video                                                                                                          |
 |------|------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| L00  | Organization                             | [Slides](IoT-CE-L00-Organization.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1337.html) |
-| L01  | Introduction                             | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1337.html)  |
-| L02  | Circular Economy                         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html) | 
+| L00  | Organization                             | [Slides](IoT-CE-L00-Organization.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=1) |
+| L01  | Introduction                             | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=2)  |
+| L02  | Circular Economy                         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=3) | 
 | L03  | Lifecycle Assessment (LCA)               |   |   |
 |      | OpenLCA Tutorial                         | - |   |
 | L04  | Introduction to the Internet of Things   |   |   |
