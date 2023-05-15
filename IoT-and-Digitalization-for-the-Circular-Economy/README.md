@@ -13,22 +13,22 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 ## Lectures
 
-| ID   | Topic                                    | Slides                                                            | Video                                                                                                          |
-|------|------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| L00  | Organization                             | [Slides](IoT-CE-L00-Organization.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1337.html) |
-| L01  | Introduction                             | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1337.html)  |
-| L02  | Circular Economy                         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html) | 
-| L03  | Lifecycle Assessment (LCA)               |   |   |
-|      | OpenLCA Tutorial                         | - |   |
-| L04  | Introduction to the Internet of Things   |   |   |
-| L05a | IoT Communication                        |   |   |
-| L05b | IoT Security & Privacy                   |   |   |
-| L06  | IoT Data Processing & Big Data           |   |   |
-|      | Extra MOOC Content - Foodsharing         |   |   |
-| L07  | Industrial IoT                           |   |   |
-| L08  | IoT in Mining I                          |   |   |
-| L09  | IoT in Mining II                         |   |   |
-| L10  | Technologies for Sustainability (MOOC)   |   |   |
+| ID   | Topic                                  | Slides                                                                                                                                               | Video                                                          |
+|------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| L00  | Organization                           | [Slides](IoT-CE-L00-Organization.pdf)                                                                                                                | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=1) |
+| L01  | Introduction                           | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf)         | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=2) |
+| L02  | Circular Economy                       | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf)     | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=3) |
+| L03  | Lifecycle Assessment (LCA)             | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L03-Lifecycle-Assessment.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=5)                                                               |
+|      | OpenLCA Tutorial                       | -                                                                                                                                                    | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=4) |
+| L04  | Introduction to the Internet of Things |                                                                                                                                                      |                                                                |
+| L05a | IoT Communication                      |                                                                                                                                                      |                                                                |
+| L05b | IoT Security & Privacy                 |                                                                                                                                                      |                                                                |
+| L06  | IoT Data Processing & Big Data         |                                                                                                                                                      |                                                                |
+|      | Extra MOOC Content - Foodsharing       |                                                                                                                                                      |                                                                |
+| L07  | Industrial IoT                         |                                                                                                                                                      |                                                                |
+| L08  | IoT in Mining I                        |                                                                                                                                                      |                                                                |
+| L09  | IoT in Mining II                       |                                                                                                                                                      |                                                                |
+| L10  | Technologies for Sustainability (MOOC) |                                                                                                                                                      |                                                                |
 
 
 ## Contributors (past and present)

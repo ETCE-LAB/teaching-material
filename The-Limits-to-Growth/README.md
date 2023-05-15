@@ -17,10 +17,10 @@ This repository contains the teaching materials of the "The Limits to Growth –
 
 | ID    | Topic                                   | Slides                                                | Video |
 |-------|-----------------------------------------|-------------------------------------------------------|-------|
-| L00   | Organization                            | [Slides](LTG-L00-Organization.pdf)      | [Video](https://video.tu-clausthal.de/vorlesung/1338.html) |
-| L01   | Introduction           		          | [Slides](LTG-L01-Introduction.pdf)  | [Video](https://video.tu-clausthal.de/vorlesung/1338.html) |
-| L02   | Challenges I - Climate Change | [Slides](LTG-L02-Challenges-I.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html) |
-| L03   | Challenges II | [Slides](LTG-L03-Challenges-II.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html) |
+| L00   | Organization                            | [Slides](LTG-L00-Organization.pdf)      | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=1) |
+| L01   | Introduction           		          | [Slides](LTG-L01-Introduction.pdf)  | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=2) |
+| L02   | Challenges I - Climate Change | [Slides](LTG-L02-Challenges-I.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=3) |
+| L03   | Challenges II | [Slides](LTG-L03-Challenges-II.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=4) |
 | L04   | 	  |  |  |
 | L05   | Lifecycle Assessment (LCA)              |   |  |
 |       | OpenLCA Tutorial                        | - |  |
