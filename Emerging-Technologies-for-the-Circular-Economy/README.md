@@ -19,9 +19,10 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L02  | Circular Economy                         | [Slides](ETCE-L02-Circular-Economy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=3) | 
 | L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=5) |
 |      | OpenLCA Tutorial                         | - | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=4) |
-| L04  | Introduction to the Internet of Things   |   |   |
-| L05a | IoT Communication                        |   |   |
-| L05b | IoT Security & Privacy                   |   |   |
+| L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf) |   |
+|      | Python Exercise Tutorial                 | - | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=6) |
+| L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf) |   |
+| L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf) |   |
 | L06  | IoT Data Processing & Big Data           |   |   |
 |      | Extra MOOC Content - Foodsharing         |   |   |
 | L07  | Industrial IoT                           |   |   |
