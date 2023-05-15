@@ -19,12 +19,12 @@ This repository contains the teaching materials of the "The Limits to Growth –
 |-------|-----------------------------------------|-------------------------------------------------------|-------|
 | L00   | Organization                            | [Slides](LTG-L00-Organization.pdf)      | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=1) |
 | L01   | Introduction           		          | [Slides](LTG-L01-Introduction.pdf)  | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=2) |
-| L02   | Challenges I - Climate Change | [Slides](LTG-L02-Challenges-I.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=3) |
-| L03   | Challenges II | [Slides](LTG-L03-Challenges-II.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=4) |
-| L04   | 	  |  |  |
-| L05   | Lifecycle Assessment (LCA)              |   |  |
+| L02   | Challenges I - Climate Change           | [Slides](LTG-L02-Challenges-I.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=3) |
+| L03   | Challenges II                           | [Slides](LTG-L03-Challenges-II.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=4) |
+| L04   | Sustainability and Political (In-)Action| [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=5) |
+| L05   |     |   |  |
+| L06   | Lifecycle Assessment (LCA)              |   |  |
 |       | OpenLCA Tutorial                        | - |  |
-| L06   |  	  |  |  |
 | L07   |  	  |  |  |
 |       | Extra MOOC Content - Foodsharing        |   |   |
 | L08   | 	  |  |  |
@@ -35,10 +35,10 @@ This repository contains the teaching materials of the "The Limits to Growth –
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Sustainability    | [Exercise](Exercises/E01-Sustainability.pdf)  |
-| E02   | Carbon Footprint  | [Exercise](Exercises/E02-CarbonFootprint.pdf) |
-| E03   | Household Waste   | [Exercise](Exercises/E03-Household-Waste.pdf) |
-| E04   |                   |       |
+| E01   | Sustainability                    | [Exercise](Exercises/E01-Sustainability.pdf)             |
+| E02   | Carbon Footprint                  | [Exercise](Exercises/E02-CarbonFootprint.pdf)            |
+| E03   | Household Waste                   | [Exercise](Exercises/E03-Household-Waste.pdf)            |
+| E04   | National Sustainability Discourse | [Exercise](Exercises/E04-National-Sustainability-Discourse.pdf) |
 | E05   |                   |       |
 | E06   |                   |       |
 | E07   |                   |       |
