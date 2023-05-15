@@ -22,9 +22,9 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | L02   | Challenges I - Climate Change           | [Slides](LTG-L02-Challenges-I.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=3) |
 | L03   | Challenges II                           | [Slides](LTG-L03-Challenges-II.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=4) |
 | L04   | Sustainability and Political (In-)Action| [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=5) |
-| L05   | Lifecycle Assessment (LCA)              |   |  |
+| L05   |     |   |  |
+| L06   | Lifecycle Assessment (LCA)              |   |  |
 |       | OpenLCA Tutorial                        | - |  |
-| L06   |  	  |  |  |
 | L07   |  	  |  |  |
 |       | Extra MOOC Content - Foodsharing        |   |   |
 | L08   | 	  |  |  |
