@@ -40,8 +40,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E02   | Circular Economy (MC)                   | [Exercise](Exercises/E02-CE-MC-Test.pdf)   |
 | E03   | Lifecycle Assessment (LCA)              | [Exercise](Exercises/E03-LCA-of-My-Favourite-Food.pdf)   |
 | E04   | IoT Sensing and Gathering Data          | [Exercise](Exercises/E04-IoT-Sensing.pdf)   |
-| E05   | IoT Security                            |   |
-| E06   | IoT Data Processing                     |   |
+| E05   | IoT Data Processing                     | [Exercise](Exercises/E05-IoT-Proceessing.pdf) |
+| E06   | IoT Security                            |   |
 | E07   | Industrial IoT                          |   |
 | E08   | Blockchain (MC)                         |   |
 | E09   | Blockchain - Getting Started            |   |
