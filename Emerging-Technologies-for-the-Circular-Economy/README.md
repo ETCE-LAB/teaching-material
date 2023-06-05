@@ -21,9 +21,9 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 |      | OpenLCA Tutorial                         | - | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=4) |
 | L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=7) |
 |      | Python Exercise Tutorial                 | - | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=6) |
-| L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=7) |
-| L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=7) |
-| L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
+| L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
+| L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
+| L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=9) |
 | L07  | Industrial IoT                           |   |   |
 |      | Extra MOOC Content - Foodsharing         |   |   |
 | L08  | Introduciton to Blockchain Technology    |   |   |
