@@ -23,9 +23,9 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 |      | Python Exercise Tutorial                 | - | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=6) |
 | L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=7) |
 | L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=7) |
-| L06  | IoT Data Processing & Big Data           |   |   |
-|      | Extra MOOC Content - Foodsharing         |   |   |
+| L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
 | L07  | Industrial IoT                           |   |   |
+|      | Extra MOOC Content - Foodsharing         |   |   |
 | L08  | Introduciton to Blockchain Technology    |   |   |
 | L09  | Blockchain Consensus                     |   |   |
 | L10  | Ethereum and Smart Contracts             |   |   |
@@ -40,8 +40,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E02   | Circular Economy (MC)                   | [Exercise](Exercises/E02-CE-MC-Test.pdf)   |
 | E03   | Lifecycle Assessment (LCA)              | [Exercise](Exercises/E03-LCA-of-My-Favourite-Food.pdf)   |
 | E04   | IoT Sensing and Gathering Data          | [Exercise](Exercises/E04-IoT-Sensing.pdf)   |
-| E05   | IoT Security                            |   |
-| E06   | IoT Data Processing                     |   |
+| E05   | IoT Data Processing                     | [Exercise](Exercises/E05-IoT-Proceessing.pdf) |
+| E06   | IoT Security                            | [Exercise](Exercises/E06-IoT-Security.pdf) |
 | E07   | Industrial IoT                          |   |
 | E08   | Blockchain (MC)                         |   |
 | E09   | Blockchain - Getting Started            |   |

@@ -23,12 +23,12 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L04  | Introduction to the Internet of Things | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L04-Introduction-to-the-IoT.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=6) |
 | L05a | IoT Communication                      | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05a-IoT-Communications.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=7) |
 | L05b | IoT Security & Privacy                 | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05b-IoT-Security-and-Privacy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=7) |
-| L06  | IoT Data Processing & Big Data         |                                                                                                                                                      |                                                                |
-|      | Extra MOOC Content - Foodsharing       |                                                                                                                                                      |                                                                |
-| L07  | Industrial IoT                         |                                                                                                                                                      |                                                                |
-| L08  | IoT in Mining I                        |                                                                                                                                                      |                                                                |
-| L09  | IoT in Mining II                       |                                                                                                                                                      |                                                                |
-| L10  | Technologies for Sustainability (MOOC) |                                                                                                                                                      |                                                                |
+| L06  | IoT Data Processing & Big Data         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L06-IoT-Data-Processing-and-BigData.pdf    | (https://video.tu-clausthal.de/vorlesung/1337.html#k=8) |
+| L07  | Industrial IoT                         | | |
+|      | Extra MOOC Content - Foodsharing       | | |
+| L08  | IoT in Mining I                        | | |
+| L09  | IoT in Mining II                       | | |
+| L10  | Technologies for Sustainability (MOOC) | | |
 
 
 ## Contributors (past and present)
