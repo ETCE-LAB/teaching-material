@@ -25,9 +25,9 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | L05   | Limits to Growth and Planetary Boundaries | [Slides](LTG-L05-Limits-to-Growth-and-Planetary-Boundaries.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=6) |
 | L06   | Lifecycle Assessment (LCA)                | [Slides](LTG-L06-Lifecycle-Assessment.pdf)                      | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=7) |
 |       | OpenLCA Tutorial                          | -                                                               | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=8) |
-| L07   |  	  |  |  |
-|       | Extra MOOC Content - Foodsharing          |   |   |
-| L08   | 	  |  |  |
+| L07   | Circular Economy                          | [Slides](LTG-L07-Circular-Economy.pdf)                          | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=9) |
+|       | Extra MOOC Content - Foodsharing          | -  | [Link](https://ltg.etce-lab.de)  |
+| L08   | Circular Societies                        |  |  |
 | L09   | 	  |  |  |
 | L10   |	  |  |  |
 
@@ -41,7 +41,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | E04   | National Sustainability Discourse | [Exercise](Exercises/E04-National-Sustainability-Discourse.pdf) |
 | E05   | World3                            | [Exercise](Exercises/E05-World3.pdf)                     |
 | E06   | Lifecycle Assessment (LCA)	    | [Exercise](Exercises/E06-LCA.pdf)                        |
-| E07   |                   |       |
+| E07   | MOOC Content I                    | [Exercise](Exercises/E07-Sustainable-Everyday-Practices.pdf)  |
 | E08   |                   |       |
 
 ## Lecture Materials of Previous Semesters
