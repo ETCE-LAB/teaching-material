@@ -27,7 +27,7 @@ This repository contains the teaching materials of the "The Limits to Growth –
 |       | OpenLCA Tutorial                          | -                                                               | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=8) |
 | L07   | Circular Economy                          | [Slides](LTG-L07-Circular-Economy.pdf)                          | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=9) |
 |       | Extra MOOC Content - Foodsharing          | -  | [Link](https://ltg.etce-lab.de)  |
-| L08   | Circular Societies                        | [Slides](LTG-L08-Circular-Societies.pdf) | https://video.tu-clausthal.de/vorlesung/1338.html#k=10) |
+| L08   | Circular Societies                        | [Slides](LTG-L08-Circular-Societies.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=10) |
 | L09   | Beyond the Circular Economy               |  |  |
 | L10   |	  |  |  |
 
