@@ -25,8 +25,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
 | L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=9) |
 | L07  | Industrial IoT                           | StudIP | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=10) |
-|      | Extra MOOC Content - Foodsharing         |   |   |
 | L08  | Introduciton to Blockchain Technology    |   |   |
+|      | Extra MOOC Content - Foodsharing         |   |   |
 | L09  | Blockchain Consensus                     |   |   |
 | L10  | Ethereum and Smart Contracts             |   |   |
 | L11  | Blockchain Technology and Sustainability |   |   |
