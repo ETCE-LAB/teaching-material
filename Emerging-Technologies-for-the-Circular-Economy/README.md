@@ -24,7 +24,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
 | L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
 | L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=9) |
-| L07  | Industrial IoT                           |   |   |
+| L07  | Industrial IoT                           | StudIP | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=10) |
 |      | Extra MOOC Content - Foodsharing         |   |   |
 | L08  | Introduciton to Blockchain Technology    |   |   |
 | L09  | Blockchain Consensus                     |   |   |
@@ -42,12 +42,11 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E04   | IoT Sensing and Gathering Data          | [Exercise](Exercises/E04-IoT-Sensing.pdf)   |
 | E05   | IoT Data Processing                     | [Exercise](Exercises/E05-IoT-Proceessing.pdf) |
 | E06   | IoT Security                            | [Exercise](Exercises/E06-IoT-Security.pdf) |
-| E07   | Industrial IoT                          |   |
-| E08   | Blockchain (MC)                         |   |
-| E09   | Blockchain - Getting Started            |   |
-| E10   | Blockchain - Consensus                  |   |
-| E11   | Blockchain - Tokens                     |   |
-| E12   | Blockchain - Smart Contracts and IoT    |   |
+| E07   | Blockchain (MC)                         |   |
+| E08   | Blockchain - Getting Started            |   |
+| E09   | Blockchain - Consensus                  |   |
+| E10   | Blockchain - Tokens                     |   |
+| E11   | Blockchain - Smart Contracts and IoT    |   |
 
 ## Extra Material
 
