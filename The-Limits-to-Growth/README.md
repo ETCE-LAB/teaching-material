@@ -28,8 +28,8 @@ This repository contains the teaching materials of the "The Limits to Growth –
 | L07   | Circular Economy                          | [Slides](LTG-L07-Circular-Economy.pdf)                          | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=9) |
 |       | Extra MOOC Content - Foodsharing          | -  | [Link](https://ltg.etce-lab.de)  |
 | L08   | Circular Societies                        | [Slides](LTG-L08-Circular-Societies.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1338.html#k=10) |
-| L09   | Beyond the Circular Economy               |  |  |
-| L10   |	  |  |  |
+| L09   | Technology                      | [Slides](0_ARCHIVE/Summer-2022/LTG-L09-Technology.pdf)                | [Video](https://video.tu-clausthal.de/vorlesung/1270.html#k=12) |
+| L10   | Now What?                       | [Slides](0_ARCHIVE/Summer-2022/LTG-L10-Now-What.pdf)                  | [Video](https://video.tu-clausthal.de/vorlesung/1270.html#k=13) |
 
 ## Exercises
 
