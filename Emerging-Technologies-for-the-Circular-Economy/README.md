@@ -27,8 +27,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L07  | Industrial IoT                           | StudIP | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=10) |
 | L08  | Introduciton to Blockchain Technology    | [Slides](ETCE-L08-BC1--Introduction-to-Blockchain-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=11) |
 |      | Extra MOOC Content - Foodsharing         | - | [Link](https://ltg.etce-lab.de)  |
-| L09  | Blockchain Consensus                     | [Slides](ETCE-L08-BC2--Consensus.pdf)                             | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=12) |
-| L10  | Ethereum and Smart Contracts             |   |   |
+| L09  | Blockchain Consensus                     | [Slides](ETCE-L09-BC2--Consensus.pdf)                             | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=12) |
+| L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=13) |
 | L11  | Blockchain Technology and Sustainability |   |   |
 | L12  | Invited Lecture XOR The M2X Economy      |   |   |
 
@@ -42,9 +42,9 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E04   | IoT Sensing and Gathering Data          | [Exercise](Exercises/E04-IoT-Sensing.pdf)   |
 | E05   | IoT Data Processing                     | [Exercise](Exercises/E05-IoT-Proceessing.pdf) |
 | E06   | IoT Security                            | [Exercise](Exercises/E06-IoT-Security.pdf) |
-| E07   | Blockchain (MC)                         |   |
-| E08   | Blockchain - Getting Started            |   |
-| E09   | Blockchain - Consensus                  |   |
+| E07   | Blockchain (MC)                         | [Exercise](Exercises/E07-BC-MC-Quiz.pdf) |
+| E08   | Blockchain - Getting Started            | [Exercise](Exercises/E08-Blockchain.pdf) |
+| E09   | Blockchain - Consensus                  | [Exercise](Exercises/E08-Blockchain-Consensus.pdf) |
 | E10   | Blockchain - Tokens                     |   |
 | E11   | Blockchain - Smart Contracts and IoT    |   |
 

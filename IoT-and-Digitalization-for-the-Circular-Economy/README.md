@@ -27,7 +27,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L07  | Industrial IoT                         | StudIP | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=9) |
 | L08  | IoT in Mining I                        | StudIP | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=10) |
 |      | Extra MOOC Content - Foodsharing       | - | [Link](https://ltg.etce-lab.de)  |
-| L09  | IoT in Mining II                       |  | |
+| L09  | IoT in Mining II                       | No Slides | No Video |
 | L10  | Technologies for Sustainability (MOOC) | | |
 
 
