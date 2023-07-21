@@ -29,8 +29,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 |      | Extra MOOC Content - Foodsharing         | - | [Link](https://ltg.etce-lab.de)  |
 | L09  | Blockchain Consensus                     | [Slides](ETCE-L09-BC2--Consensus.pdf)                             | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=12) |
 | L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=13) |
-| L11  | Blockchain Technology and Sustainability |   |   |
-| L12  | Invited Lecture XOR The M2X Economy      |   |   |
+| L11  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC4--Blockchain-Sustainability.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=14) |
+| L12  | Invited Lecture XOR The M2X Economy      | [Slides](ETCE-L12-The-M2X-Economy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=15) |
 
 ## Exercises
 
@@ -44,9 +44,9 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E06   | IoT Security                            | [Exercise](Exercises/E06-IoT-Security.pdf) |
 | E07   | Blockchain (MC)                         | [Exercise](Exercises/E07-BC-MC-Quiz.pdf) |
 | E08   | Blockchain - Getting Started            | [Exercise](Exercises/E08-Blockchain.pdf) |
-| E09   | Blockchain - Consensus                  | [Exercise](Exercises/E08-Blockchain-Consensus.pdf) |
-| E10   | Blockchain - Tokens                     |   |
-| E11   | Blockchain - Smart Contracts and IoT    |   |
+| E09   | Blockchain - Consensus                  | [Exercise](Exercises/E09-Blockchain-Consensus.pdf) |
+| E10   | Blockchain - Tokens                     | [Exercise](Exercises/E10-Blockchain-Token.pdf) |
+| E11   | Blockchain - Smart Contracts and IoT    | [Exercise](Exercises/E11-Energy-Trading.pdf) |
 
 ## Extra Material
 
