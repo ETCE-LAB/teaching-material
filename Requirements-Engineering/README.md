@@ -39,12 +39,12 @@ This repository contains the teaching materials of the "Requirements Engineering
 
 | ID    | Topic                                   | Exercise Sheets                                    |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Knowledge Test (MC)                     | [Exercise](Exercises/E01-Inital-MC-Knowledgetest.pdf)   |
-| E02   | Elicitatiopn I                          | [Exercise](Exercises/E02-Elicitation-I.pdf)        |
-| E03   | Elicitatiopn II                         | [Exercise](Exercises/E03-Elicitation-II.pdf)       |
-| E04   | Agent-Oriented Modelling                | [Exercise](Exercises/E04-AOM.pdf)                  |
-| E05   | CPN I                                   | [Exercise](Exercises/E05-CPN-I.pdf)                |
-| E06   | CPN II                                  | [Exercise](Exercises/E06-CPN-II.pdf)               |
+| E01   | Knowledge Test (MC)                     | [Exercise](Exercises/E01-Knowledge-Test-MC/E01-Inital-MC-Knowledgetest.pdf)   |
+| E02   | Elicitatiopn I                          | [Exercise](Exercises/E02-Elicitation-I/E02-Elicitation-I.pdf)        |
+| E03   | Elicitatiopn II                         | [Exercise](Exercises/E02-Elicitation-II/E03-Elicitation-II.pdf)       |
+| E04   | Agent-Oriented Modelling                | [Exercise](Exercises/E04-AOM/E04-AOM.pdf)                  |
+| E05   | CPN I                                   | [Exercise](Exercises/E05-CPN-I/E05-CPN-I.pdf)                |
+| E06   | CPN II                                  | [Exercise](Exercises/E06-CPN-II/E06-CPN-II.pdf)               |
 | E07   | Management                              | - |
 | E08   | Traceability                            | - |
 | E09   | Bonus Task                              | - |
