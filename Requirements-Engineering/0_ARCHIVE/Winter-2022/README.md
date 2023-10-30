@@ -34,21 +34,10 @@ This repository contains the teaching materials of the "Requirements Engineering
 | L12   | Management                    | [Slides](RE-L12_Management.pdf)               |
 | L13   | Tool Support                  | [Slides](RE-L13_Tool-Support.pdf)             |
 
-
-## Lecture Materials of Previous Semesters
-
-|                |                                         | 
-|----------------|-----------------------------------------|
-| 2022 - Winter  | [Link](0_ARCHIVE/Winter-2022/README.md) |
-
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
 - Benjamin Leiding
 - Sepideh Sayadkouh
-- Theresa Sommer
-- Axel Borns
-- John-Nuri Habicht
-- Nisha Muthuraju
 
 ## Disclaimer
 
