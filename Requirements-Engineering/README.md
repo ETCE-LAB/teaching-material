@@ -14,6 +14,9 @@ This repository contains the teaching materials of the "Requirements Engineering
 - Requirements Management
 - Traceability
 
+## MOOC Content
+The MOOC (Massive Open Online Course) for this course is available online: [Link](https://re.etce-lab.de/)
+
 
 ## Lectures
 
