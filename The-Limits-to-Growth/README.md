@@ -20,18 +20,17 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                     | Slides                                                | Video |
 |-------|-------------------------------------------|-------------------------------------------------------|-------|
-| L00   | Organization                              | [Slides](LTG-L00-Organization.pdf)                              | - |
-| L01   | Introduction           		            | [Slides](LTG-L01-Introduction.pdf)                              | - |
-| L02   | Challenges I - Climate Change             | [Slides](LTG-L02-Challenges-I.pdf)                              | - |
-| L03   | Challenges II - Environmental Pollution   | - | - |
-| L04   | Challenges III - Resource Scarcity        | - | - |
+| L00   | Organization                              | [Slides](LTG-L00-Organization.pdf)                    | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b7) |
+| L01   | Introduction           		            | [Slides](LTG-L01-Introduction.pdf)                    | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b7) |
+| L02   | Challenges I - Resource Scarcity & Environmental Pollution | [Slides](LTG-L02-Challenges-I.pdf)   | - |
+| L03   | Challenges II - Climate Change            | [Slides](LTG-L03-Challenges-II.pdf)                   | - |
 
 
 ## Exercises
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Carbon Footprint                        | - |
+| E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf) |
 
 
 ## Lecture Materials of Previous Semesters
@@ -47,3 +46,4 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 - Benjamin Leiding
 - Theresa Sommer
 - Annika Hoppe
+- Axel Borns
