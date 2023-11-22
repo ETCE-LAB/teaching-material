@@ -30,7 +30,9 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf) |
+| E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
+| E02   | Carbon Footprint                        | [Link](Exercises/E02-CarbonFootprint.pdf)          |
+
 
 
 ## Lecture Materials of Previous Semesters
