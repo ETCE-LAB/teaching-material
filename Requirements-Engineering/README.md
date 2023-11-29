@@ -20,43 +20,43 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 ## Lectures
 
-| ID    | Topic                         | Slides                                        |
-|-------|-------------------------------|-----------------------------------------------|
-| L00   | Organization                  | [Slides](RE-L00-Organization.pdf)             |
-| L01   | Introduction                  | [Slides](RE-L01-Introduction.pdf)             |
-| L02   | System Context Boundaries and Types of Requirements | [Slides](RE-L02-System-Context-Boundaries-and-Types-of-Requirements.pdf)                        |
-| L03   | Elicitation - Part 1          | [Slides](RE-L03-Elicitation--Part-1.pdf)      |  
-| L04   | Elicitation - Part 2          | [Slides](RE-L04-Elicitation--Part-2.pdf)      |  
-| L05   | Negotiation                   | [Slides](RE-L05-Negotiation.pdf)              |  
-| L06   | Documentation - Introduction  | [Slides](RE-L06-Documentation--Introduction.pdf)|
-| L07   | Documentation - Textual       | [Slides](RE-L07-Documentation--Textual.pdf)   |
-| L08   | Documentation - Model-based   | [Slides](RE-L08-Documentation--Model-based.pdf)|
-| L09   | Documentation - Formal        | [Slides](RE-L09-Documentation--Formal.pdf)    |
-| L10   | Validation                    | [Slides](RE-L10-Validation.pdf)               |
-| L11   | Traceability                  | [Slides](RE-L11_Traceability.pdf)             |
-| L12   | Management                    | [Slides](RE-L12_Management.pdf)               |
-| L13   | Tool Support                  | [Slides](RE-L13_Tool-Support.pdf)             |
+| ID  | Topic                                               | Slides                                                                   |
+|-----|-----------------------------------------------------|--------------------------------------------------------------------------|
+| L00 | Organization                                        | [Slides](RE-L00-Organization.pdf)                                        |
+| L01 | Introduction                                        | [Slides](RE-L01-Introduction.pdf)                                        |
+| L02 | System Context Boundaries and Types of Requirements | [Slides](RE-L02-System-Context-Boundaries-and-Types-of-Requirements.pdf) |
+| L03 | Elicitation - Part 1                                | [Slides](RE-L03-Elicitation--Part-1.pdf)                                 |
+| L04 | Elicitation - Part 2                                | [Slides](RE-L04-Elicitation--Part-2.pdf)                                 |
+| L05 | Negotiation                                         | [Slides](RE-L05-Negotiation.pdf)                                         |
+| L06 | Documentation - Introduction                        | [Slides](RE-L06-Documentation--Introduction.pdf)                         |
+| L07 | Documentation - Textual                             | [Slides](RE-L07-Documentation--Textual.pdf)                              |
+| L08 | Documentation - Model-based                         | [Slides](RE-L08-Documentation--Model-based.pdf)                          |
+| L09 | Documentation - Formal                              | [Slides](RE-L09-Documentation--Formal.pdf)                               |
+| L10 | Validation                                          | [Slides](RE-L10-Validation.pdf)                                          |
+| L11 | Traceability                                        | [Slides](RE-L11_Traceability.pdf)                                        |
+| L12 | Management                                          | [Slides](RE-L12_Management.pdf)                                          |
+| L13 | Tool Support                                        | [Slides](RE-L13_Tool-Support.pdf)                                        |
 
 
 ## Exercises
 
-| ID    | Topic                                   | Exercise Sheets                                    |
-|-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Knowledge Test (MC)                     | [Exercise](Exercises/E01-Knowledge-Test-MC/E01-Inital-MC-Knowledgetest.pdf)   |
-| E02   | Elicitatiopn I                          | [Exercise](Exercises/E02-Elicitation-I/E02-Elicitation-I.pdf)        |
-| E03   | Elicitatiopn II                         | [Exercise](Exercises/E02-Elicitation-II/E03-Elicitation-II.pdf)       |
-| E04   | Agent-Oriented Modelling                | [Exercise](Exercises/E04-AOM/E04-AOM.pdf)                  |
-| E05   | CPN I                                   | [Exercise](Exercises/E05-CPN-I/E05-CPN-I.pdf)                |
-| E06   | CPN II                                  | [Exercise](Exercises/E06-CPN-II/E06-CPN-II.pdf)               |
-| E07   | Management (MC)                         | - |
-| E08   | Traceability (MC)                       | - |
-| E09   | Bonus Task                              | - |
+| ID  | Topic                    | Exercise Sheets                                                             |
+|-----|--------------------------|-----------------------------------------------------------------------------|
+| E01 | Knowledge Test (MC)      | [Exercise](Exercises/E01-Knowledge-Test-MC/E01-Inital-MC-Knowledgetest.pdf) |
+| E02 | Elicitatiopn I           | [Exercise](Exercises/E02-Elicitation-I/E02-Elicitation-I.pdf)               |
+| E03 | Elicitatiopn II          | [Exercise](Exercises/E02-Elicitation-II/E03-Elicitation-II.pdf)             |
+| E04 | Agent-Oriented Modelling | [Exercise](Exercises/E04-AOM/E04-AOM.pdf)                                   |
+| E05 | CPN I                    | [Exercise](Exercises/E05-CPN-I/E05-CPN-I.pdf)                               |
+| E06 | CPN II                   | [Exercise](Exercises/E06-CPN-II/E06-CPN-II.pdf)                             |
+| E07 | Management (MC)          | [Exercise](Exercises/E07-Management/E07-Management-MC.pdf)                  |
+| E08 | Traceability (MC)        | [Exercise](Exercises/E08-Traceability/E08-Traceability-MC.pdf)              |
+| E09 | Bonus Task               | -                                                                           |
 
 ## Lecture Materials of Previous Semesters
 
-|                |                                         | 
-|----------------|-----------------------------------------|
-| 2022 - Winter  | [Link](0_ARCHIVE/Winter-2022/README.md) |
+|               |                                         |
+|---------------|-----------------------------------------|
+| 2022 - Winter | [Link](0_ARCHIVE/Winter-2022/README.md) |
 
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
