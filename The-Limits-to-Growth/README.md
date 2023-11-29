@@ -22,8 +22,10 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 |-------|-------------------------------------------|-------------------------------------------------------|-------|
 | L00   | Organization                              | [Slides](LTG-L00-Organization.pdf)                    | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b7) |
 | L01   | Introduction           		            | [Slides](LTG-L01-Introduction.pdf)                    | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b7) |
-| L02   | Challenges I - Resource Scarcity & Environmental Pollution | [Slides](LTG-L02-Challenges-I.pdf)   | - |
-| L03   | Challenges II - Climate Change            | [Slides](LTG-L03-Challenges-II.pdf)                   | - |
+| L02   | Challenges I - Resource Scarcity & Environmental Pollution | [Slides](LTG-L02-Challenges-I.pdf)   | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b5) |
+| L03   | Challenges II - Climate Change            | [Slides](LTG-L03-Challenges-II.pdf)                   | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b1) |
+| L04   | Sustainability and Political (In-)Action  | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf) | [Video](https://ltg.etce-lab.de/#/id/6527e26281a06b1e0c975001) |
+| L05   | Foodsharing  | - | [Video](https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b) |
 
 
 ## Exercises
@@ -32,6 +34,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 |-------|-----------------------------------------|----------------------------------------------------|
 | E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
 | E02   | Carbon Footprint                        | [Link](Exercises/E02-CarbonFootprint.pdf)          |
+| E03   | Individual Action                       | [Link](Exercises/E03-Individual-Action.pdf)        |
 
 
 
