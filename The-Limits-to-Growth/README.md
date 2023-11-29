@@ -25,7 +25,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L02   | Challenges I - Resource Scarcity & Environmental Pollution | [Slides](LTG-L02-Challenges-I.pdf)   | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b5) |
 | L03   | Challenges II - Climate Change            | [Slides](LTG-L03-Challenges-II.pdf)                   | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b1) |
 | L04   | Sustainability and Political (In-)Action  | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf) | [Video](https://ltg.etce-lab.de/#/id/6527e26281a06b1e0c975001) |
-| L05   | Foodsharing  | - | [Video](https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b) |
+|       | Foodsharing  | - | [Video](https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b) |
 
 
 ## Exercises
