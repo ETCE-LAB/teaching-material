@@ -50,7 +50,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | E06 | CPN II                   | [Exercise](Exercises/E06-CPN-II/E06-CPN-II.pdf)                             |
 | E07 | Management (MC)          | [Exercise](Exercises/E07-Management/E07-Management-MC.pdf)                  |
 | E08 | Traceability (MC)        | [Exercise](Exercises/E08-Traceability/E08-Traceability-MC.pdf)              |
-| E09 | Bonus Task               | -                                                                           |
+| E09 | Bonus Task               | [Exercise](Exercises/EXX-Bonus-Task/EXX-Bonus-Task.pdf)                                                                           |
 
 ## Lecture Materials of Previous Semesters
 
