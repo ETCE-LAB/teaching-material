@@ -36,7 +36,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
 | E02   | Carbon Footprint                        | [Link](Exercises/E02-CarbonFootprint.pdf)          |
 | E03   | Individual Action                       | [Link](Exercises/E03-Individual-Action.pdf)        |
-| E04   | World3                                  | [Exercise](Exercises/E04-World3.pdf)                     |
+| E04   | World3                                  | [Link](Exercises/E04-World3.pdf)                     |
 
 
 
