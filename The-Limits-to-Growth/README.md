@@ -29,7 +29,6 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L05   | Limits to Growth and Planetary Boundaries | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | - |
 |       | Collapse?                                 | - | - |
 
-
 ## Exercises
 
 | ID    | Topic                                   | Exercise Sheet                                     |
