@@ -27,7 +27,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L04   | Sustainability and Political (In-)Action  | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf) | [Video](https://ltg.etce-lab.de/#/id/6527e26281a06b1e0c975001) |
 |       | Foodsharing                               | -                                                     | [Video](https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b) |
 | L05   | Limits to Growth and Planetary Boundaries | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | - |
-|       | Collapse?                                 | - | - |
+|       | Collapse?                                 | [Slides](LTG-L05b-Bonus-Collapse.pdf) | - |
 
 ## Exercises
 
