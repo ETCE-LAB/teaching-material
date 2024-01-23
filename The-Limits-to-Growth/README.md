@@ -27,7 +27,14 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L04   | Sustainability and Political (In-)Action  | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf) | [Video](https://ltg.etce-lab.de/#/id/6527e26281a06b1e0c975001) |
 |       | Foodsharing                               | -                                                     | [Video](https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b) |
 | L05   | Limits to Growth and Planetary Boundaries | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | - |
-|       | Collapse?                                 | [Slides](LTG-L05b-Bonus-Collapse.pdf) | - |
+|       | Collapse?                                 | [Slides](LTG-L05b-Bonus-Collapse.pdf)                 | - |
+| L06   | Lifecycle Assessment (LCA)                | [Slides](LTG-L06-Lifecycle-Assessment.pdf)            | [Video](https://ltg.etce-lab.de/#/id/653f9386c0d6cf133475356f) |
+| L07   | Technology                                | [Slides](LTG-L07-Technology.pdf)                      | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20c7) |
+| L08   | Circular Economy                          | [Slides](LTG-L08-Circular-Economy.pdf)                | [Video](https://ltg.etce-lab.de/#/id/6527e5c081a06b1e0c978e58) |
+| L09   | Circular Societites                       | [Slides](LTG-L09-Circular-Societies.pdf)              | [Video](https://ltg.etce-lab.de/#/id/6527e5e781a06b1e0c9791b1) |
+| L10   | Beyond the Circular Economy               | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf) | Coming soon |
+
+
 
 ## Exercises
 
@@ -36,7 +43,11 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
 | E02   | Carbon Footprint                        | [Link](Exercises/E02-CarbonFootprint.pdf)          |
 | E03   | Individual Action                       | [Link](Exercises/E03-Individual-Action.pdf)        |
-| E04   | World3                                  | [Link](Exercises/E04-World3.pdf)                     |
+| E04   | World3                                  | [Link](Exercises/E04-World3.pdf)                   |
+| E05   | LCA                                     | [Link](Exercises/E05-LCA.pdf)                      |
+| E06   | Technology Assessment                   | [Link](Exercises/E06-Technology-Assessment.pdf)    |
+| E07   | Circular Economy                        | [Link](Exercises/E07-Circular-Economy.pdf)         |
+| E08   | Circular Societites                     | [Link](Exercises/E08-Circular-Society.pdf)         |
 
 
 
