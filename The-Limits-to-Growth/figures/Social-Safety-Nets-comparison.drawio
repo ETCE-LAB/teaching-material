@@ -1,0 +1,232 @@
+<mxfile host="Electron" modified="2024-01-31T09:21:28.975Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="eLgEiqve9Ma3LpAM4nrt" version="23.0.2" type="device">
+  <diagram name="Page-1" id="--MxNkjy-ZVpS3oQJX_W">
+    <mxGraphModel dx="1736" dy="1404" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_RbL8G9axodsU0meXtCy-52" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#008C4F;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="558" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-34" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#008C4F;fontColor=#1BA1E2;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-278" y="617" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-8" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#f0a30a;fontColor=#000000;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="960" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-13" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#008C4F;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="818" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-16" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#008C4F;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="676" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-56" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#008C4F;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-33" y="617" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-57" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-156" y="676" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-59" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="90" y="676" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-61" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="877" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-62" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="91" y="818" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <UserObject label="School&lt;br&gt;feeding" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-79">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#FFFFFF;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-15.99" y="728.62" width="80" height="52" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-58" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-33" y="735" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-64" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="1019" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-65" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="91" y="960" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-67" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-277" y="1019" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-68" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-277" y="877" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-55" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#008C4F;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-277" y="735" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-12" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#008C4F;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="1078" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-63" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=none;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="936" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-18" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#008C4F;fontColor=#ffffff;strokeColor=#000000;gradientColor=default;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="794" width="245.56" height="260" as="geometry" />
+        </mxCell>
+        <UserObject label="Guaranteed minimum income" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-73">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#FFFFFF;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-394" y="802.14" width="108" height="74.86" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Conditional cash transfers" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-74">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#FFFFFF;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-271.27" y="858.83" width="107.86" height="65" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Public&lt;br&gt;works&lt;br&gt;" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-75">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#FFFFFF;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-139.92" y="924.5" width="80" height="47" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Social pensions" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-76">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#FFFFFF;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-389.5" y="953" width="91" height="49.59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Job guarantee programs" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-78">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#FFFFFF;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-139.92000000000002" y="1196" width="94.42" height="69.98" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Universal basic income" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-80">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#FFFFFF;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-385.5" y="1086" width="91" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Unconditional" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-81">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-432" y="1174.23" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Conditional&lt;br style=&quot;font-size: 16px;&quot;&gt;(services)" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-82">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-315" y="1236.23" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Conditional&lt;br style=&quot;font-size: 16px;&quot;&gt;(work)" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-83">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-192" y="1292.23" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-85" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#000000;rotation=296;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="-280.4" y="1148.43" width="34" height="298.06" as="geometry" />
+        </mxCell>
+        <UserObject label="Conditionality" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-86">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=26;fontFamily=Dejavu Sans;fontColor=#008C4F;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="-362" y="1294.23" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Cash" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-87">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=334;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-46" y="1288" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Vouchers" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-89">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=334;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="74" y="1232" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="In-kind" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-90">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=334;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="194" y="1172" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-93" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#000000;rotation=63;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="166.63" y="1155.77" width="25" height="275" as="geometry" />
+        </mxCell>
+        <UserObject label="Transfer modality" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-95">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=333;fontFamily=Dejavu Sans;fontColor=#008C4F;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="113" y="1289.23" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-96" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#000000;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="-602" y="818" width="33" height="287" as="geometry" />
+        </mxCell>
+        <UserObject label="Needs based" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-97">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-569" y="785" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Categorical" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-98">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-569" y="925" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Universal" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-99">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#000000;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="-569" y="1065" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Targeting" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-100">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#008C4F;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="-739.5" y="926.73" width="166.5" height="67.54" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="850" as="sourcePoint" />
+            <mxPoint x="469" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_RbL8G9axodsU0meXtCy-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.485;entryY=0.235;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;shape=flexArrow;fillColor=#FFB570;width=3.4285714285714284;endSize=5.731428571428571;" edge="1" parent="1" source="_RbL8G9axodsU0meXtCy-103" target="_RbL8G9axodsU0meXtCy-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-436" y="574" as="sourcePoint" />
+            <mxPoint x="469" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Dibao in China" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-103">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#008C4F;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="-505" y="593" width="168" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Supplemental Nutrition Assistance Program (SNAP food stamps) in the United States&amp;nbsp;" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-105">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#008C4F;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="-453" y="462" width="261" height="112" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-106" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.485;entryY=0.235;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;shape=flexArrow;fillColor=#FFB570;width=3.4285714285714284;endSize=5.731428571428571;" edge="1" parent="1" source="_RbL8G9axodsU0meXtCy-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-296" y="524" as="sourcePoint" />
+            <mxPoint x="-161" y="677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Public Distribution System in India" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-107">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#008C4F;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="-166" y="467" width="206.49" height="59" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-108" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;shape=flexArrow;fillColor=#FFB570;width=3.4285714285714284;endSize=5.731428571428571;entryX=0.5;entryY=0.269;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_RbL8G9axodsU0meXtCy-107" target="_RbL8G9axodsU0meXtCy-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-86" y="426" as="sourcePoint" />
+            <mxPoint x="49" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Productive Safety Net Program in Ethiopia" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-109">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#008C4F;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="381" y="938" width="206.49" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-110" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;shape=flexArrow;fillColor=#FFB570;width=3.4285714285714284;endSize=5.731428571428571;entryX=0.737;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_RbL8G9axodsU0meXtCy-109" target="_RbL8G9axodsU0meXtCy-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426" y="840" as="sourcePoint" />
+            <mxPoint x="480" y="1042" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="National Rural Employment Guarantee Scheme in India" placeholders="1" name="Variable" id="_RbL8G9axodsU0meXtCy-111">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;rotation=0;fontFamily=Dejavu Sans;fontColor=#008C4F;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="384" y="1049" width="206.49" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_RbL8G9axodsU0meXtCy-112" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;shape=flexArrow;fillColor=#FFB570;width=3.4285714285714284;endSize=5.731428571428571;entryX=0.713;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_RbL8G9axodsU0meXtCy-111" target="_RbL8G9axodsU0meXtCy-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="988" as="sourcePoint" />
+            <mxPoint x="135" y="1097" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
