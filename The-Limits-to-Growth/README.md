@@ -34,7 +34,8 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L09   | Circular Societites                       | [Slides](LTG-L09-Circular-Societies.pdf)              | [Video](https://ltg.etce-lab.de/#/id/6527e5e781a06b1e0c9791b1) |
 | L10   | Beyond the Circular Economy I             | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf) | [Video](https://ltg.etce-lab.de/#/id/65c34bbf0bc456b7a6741183) |
 | L11   | Beyond the Circular Economy II            | [Slides](LTG-L11-Beyond-the-Circular-Economy--Part-2.pdf) | [Video](https://ltg.etce-lab.de/#/id/65c34bbf0bc456b7a674119b) |
-| L12   | Invited Lecture - Gabriel introduces the CatFarm Project | -                                                     | Coming soon |
+| -     | Invited Lecture - Gabriel introduces the CatFarm Project | -                                          | Coming soon |
+| L12   | Now What?                                 | [Slides](LTG-L12-Now-What.pdf)                            | Coming soon |
 
 
 
