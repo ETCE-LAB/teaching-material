@@ -18,24 +18,24 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 ## Lectures
 
-| ID    | Topic                                     | Slides                                                | Video |
-|-------|-------------------------------------------|-------------------------------------------------------|-------|
-| L00   | Organization                              | [Slides](LTG-L00-Organization.pdf)                    | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b7) |
-| L01   | Introduction           		            | [Slides](LTG-L01-Introduction.pdf)                    | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b7) |
-| L02   | Challenges I - Resource Scarcity & Environmental Pollution | [Slides](LTG-L02-Challenges-I.pdf)   | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b5) |
-| L03   | Challenges II - Climate Change            | [Slides](LTG-L03-Challenges-II.pdf)                   | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b1) |
-| L04   | Sustainability and Political (In-)Action  | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf) | [Video](https://ltg.etce-lab.de/#/id/6527e26281a06b1e0c975001) |
-|       | Foodsharing                               | -                                                     | [Video](https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b) |
-| L05   | Limits to Growth and Planetary Boundaries | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | - |
-|       | Collapse?                                 | [Slides](LTG-L05b-Bonus-Collapse.pdf)                 | - |
-| L06   | Lifecycle Assessment (LCA)                | [Slides](LTG-L06-Lifecycle-Assessment.pdf)            | [Video](https://ltg.etce-lab.de/#/id/653f9386c0d6cf133475356f) |
-| L07   | Technology                                | [Slides](LTG-L07-Technology.pdf)                      | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20c7) |
-| L08   | Circular Economy                          | [Slides](LTG-L08-Circular-Economy.pdf)                | [Video](https://ltg.etce-lab.de/#/id/6527e5c081a06b1e0c978e58) |
-| L09   | Circular Societites                       | [Slides](LTG-L09-Circular-Societies.pdf)              | [Video](https://ltg.etce-lab.de/#/id/6527e5e781a06b1e0c9791b1) |
-| L10   | Beyond the Circular Economy I             | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf) | [Video](https://ltg.etce-lab.de/#/id/65c34bbf0bc456b7a6741183) |
-| L11   | Beyond the Circular Economy II            | [Slides](LTG-L11-Beyond-the-Circular-Economy--Part-2.pdf) | [Video](https://ltg.etce-lab.de/#/id/65c34bbf0bc456b7a674119b) |
-| -     | Invited Lecture - Gabriel introduces the CatFarm Project | -                                          | Coming soon |
-| L12   | Now What?                                 | [Slides](LTG-L12-Now-What.pdf)                            | Coming soon |
+| ID  | Topic                                                      | Slides                                                           | Video                                                          |
+|-----|------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|
+| L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b7) |
+| L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b7) |
+| L02 | Challenges I - Resource Scarcity & Environmental Pollution | [Slides](LTG-L02-Challenges-I.pdf)                               | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b5) |
+| L03 | Challenges II - Climate Change                             | [Slides](LTG-L03-Challenges-II.pdf)                              | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20b1) |
+| L04 | Sustainability and Political (In-)Action                   | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf)   | [Video](https://ltg.etce-lab.de/#/id/6527e26281a06b1e0c975001) |
+|     | Foodsharing                                                | -                                                                | [Video](https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b) |
+| L05 | Limits to Growth and Planetary Boundaries                  | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | -                                                              |
+|     | Collapse?                                                  | [Slides](LTG-L05b-Bonus-Collapse.pdf)                            | -                                                              |
+| L06 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L06-Lifecycle-Assessment.pdf)                       | [Video](https://ltg.etce-lab.de/#/id/653f9386c0d6cf133475356f) |
+| L07 | Technology                                                 | [Slides](LTG-L07-Technology.pdf)                                 | [Video](https://ltg.etce-lab.de/#/id/64e5c250d3bd3552943b20c7) |
+| L08 | Circular Economy                                           | [Slides](LTG-L08-Circular-Economy.pdf)                           | [Video](https://ltg.etce-lab.de/#/id/6527e5c081a06b1e0c978e58) |
+| L09 | Circular Societites                                        | [Slides](LTG-L09-Circular-Societies.pdf)                         | [Video](https://ltg.etce-lab.de/#/id/6527e5e781a06b1e0c9791b1) |
+| L10 | Beyond the Circular Economy I                              | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf)        | [Video](https://ltg.etce-lab.de/#/id/65c34bbf0bc456b7a6741183) |
+| L11 | Beyond the Circular Economy II                             | [Slides](LTG-L11-Beyond-the-Circular-Economy--Part-2.pdf)        | [Video](https://ltg.etce-lab.de/#/id/65c34bbf0bc456b7a674119b) |
+| -   | Invited Lecture - Gabriel introduces the CatFarm Project   | [Slides](LTG-Invited-Lecture-Catfarm.pdf)                        | [Video](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a056) |
+| L12 | Now What?                                                  | [Slides](LTG-L12-Now-What.pdf)                                   | Coming soon                                                    |
 
 
 
