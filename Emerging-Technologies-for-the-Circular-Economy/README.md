@@ -14,51 +14,46 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 | ID   | Topic                                    | Slides                                                            | Video                                                                                                          |
 |------|------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| L00  | Organization                             | [Slides](ETCE-L00-Organization.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=1)  |
-| L01  | Introduction                             | [Slides](ETCE-L01-Introduction.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=2) |
-| L02  | Circular Economy                         | [Slides](ETCE-L02-Circular-Economy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=3) | 
-| L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=5) |
-|      | OpenLCA Tutorial                         | - | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=4) |
-| L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=7) |
-|      | Python Exercise Tutorial                 | - | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=6) |
-| L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
-| L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=8) |
-| L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=9) |
-| L07  | Industrial IoT                           | StudIP | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=10) |
-| L08  | Introduciton to Blockchain Technology    | [Slides](ETCE-L08-BC1--Introduction-to-Blockchain-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=11) |
-|      | Extra MOOC Content - Foodsharing         | - | [Link](https://ltg.etce-lab.de)  |
-| L09  | Blockchain Consensus                     | [Slides](ETCE-L09-BC2--Consensus.pdf)                             | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=12) |
-| L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=13) |
-| L11  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC4--Blockchain-Sustainability.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=14) |
-| L12  | Invited Lecture XOR The M2X Economy      | [Slides](ETCE-L12-The-M2X-Economy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1336.html#k=15) |
+| L00  | Organization                             | To be published                                                   | To be published |
+| L01  | Introduction                             | [Slides](ETCE-L01-Introduction.pdf)                               | To be published |
+| L02  | Circular Economy                         | [Slides](ETCE-L02-Circular-Economy.pdf)                           | To be published |
+| L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf)                       | To be published |
+|      | OpenLCA Tutorial                         | -                                                                 | To be published |
+| L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)                    | To be published |
+|      | Python Exercise Tutorial                 | -                                                                 | To be published |
+| L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf)                        | To be published |
+| L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)                  | To be published |
+| L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf)            | To be published |
+| L07  | Industrial IoT                           | To be published                                                   | To be published |
+| L08  | Introduciton to Blockchain Technology    | [Slides](ETCE-L08-BC1--Introduction-to-Blockchain-Technology.pdf) | To be published |
+| L09  | Blockchain Consensus                     | [Slides](ETCE-L09-BC2--Consensus.pdf)                             | To be published |
+| L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | To be published |
+| L11  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC4--Blockchain-Sustainability.pdf)             | To be published |
+| L12  | The M2X Economy                          | [Slides](ETCE-L12-The-M2X-Economy.pdf)                            | To be published |
 
 ## Exercises
 
 | ID    | Topic                                   | Exercise Sheets                                    |
 |-------|-----------------------------------------|----------------------------------------------------|
 | E01   | Knowledge Test (MC)                     | [Exercise](Exercises/E01-Inital-MC-Knowledgetest.pdf)   |
-| E02   | Circular Economy (MC)                   | [Exercise](Exercises/E02-CE-MC-Test.pdf)   |
-| E03   | Lifecycle Assessment (LCA)              | [Exercise](Exercises/E03-LCA-of-My-Favourite-Food.pdf)   |
-| E04   | IoT Sensing and Gathering Data          | [Exercise](Exercises/E04-IoT-Sensing.pdf)   |
-| E05   | IoT Data Processing                     | [Exercise](Exercises/E05-IoT-Proceessing.pdf) |
-| E06   | IoT Security                            | [Exercise](Exercises/E06-IoT-Security.pdf) |
-| E07   | Blockchain (MC)                         | [Exercise](Exercises/E07-BC-MC-Quiz.pdf) |
-| E08   | Blockchain - Getting Started            | [Exercise](Exercises/E08-Blockchain.pdf) |
-| E09   | Blockchain - Consensus                  | [Exercise](Exercises/E09-Blockchain-Consensus.pdf) |
-| E10   | Blockchain - Tokens                     | [Exercise](Exercises/E10-Blockchain-Token.pdf) |
-| E11   | Blockchain - Smart Contracts and IoT    | [Exercise](Exercises/E11-Energy-Trading.pdf) |
-
-## Extra Material
-
-|                                                                            |
-|----------------------------------------------------------------------------|
-| [Mushroom Substrate Bag OpenLCA file](OpenLCA/Mushroom-Substrate-Bag.xlsx) |
+| E02   | Circular Economy (MC)                   | [Exercise](Exercises/E02-CE-MC-Test.pdf)           |
+| E03   | Lifecycle Assessment (LCA)              | To be published |
+| E04   | IoT Sensing and Gathering Data          | To be published |
+| E05   | IoT Data Processing                     | To be published |
+| E06   | IoT Security                            | To be published |
+| E08   | Industrial IoT                          | To be published |
+| E08   | Blockchain (MC)                         | [Exercise](Exercises/E08-BC-MC-Quiz.pdf) |
+| E09   | Blockchain - Getting Started            | To be published |
+| E10   | Blockchain - Consensus                  | To be published |
+| E11   | Blockchain - Tokens                     | To be published |
+| E12   | Blockchain - Smart Contracts and IoT    | To be published |
 
 ## Lecture Materials of Previous Semesters
 
 |                |                                         | 
 |----------------|-----------------------------------------|
 | 2022 - Summer  | [Link](0_ARCHIVE/Summer-2022/README.md) |
+| 2023 - Summer  | [Link](0_ARCHIVE/Summer-2023/README.md) |
 
 ## Contributors (past and present)
 - Arne Bochem
@@ -68,6 +63,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 - Mayutan Arumaithurai
 - Priyanka Sharma
 - Shohreh Kia
+- Theresa Sommer
 
 ## Disclaimer
 
