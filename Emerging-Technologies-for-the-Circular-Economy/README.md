@@ -17,7 +17,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L00  | Organization                             | To be published                                                   | To be published |
 | L01  | Introduction                             | [Slides](ETCE-L01-Introduction.pdf)                               | To be published |
 | L02  | Circular Economy                         | [Slides](ETCE-L02-Circular-Economy.pdf)                           | To be published |
-| L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf)                       | To be published |
+| L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf)                       | [MOOC-Part-1](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a026) |
+|      |                                          |                                                                   | [MOOC-Part-2](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a03e) |
 |      | OpenLCA Tutorial                         | -                                                                 | To be published |
 | L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)                    | To be published |
 |      | Python Exercise Tutorial                 | -                                                                 | To be published |

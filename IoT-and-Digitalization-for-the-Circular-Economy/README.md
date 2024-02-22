@@ -15,19 +15,40 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 | ID   | Topic                                  | Slides                                                                                                                                               | Video                                                          |
 |------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| L00  | Organization                           | [Slides](IoT-CE-L00-Organization.pdf)                                                                                                                | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=1) |
-| L01  | Introduction                           | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf)         | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=2) |
-| L02  | Circular Economy                       | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf)     | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=3) |
-| L03  | Lifecycle Assessment (LCA)             | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L03-Lifecycle-Assessment.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=5)                                                               |
-|      | OpenLCA Tutorial                       | -                                                                                                                                                    | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=4) |
-| L04  | Introduction to the Internet of Things | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L04-Introduction-to-the-IoT.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=6) |
-| L05a | IoT Communication                      | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05a-IoT-Communications.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=7) |
-| L05b | IoT Security & Privacy                 | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05b-IoT-Security-and-Privacy.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=7) |
-| L06  | IoT Data Processing & Big Data         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L06-IoT-Data-Processing-and-BigData.pdf)    | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=8) |
-| L07  | Industrial IoT                         | StudIP | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=9) |
-| L08  | IoT in Mining I                        | StudIP | [Video](https://video.tu-clausthal.de/vorlesung/1337.html#k=10) |
-|      | Extra MOOC Content - Foodsharing       | - | [Link](https://ltg.etce-lab.de)  |
-| L09  | IoT in Mining II                       | No Slides | No Video |
+| L00  | Organization                           | To be published                                                                                                                                                    | To be published |
+| L01  | Introduction                           | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf)                       | To be published |
+| L02  | Circular Economy                       | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf)                   | To be published |
+| L03  | Lifecycle Assessment (LCA)             | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L03-Lifecycle-Assessment.pdf)               | [MOOC-Part-1](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a026) |
+|      |                                        |                                                                                                                                                                    | [MOOC-Part-2](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a03e) |
+|      | OpenLCA Tutorial                       | -                                                                                                                                                                  | To be published |
+| L04  | Introduction to the Internet of Things | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L04-Introduction-to-the-IoT.pdf)            | To be published |
+| L05a | IoT Communication                      | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05a-IoT-Communications.pdf)                | To be published |
+| L05b | IoT Security & Privacy                 | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05b-IoT-Security-and-Privacy.pdf)          | To be published |
+| L06  | IoT Data Processing & Big Data         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L06-IoT-Data-Processing-and-BigData.pdf)    | To be published |
+| L07  | Industrial IoT                         | To be published   | To be published   |
+| L08  | IoT in Mining I                        | To be published   | To be published   |
+| L09  | IoT in Mining II                       | To be published   | To be published   |
+| L10  | Technologies and Sustainability        | To be published   | [MOOC](https://ltg.etce-lab.de/#/id/65d0ac306ded5d72a556a004)   |
+
+
+## Exercises
+
+| ID    | Topic                                   | Exercise Sheets                                    |
+|-------|-----------------------------------------|----------------------------------------------------|
+| E01   | Carbon Footprint                        | To be published                                    |
+| E02   | Circular Economy (MC)                   | [Exercise](Exercises/E02-CE-MC-Test.pdf)           |
+| E03   | Lifecycle Assessment (LCA)              | To be published                                    |
+| E04   | Industrial IoT                          | To be published                                    |
+| E05   | IoT in Mining                           | To be published                                    |
+| E06   | Technologies and Sustainability         | To be published                                    |
+
+
+
+## Lecture Materials of Previous Semesters
+
+|                |                                         | 
+|----------------|-----------------------------------------|
+| 2023 - Summer  | [Link](0_ARCHIVE/Summer-2023/README.md) |
 
 ## Contributors (past and present)
 - Anant Sujatanagarjuna
