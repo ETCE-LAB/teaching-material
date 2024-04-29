@@ -17,8 +17,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L00  | Organization                             | [Slides](ETCE-L00-Organization.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=1) |
 | L01  | Introduction                             | [Slides](ETCE-L01-Introduction.pdf)                               | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=2) |
 | L02  | Circular Economy                         | [Slides](ETCE-L02-Circular-Economy.pdf)                           | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=3) |
-| L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf)                       | [Part-1](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a026) |
-|      |                                          |                                                                   | [Part-2](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a03e) |
+| L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf)                       | [MOOC-Part-1](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a026) |
+|      |                                          |                                                                   | [MOOC-Part-2](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a03e) |
 |      |                                          |                                                                                                                                                                 | [Live-Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=4) |
 | L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)                    | To be published |
 |      | Python Exercise Tutorial                 | -                                                                 | To be published |
