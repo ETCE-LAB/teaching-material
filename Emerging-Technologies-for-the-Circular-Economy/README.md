@@ -38,8 +38,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 |-------|-----------------------------------------|----------------------------------------------------|
 | E01   | Knowledge Test (MC)                     | [Exercise](Exercises/E01-Inital-MC-Knowledgetest.pdf)   |
 | E02   | Circular Economy (MC)                   | [Exercise](Exercises/E02-CE-MC-Test.pdf)           |
-| E03   | Lifecycle Assessment (LCA)              | To be published |
-| E04   | IoT Sensing and Gathering Data          | To be published |
+| E03   | Lifecycle Assessment (LCA)              | [Exercise](Exercises/E03-LCA.pdf) |
+| E04   | IoT Sensing and Gathering Data          | [Exercise](Exercises/E04-Iot-Sensing.pdf) |
 | E05   | IoT Data Processing                     | To be published |
 | E06   | IoT Security                            | To be published |
 | E08   | Industrial IoT                          | To be published |
