@@ -20,7 +20,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf)                       | [MOOC-Part-1](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a026) |
 |      |                                          |                                                                   | [MOOC-Part-2](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a03e) |
 |      |                                          |                                                                                                                                                                 | [Live-Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=4) |
-| L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)                    | To be published |
+| L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)                    | [Live-Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=5) |
 |      | Python Exercise Tutorial                 | -                                                                 | To be published |
 | L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf)                        | To be published |
 | L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)                  | To be published |
