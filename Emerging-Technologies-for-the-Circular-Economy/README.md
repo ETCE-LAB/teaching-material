@@ -21,8 +21,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 |      |                                          |                                                                   | [MOOC-Part-2](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a03e) |
 |      |                                          |                                                                                                                                                                 | [Live-Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=4) |
 | L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)                    | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=5) |
-| L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf)                        | To be published |
-| L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)                  | To be published |
+| L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf)                        | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=6) |
+| L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)                  | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=7) |
 | L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf)            | To be published |
 | L07  | Industrial IoT                           | To be published                                                   | To be published |
 | L08  | Introduciton to Blockchain Technology    | [Slides](ETCE-L08-BC1--Introduction-to-Blockchain-Technology.pdf) | To be published |
@@ -39,7 +39,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E02   | Circular Economy (MC)                   | [Exercise](Exercises/E02-CE-MC-Test.pdf)           |
 | E03   | Lifecycle Assessment (LCA)              | [Exercise](Exercises/E03-LCA.pdf) |
 | E04   | IoT Sensing and Gathering Data          | [Exercise](Exercises/E04-Iot-Sensing.pdf) |
-| E05   | IoT Data Processing                     | To be published |
+| E05   | IoT Data Processing                     | [Exercise](Exercises/E05-IoT-Proceessing.pdf) |
 | E06   | IoT Security                            | To be published |
 | E08   | Industrial IoT                          | To be published |
 | E08   | Blockchain (MC)                         | [Exercise](Exercises/E08-BC-MC-Quiz.pdf) |
