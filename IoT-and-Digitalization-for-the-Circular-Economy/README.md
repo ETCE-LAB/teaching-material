@@ -24,7 +24,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L04  | Introduction to the Internet of Things | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L04-Introduction-to-the-IoT.pdf)            | Video not available |
 | L05a | IoT Communication                      | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05a-IoT-Communications.pdf)                | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=6) |
 | L05b | IoT Security & Privacy                 | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05b-IoT-Security-and-Privacy.pdf)          | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=7) |
-| L06  | IoT Data Processing & Big Data         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L06-IoT-Data-Processing-and-BigData.pdf)    | To be published |
+| L06  | IoT Data Processing & Big Data         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L06-IoT-Data-Processing-and-BigData.pdf)    | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=8) |
 | L07  | Industrial IoT                         | To be published   | To be published   |
 | L08  | IoT in Mining I                        | To be published   | To be published   |
 | L09  | IoT in Mining II                       | To be published   | To be published   |
