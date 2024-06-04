@@ -41,7 +41,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E04   | IoT Sensing and Gathering Data          | [Exercise](Exercises/E04-Iot-Sensing.pdf) |
 | E05   | IoT Data Processing                     | [Exercise](Exercises/E05-IoT-Proceessing.pdf) |
 | E06   | IoT Security                            | [Exercise](Exercises/E06-IoT-Security.pdf) |
-| E08   | Industrial IoT                          | To be published |
+| E08   | Industrial IoT                          | [Exercise](Exercises/E07-IIoT.pdf) |
 | E08   | Blockchain (MC)                         | [Exercise](Exercises/E08-BC-MC-Quiz.pdf) |
 | E09   | Blockchain - Getting Started            | To be published |
 | E10   | Blockchain - Consensus                  | To be published |
