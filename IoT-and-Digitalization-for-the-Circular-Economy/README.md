@@ -25,7 +25,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L05a | IoT Communication                      | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05a-IoT-Communications.pdf)                | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=6) |
 | L05b | IoT Security & Privacy                 | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05b-IoT-Security-and-Privacy.pdf)          | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=7) |
 | L06  | IoT Data Processing & Big Data         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L06-IoT-Data-Processing-and-BigData.pdf)    | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=8) |
-| L07  | Industrial IoT                         | To be published   | To be published   |
+| L07  | Industrial IoT                         | To be published   | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=9) |
 | L08  | IoT in Mining I                        | To be published   | To be published   |
 | L09  | IoT in Mining II                       | To be published   | To be published   |
 | L10  | Technologies and Sustainability        | To be published   | [MOOC](https://ltg.etce-lab.de/#/id/65d0ac306ded5d72a556a004)   |
