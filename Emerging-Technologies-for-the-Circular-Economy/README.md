@@ -43,7 +43,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E06   | IoT Security                            | [Exercise](Exercises/E06-IoT-Security.pdf) |
 | E08   | Industrial IoT                          | [Exercise](Exercises/E07-IIoT.pdf) |
 | E08   | Blockchain (MC)                         | [Exercise](Exercises/E08-BC-MC-Quiz.pdf) |
-| E09   | Blockchain - Getting Started            | To be published |
+| E09   | Blockchain - Getting Started            | [Exercise](Exercises/E09-Blockchain.pdf) |
 | E10   | Blockchain - Consensus                  | To be published |
 | E11   | Blockchain - Tokens                     | To be published |
 | E12   | Blockchain - Smart Contracts and IoT    | To be published |
