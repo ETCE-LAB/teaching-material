@@ -24,7 +24,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf)                        | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=6) |
 | L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)                  | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=7) |
 | L06  | IoT Data Processing & Big Data           | [Slides](ETCE-L06-IoT-Data-Processing-and-BigData.pdf)            | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=8) |
-| L07  | Industrial IoT                           | To be published                                                   | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=9) |
+| L07  | Industrial IoT                           | [Slides](ETCE-L07-IIoT.pdf)                                       | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=9) |
 | L08  | Introduciton to Blockchain Technology    | [Slides](ETCE-L08-BC1--Introduction-to-Blockchain-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=10) |
 | L09  | Blockchain Consensus                     | [Slides](ETCE-L09-BC2--Consensus.pdf)                             | To be published |
 | L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | To be published |
