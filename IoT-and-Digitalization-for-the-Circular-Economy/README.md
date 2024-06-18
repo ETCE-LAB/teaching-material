@@ -27,7 +27,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L06  | IoT Data Processing & Big Data         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L06-IoT-Data-Processing-and-BigData.pdf)    | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=8) |
 | L07  | Industrial IoT                         | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L07-IIoT.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=9) |
 | L08  | IoT in Mining I                        | StudIP | No Recording - Technical Problem   |
-| L09  | IoT in Mining II                       | StudIP | No Recording  |
+| L09  | IoT in Mining II                       | StudIP | StudIP |
 | L10  | Technologies and Sustainability        | - | [MOOC](https://ltg.etce-lab.de/#/id/65d0ac306ded5d72a556a004)   |
 
 
