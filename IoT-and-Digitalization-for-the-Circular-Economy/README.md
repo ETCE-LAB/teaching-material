@@ -38,8 +38,8 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | E01   | Carbon Footprint                        | [Exercise](Exercises/E01-CarbonFootprint.pdf)      |
 | E02   | Circular Economy (MC)                   | [Exercise](Exercises/E02-CE-MC-Test.pdf)           |
 | E03   | Lifecycle Assessment (LCA)              | [Exercise](Exercises/E03-LCA.pdf)                  |
-| E04   | Industrial IoT                          | [Exercise](Exercises/E04-IIoT.pdf)                                  |
-| E05   | IoT in Mining                           | To be published                                    |
+| E04   | Industrial IoT                          | [Exercise](Exercises/E04-IIoT.pdf)                 |
+| E05   | IoT in Mining                           | StudIP                                             |
 | E06   | Technologies and Sustainability         | To be published                                    |
 
 
