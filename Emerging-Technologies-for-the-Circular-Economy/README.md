@@ -27,7 +27,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L07  | Industrial IoT                           | [Slides](ETCE-L07-IIoT.pdf)                                       | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=9) |
 | L08  | Introduciton to Blockchain Technology    | [Slides](ETCE-L08-BC1--Introduction-to-Blockchain-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=10) |
 | L09  | Blockchain Consensus                     | [Slides](ETCE-L09-BC2--Consensus.pdf)                             | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=11) |
-| L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | To be published |
+| L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=12) |
 | L11  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC4--Blockchain-Sustainability.pdf)             | To be published |
 | L12  | The M2X Economy                          | [Slides](ETCE-L12-The-M2X-Economy.pdf)                            | To be published |
 
@@ -44,7 +44,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E08   | Industrial IoT                          | [Exercise](Exercises/E07-IIoT.pdf) |
 | E08   | Blockchain (MC)                         | [Exercise](Exercises/E08-BC-MC-Quiz.pdf) |
 | E09   | Blockchain - Getting Started            | [Exercise](Exercises/E09-Blockchain.pdf) |
-| E10   | Blockchain - Consensus                  | To be published |
+| E10   | Blockchain - Consensus                  | [Exercise](Exercise/E10-Blockchain-Consensus.pdf) |
 | E11   | Blockchain - Tokens                     | To be published |
 | E12   | Blockchain - Smart Contracts and IoT    | To be published |
 
