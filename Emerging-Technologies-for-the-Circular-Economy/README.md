@@ -45,8 +45,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E08   | Blockchain (MC)                         | [Exercise](Exercises/E08-BC-MC-Quiz.pdf) |
 | E09   | Blockchain - Getting Started            | [Exercise](Exercises/E09-Blockchain.pdf) |
 | E10   | Blockchain - Consensus                  | [Exercise](Exercise/E10-Blockchain-Consensus.pdf) |
-| E11   | Blockchain - Tokens                     | To be published |
-| E12   | Blockchain - Smart Contracts and IoT    | To be published |
+| E11   | Blockchain - Tokens                     | [Exercise](Exercise/E11-Energy-Trading.pdf) |
 
 ## Lecture Materials of Previous Semesters
 
