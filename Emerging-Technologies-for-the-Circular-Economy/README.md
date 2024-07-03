@@ -28,7 +28,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L08  | Introduciton to Blockchain Technology    | [Slides](ETCE-L08-BC1--Introduction-to-Blockchain-Technology.pdf) | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=10) |
 | L09  | Blockchain Consensus                     | [Slides](ETCE-L09-BC2--Consensus.pdf)                             | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=11) |
 | L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=12) |
-| L11  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC4--Blockchain-Sustainability.pdf)             | To be published |
+| L11  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC4--Blockchain-Sustainability.pdf)             | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=13) |
+|      | Ethereum Smart Contract Tutorial         |                                                                   | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=14) |
 | L12  | The M2X Economy                          | [Slides](ETCE-L12-The-M2X-Economy.pdf)                            | To be published |
 
 ## Exercises
