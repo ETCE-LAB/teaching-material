@@ -19,7 +19,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L02  | Circular Economy                         | [Slides](ETCE-L02-Circular-Economy.pdf)                           | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=3) |
 | L03  | Lifecycle Assessment (LCA)               | [Slides](ETCE-L03-Lifecycle-Assessment.pdf)                       | [MOOC-Part-1](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a026) |
 |      |                                          |                                                                   | [MOOC-Part-2](https://ltg.etce-lab.de/#/id/65d0ac316ded5d72a556a03e) |
-|      |                                          |                                                                                                                                                                 | [Live-Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=4) |
+|      |                                          |                                                                   | [Live-Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=4) |
 | L04  | Introduction to the Internet of Things   | [Slides](ETCE-L04-Introduction-to-the-IoT.pdf)                    | Video not available |
 | L05a | IoT Communication                        | [Slides](ETCE-L05a-IoT-Communications.pdf)                        | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=6) |
 | L05b | IoT Security & Privacy                   | [Slides](ETCE-L05b-IoT-Security-and-Privacy.pdf)                  | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=7) |
@@ -30,7 +30,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L10  | Ethereum and Smart Contracts             | [Slides](ETCE-L10-BC3--Ethereum-and-Smart-Contracts.pdf)          | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=12) |
 | L11  | Blockchain Technology and Sustainability | [Slides](ETCE-L11-BC4--Blockchain-Sustainability.pdf)             | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=13) |
 |      | Ethereum Smart Contract Tutorial         |                                                                   | [Video](https://video.tu-clausthal.de/vorlesung/1381.html#k=14) |
-| L12  | The M2X Economy                          | [Slides](ETCE-L12-The-M2X-Economy.pdf)                            | To be published |
+| L12  | The M2X Economy                          | [Slides](ETCE-L12-The-M2X-Economy.pdf)                            | [Video (SS23)](https://video.tu-clausthal.de/vorlesung/1381.html#k=15) |
 
 ## Exercises
 
