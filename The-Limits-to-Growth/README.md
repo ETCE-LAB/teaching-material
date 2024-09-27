@@ -45,14 +45,16 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
-| E02   | Carbon Footprint                        | [Link](Exercises/E02-CarbonFootprint.pdf)          |
-| E03   | Individual Action                       | [Link](Exercises/E03-Individual-Action.pdf)        |
-| E04   | World3                                  | [Link](Exercises/E04-World3.pdf)                   |
+| E01   | Household Waste                         | -                                                  |
+| E02   | Environmental Pollution and Climate Change                        | -                                                  |
+| E03   | Resource Scarcity                       | -                                                  |
+| E04   | FS                                  | [Link](Exercises/E04-World3.pdf)                   |
 | E05   | LCA                                     | [Link](Exercises/E05-LCA.pdf)                      |
-| E06   | Technology Assessment                   | [Link](Exercises/E06-Technology-Assessment.pdf)    |
+| E06   | Technology and Sustainability                   | [Link](Exercises/E06-Technology-Assessment.pdf)    |
 | E07   | Circular Economy                        | [Link](Exercises/E07-Circular-Economy.pdf)         |
 | E08   | Circular Societites                     | [Link](Exercises/E08-Circular-Society.pdf)         |
+| E09   | -                         | -                                                  |
+| E10   | -                         | -                                                  |
 
 
 
