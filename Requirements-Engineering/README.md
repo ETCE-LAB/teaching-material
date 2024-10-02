@@ -74,4 +74,4 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 The course is modeled and built based on the book "Requirements Engineering – Fundamentals, Principles and Techniques" [(link)](https://link.springer.com/de/book/9783642125775) by Klaus Pohl.
 
-Special thanks to [Prof. Dr. Steffen Herbold](https://www.fim.uni-passau.de/ai-engineering/) and Dr. Christian Bartelt, who provided valuable input in the form of the teaching materials of their requirements engineering courses.
+Special thanks to [Prof. Dr. Steffen Herbold](https://www.fim.uni-passau.de/ai-engineering/) and Dr. Christian Bartelt,  [Dr. Christian Bartelt](www.uni-mannheim.de/ines/ueber-uns/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/dr-christian-bartelt/) who provided valuable input in the form of the teaching materials of their requirements engineering courses.
