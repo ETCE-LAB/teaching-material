@@ -53,7 +53,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | E06 | CPN II                   | [Exercise](Exercises/E06-CPN-II/E06-CPN-II.pdf)                             |
 | E07 | Management (MC)          | [Exercise](Exercises/E07-Management/E07-Management-MC.pdf)                  |
 | E08 | Traceability (MC)        | [Exercise](Exercises/E08-Traceability/E08-Traceability-MC.pdf)              |
-                                                     |
+                                
 
 ## Lecture Materials of Previous Semesters
 
@@ -72,6 +72,6 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 ## Disclaimer
 
-The course is modeled and built based on the book "Requirements Engineering – Fundamentals, Principles and Techniques" [(link)](https://link.springer.com/de/book/9783642125775) by Klaus Pohl.
+The course is modelled and built based on the book "Requirements Engineering – Fundamentals, Principles and Techniques" [(link)](https://link.springer.com/de/book/9783642125775) by Klaus Pohl.
 
-Special thanks to [Prof. Dr. Steffen Herbold](https://www.fim.uni-passau.de/ai-engineering/) and Dr. Christian Bartelt,  [Dr. Christian Bartelt](www.uni-mannheim.de/ines/ueber-uns/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/dr-christian-bartelt/) who provided valuable input in the form of the teaching materials of their requirements engineering courses.
+Special thanks to [Prof. Dr. Steffen Herbold](https://www.fim.uni-passau.de/ai-engineering/) and [Dr. Christian Bartelt](www.uni-mannheim.de/ines/ueber-uns/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/dr-christian-bartelt/) who provided valuable input in the form of the teaching materials from their Requirements Engineering courses.
