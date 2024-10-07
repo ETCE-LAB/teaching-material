@@ -69,6 +69,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 - Axel Borns
 - John-Nuri Habicht
 - Nisha Muthuraju
+- Elsyprema Rajan
 
 ## Disclaimer
 
