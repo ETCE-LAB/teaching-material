@@ -72,3 +72,4 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 - Theresa Sommer
 - Annika Hoppe
 - Axel Borns
+- Nelly Nicaise Nyeck Mbialeu
