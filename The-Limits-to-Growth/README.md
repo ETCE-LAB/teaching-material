@@ -45,7 +45,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Household Waste                         | -                                                  |
+| E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)                                                  |
 | E02   | Environmental Pollution and Climate Change                        | -                                                  |
 | E03   | Resource Scarcity                       | -                                                  |
 | E04   | FS                                  | [Link](Exercises/E04-World3.pdf)                   |
