@@ -45,14 +45,14 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Household Waste                         | -                                                  |
-| E02   | Environmental Pollution and Climate Change                        | -                                                  |
-| E03   | Resource Scarcity                       | -                                                  |
-| E04   | FS                                  | [Link](Exercises/E04-World3.pdf)                   |
-| E05   | LCA                                     | [Link](Exercises/E05-LCA.pdf)                      |
-| E06   | Technology and Sustainability                   | [Link](Exercises/E06-Technology-Assessment.pdf)    |
-| E07   | Circular Economy                        | [Link](Exercises/E07-Circular-Economy.pdf)         |
-| E08   | Circular Societites                     | [Link](Exercises/E08-Circular-Society.pdf)         |
+| E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
+| E02   | Environmental Pollution and Climate Change | [Link](Exercises/E02-EnvironmentalPollution.pdf)  |
+| E03   | Resource Scarcity                       | -                                                 |
+| E04   | FS                                      |  -                            |
+| E05   | LCA                                     | -                             |
+| E06   | Technology and Sustainability            | -                            |
+| E07   | Circular Economy                        | -                             |
+| E08   | Circular Societites                     | -                             |
 | E09   | -                         | -                                                  |
 | E10   | -                         | -                                                  |
 
@@ -72,3 +72,4 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 - Theresa Sommer
 - Annika Hoppe
 - Axel Borns
+- Nelly Nicaise Nyeck Mbialeu
