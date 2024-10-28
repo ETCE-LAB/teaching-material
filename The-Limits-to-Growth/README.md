@@ -22,20 +22,19 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 |-----|------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|
 | L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | -                                                              |
 | L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | -                                                              |
-| L02 | Challenges of the 21st Century I -                         | [Slides](LTG-L02-Challenges-I.pdf)                               | -                                                              |
-| L03 | Challenges of the 21st Century II -                        | [Slides](LTG-L03-Challenges-II.pdf)                              | -                                                              |
+| L02 | Challenges of the 21st Century I - Climate Change          | [Slides](LTG-L02-Challenges-I.pdf)                               | -                                                              |
+| L03 | Challenges of the 21st Century II -Environmental Pollution and Resources | [Slides](LTG-L03-Challenges-II.pdf)                              | -                                                              |
 | L04 | A Short History Political (In-)Action                      | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf)   | -                                                              |
-|     | Foodsharing                                                | -                                                                | -                                                              |
-| L05 | Limits to Growth and Planetary Boundaries                  | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | -                                                              |
-|     | Collapse?                                                  | [Slides](LTG-L05b-Bonus-Collapse.pdf)                            | -                                                              |
+| L05 | Overshoot, the Limits to Growth and Planetary Boundaries   | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | -                                                              |
+|     | Collapse?                                                  | -                                                                | -                                                              |
 | L06 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L06-Lifecycle-Assessment.pdf)                       | -                                                              |
-|     | Technologies and Sustainability                            |  [Slides](LTG-L07-Technology.pdf)                                |  -                                                             |
 | L07 | Ethics and Morals of Sustainability                        |    -                                                             | -                                                              |
 | L08 | Circular Economy                                           | [Slides](LTG-L08-Circular-Economy.pdf)                           | -                                                              |
 | L09 | Circular Societites                                        | [Slides](LTG-L09-Circular-Societies.pdf)                         | -                                                              |
 | L10 | Beyond the Circular Economy I                              | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf)        | -                                                              |
-| L11 | Beyond the Circular Economy II                             | [Slides](LTG-L11-Beyond-the-Circular-Economy--Part-2.pdf)        | -                                                              |
-| L12 | Invited Lecture                                            | -                                                                | -                                                              |
+| L11 | Invited Lecture                                            | -                                                                | -
+|
+| L12 | Beyond the Circular Economy II                             | [Slides](LTG-L11-Beyond-the-Circular-Economy--Part-2.pdf)        | -                                                              |
 | L13 | Complex Societies and Technology                           | -                                                                | -                                                              |
 | L14 | Summary                                                    | -                                                                | -                                                              |
 
@@ -46,15 +45,16 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
 | E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
-| E02   | Environmental Pollution and Climate Change | [Link](Exercises/E02-EnvironmentalPollution.pdf)  |
-| E03   | Resource Scarcity                       | -                                                 |
-| E04   | FS                                      |  -                            |
+| E02   | Environmental Pollution and Climate Change | -                                               |
+| E03   | Resource Scarcity                       | -                                                  |
+| E04   | Polictial Action                        | -                             |
+| E05   | Collapse                                | -                             |
 | E05   | LCA                                     | -                             |
-| E06   | Technology and Sustainability            | -                            |
+| E06   | Ethics and Moral of Sustainability      | -                             |
 | E07   | Circular Economy                        | -                             |
 | E08   | Circular Societites                     | -                             |
-| E09   | -                         | -                                                  |
-| E10   | -                         | -                                                  |
+| E09   | -                                       | -                             |
+| E10   | -                                       | -                             |
 
 
 
