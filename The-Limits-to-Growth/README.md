@@ -23,7 +23,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | -                                                              |
 | L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | -                                                              |
 | L02 | Challenges of the 21st Century I - Climate Change          | [Slides](LTG-L02-Challenges-I.pdf)                               | -                                                              |
-| L03 | Challenges of the 21st Century II -Environmental Pollution and Resources | [Slides](LTG-L03-Challenges-II.pdf)                              | -                                                              |
+| L03 | Challenges of the 21st Century II -Environmental Pollution and Resources | [Slides](LTG-L03-Challenges-II.pdf)                | -                                                              |
 | L04 | A Short History Political (In-)Action                      | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf)   | -                                                              |
 | L05 | Overshoot, the Limits to Growth and Planetary Boundaries   | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | -                                                              |
 |     | Collapse?                                                  | -                                                                | -                                                              |
@@ -32,8 +32,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L08 | Circular Economy                                           | [Slides](LTG-L08-Circular-Economy.pdf)                           | -                                                              |
 | L09 | Circular Societites                                        | [Slides](LTG-L09-Circular-Societies.pdf)                         | -                                                              |
 | L10 | Beyond the Circular Economy I                              | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf)        | -                                                              |
-| L11 | Invited Lecture                                            | -                                                                | -
-|
+| L11 | Invited Lecture                                            | -                                                                | -                                                              |
 | L12 | Beyond the Circular Economy II                             | [Slides](LTG-L11-Beyond-the-Circular-Economy--Part-2.pdf)        | -                                                              |
 | L13 | Complex Societies and Technology                           | -                                                                | -                                                              |
 | L14 | Summary                                                    | -                                                                | -                                                              |
