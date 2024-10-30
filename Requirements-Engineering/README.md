@@ -24,7 +24,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID  | Topic                                               | Slides                                                                   | Video                                    |
 |-----|-----------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------|
-| L00 | Organization                                        | [Slides](RE-L00-Organization.pdf)                                        |[Link]((https://youtu.be/oTpTjCEDv8Q)     |
+| L00 | Organization                                        | [Slides](RE-L00-Organization.pdf)                                        |[Link](https://youtu.be/oTpTjCEDv8Q)     |
 | L01 | Introduction                                        | [Slides](RE-L01-Introduction.pdf)                                        |           |
 | L02 | System Context Boundaries and Types of Requirements | [Slides](RE-L02-System-Context-Boundaries-and-Types-of-Requirements.pdf) |            |
 | L03 | Elicitation - Part 1                                | [Slides](RE-L03-Elicitation--Part-1.pdf)                                 |           |
