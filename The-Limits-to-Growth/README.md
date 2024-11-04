@@ -20,8 +20,8 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID  | Topic                                                      | Slides                                                           | Video                                                          |
 |-----|------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|
-| L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | [Link](https://youtu.be/-mT3JjFKtwg)                     |
-| L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | -                                                              |
+| L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | [Link](https://youtu.be/-mT3JjFKtwg)                           |
+| L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | [Link](https://youtu.be/JlxNfXUhMOY)                           |
 | L02 | Challenges of the 21st Century I - Climate Change          | [Slides](LTG-L02-Challenges-I.pdf)                               | -                                                              |
 | L03 | Challenges of the 21st Century II -Environmental Pollution and Resources | [Slides](LTG-L03-Challenges-II.pdf)                | -                                                              |
 | L04 | A Short History Political (In-)Action                      | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf)   | -                                                              |
