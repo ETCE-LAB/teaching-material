@@ -44,8 +44,8 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
 | E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
-| E02   | Climate Change                          | -                                               |
-| E03   | Environmental Pollution and Resource    | -                                                  |
+| E02   | Resource Scarcity                       | [Link](Exercises/E02-Resource-Scarcity.pdf)        |
+| E03   | Environmental Pollution                 | -                                                  |
 | E04   | Polictial Action                        | -                             |
 | E05   | Collapse                                | -                             |
 | E05   | LCA                                     | -                             |
