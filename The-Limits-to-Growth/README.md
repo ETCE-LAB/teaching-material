@@ -45,9 +45,9 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 |-------|-----------------------------------------|----------------------------------------------------|
 | E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
 | E02   | Resource Scarcity                       | [Link](Exercises/E02-Resource-Scarcity.pdf)        |
-| E03   | Environmental Pollution                 | [link](Exercises/E03-EnvironmentalPollution.pdf)   |
-| E04   | Political Action - Protest movement     | [link](Exercises/E04-protest-movement.pdf)         |
-| E05   | LCA                                     | [link](Exercises/E05-LCA.pdf)                      |
+| E03   | Environmental Pollution                 | [Link](Exercises/E03-EnvironmentalPollution.pdf)   |
+| E04   | Political Action - Protest movement     | [Link](Exercises/E04-protest-movement.pdf)         |
+| E05   | LCA                                     | [Link](Exercises/E05-LCA.pdf)                      |
 | E06   | Ethics and Moral of Sustainability      | -                             |
 | E07   | Circular Economy                        | -                             |
 | E08   | Circular Societies                     | -                             |
