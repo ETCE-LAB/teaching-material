@@ -47,8 +47,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | E02   | Resource Scarcity                       | [Link](Exercises/E02-Resource-Scarcity.pdf)        |
 | E03   | Environmental Pollution                 | [link](Exercises/E03-EnvironmentalPollution.pdf)   |
 | E04   | Political Action                        | -                             |
-| E05   | Collapse                                | -                             |
-| E05   | LCA                                     | -                             |
+| E05   | LCA                                     | [link](Exercises/E05-LCA.pdf)                      |
 | E06   | Ethics and Moral of Sustainability      | -                             |
 | E07   | Circular Economy                        | -                             |
 | E08   | Circular Societies                     | -                             |
