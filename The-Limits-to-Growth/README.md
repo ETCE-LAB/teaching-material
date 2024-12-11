@@ -28,7 +28,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L05 | Overshoot, the Limits to Growth and Planetary Boundaries   | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | [Video](https://youtu.be/TLLNis9QIPM)                                                              |
 |     | Collapse                                                   | [Slides](LTG-L05b-Bonus-Collapse.pdf)                            | -                                                              |
 | L06 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L06-Lifecycle-Assessment.pdf)                       | -                                                              |
-| L07 | Sustainability and Ethics                                  |    -                                                             | -                                                              |
+| L07 | Sustainability and Ethics                                  | [Slides](LTG-L07-Ethics-and-Sustainability.pdf)                  | -                                                              |
 | L08 | Circular Economy                                           | [Slides](LTG-L08-Circular-Economy.pdf)                           | -                                                              |
 | L09 | Circular Societites                                        | [Slides](LTG-L09-Circular-Societies.pdf)                         | -                                                              |
 | L10 | Beyond the Circular Economy I                              | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf)        | -                                                              |
