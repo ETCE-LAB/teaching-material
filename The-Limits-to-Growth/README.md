@@ -29,7 +29,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 |     | Collapse                                                   | [Slides](LTG-L05b-Bonus-Collapse.pdf)                            | -                                                              |
 | L06 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L06-Lifecycle-Assessment.pdf)                       | -                                                              |
 | L07 | Sustainability and Ethics                                  | [Slides](LTG-L07-Ethics-and-Sustainability.pdf)                  | [Video](https://youtu.be/q1Vxzn5_b5E)                          |
-| L08 | Developing Circularity                                     | [Slides](https://studip.tu-clausthal.de/sendfile.php?force_download=1&type=0&file_id=f7635c8afe176d87cffc0c769aa9ff70&file_name=LTG-L09-Developing_Circularity.pdf)  | -                                |
+| L08 | Developing Circularity                                     | The slides are available on StudIP                               | -                                |
 | L09 | Circular Societites                                        | [Slides](LTG-L09-Circular-Societies.pdf)                         | -                                                              |
 | L10 | Beyond the Circular Economy I                              | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf)        | -                                                              |
 | L11 | Invited Lecture - Power in Balance: Horizontal Governance for Collaborative Communities  | -                                  | -                                                              |
