@@ -48,7 +48,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | E03   | Environmental Pollution                 | [Link](Exercises/E03-EnvironmentalPollution.pdf)   |
 | E04   | Political Action - Protest movement     | [Link](Exercises/E04-protest-movement.pdf)         |
 | E05   | LCA                                     | [Link](Exercises/E05-LCA.pdf)                      |
-| E06   | -                                       | -                             |
+| E06   | Circular Societies                      | [Link](Exercises/E06-Circular-Societies.pdf)       |
 | E07   | -                                       | -                             |
 | E08   | -                                       | -                             |
 | E09   | -                                       | -                             |
