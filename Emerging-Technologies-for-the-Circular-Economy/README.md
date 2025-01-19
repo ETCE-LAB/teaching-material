@@ -1,4 +1,4 @@
-<img src="https://www.presse.tu-clausthal.de/fileadmin/Presse/images/Corporate_Design/Logo/Logo_TUC_en_CMYK.jpg" width="300">
+<img src="https://github.com/user-attachments/assets/89089b8a-540f-42a2-aaed-a3639c36534e" width="300">
 
 This repository contains the teaching materials of the "Emerging Technologies for the Circular Economy" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
 
