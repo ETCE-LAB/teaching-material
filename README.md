@@ -1,5 +1,5 @@
 
-<img src="https://www.presse.tu-clausthal.de/fileadmin/Presse/images/Corporate_Design/Logo/Logo_TUC_en_CMYK.jpg" width="300">
+<img src="https://github.com/user-attachments/assets/dbfd41f5-2f9b-40bd-9965-403a966f9a84" width="300">
 
 This repository contains the teaching materials of the courses taught by the ETCE research group [(link)](https://etce-lab.com).
 
