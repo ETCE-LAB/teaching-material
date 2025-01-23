@@ -33,7 +33,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 |     | Developing Circularity                                     | The slides are available on StudIP                               | [Video](https://youtu.be/DlMdN6OQF0w)                          |
 | L09 | Circular Societies                                        | [Slides](LTG-L09-Circular-Societies.pdf)                         | [Video](https://youtu.be/VGDI2e9sw8A?feature=shared)            |
 | L10 | Beyond the Circular Economy I                              | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf)        | [Video](https://youtu.be/Ml0YHUng08o)                          |
-| L11 | Invited Lecture - Power in Balance: Horizontal Governance for Collaborative Communities  | -                                  | -                                                              |
+| L11 | Invited Lecture - Power in Balance: Horizontal Governance for Collaborative Communities  | The slides are available on StudIP  | [Video](https://youtu.be/B27tabsSrjw)                         |
 | L12 | Beyond the Circular Economy II                             | [Slides](LTG-L11-Beyond-the-Circular-Economy--Part-2.pdf)        | -                                                              |
 | L13 | Complex Societies and Technology                           | -                                                                | -                                                              |
 | L14 | Summary                                                    | -                                                                | -                                                              |
