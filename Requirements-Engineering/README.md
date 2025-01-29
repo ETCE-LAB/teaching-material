@@ -36,7 +36,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L09 | Documentation - Formal Requirements Specification   | [Slides](RE-L09-Documentation--Formal.pdf)                               |            |
 | L10 | Requirements Validation                             | [Slides](RE-L10-Validation.pdf)                                          |           |
 | L11 | Requirements Management                             | [Slides](RE-L12_Management.pdf)                                          |            |
-| L12 | Requirements Traceability                           | [Slides](RE-L11_Traceability.pdf)                                        |            |
+| L12 | Requirements Traceability                           | [Slides](RE-L12_Traceability.pdf)                                        |            |
 | L13 | Tool Support                                        | [Slides](RE-L13_Tool-Support.pdf)                                        |            |
 
 
