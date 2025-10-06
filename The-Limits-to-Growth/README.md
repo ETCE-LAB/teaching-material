@@ -58,6 +58,8 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 |----------------|-----------------------------------------|
 | 2022 - Summer  | [Link](0_ARCHIVE/Summer-2022/README.md) |
 | 2023 - Summer  | [Link](0_ARCHIVE/Summer-2023/README.md) |
+| 2024 - Winter  | [Link](0_ARCHIVE/Winter-2024/README.md) |
+
 
 
 ## Contributors (past and present)
@@ -67,3 +69,4 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 - Annika Hoppe
 - Axel Borns
 - Nelly Nicaise Nyeck Mbialeu
+- Chintan Patel
