@@ -43,12 +43,12 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E00   | Getting to know you and your strengths! | [Link](Exercises/E01-Household-Waste.pdf)          |
-| E01   | Ecological Footprint                    | [Link](Exercises/E02-Resource-Scarcity.pdf)        |
-| E02   | Household Waste                         | [Link](Exercises/E03-EnvironmentalPollution.pdf)   |
-| E03   | Der Verein - Group Exercise             | [Link](Exercises/E04-protest-movement.pdf)         |
-| E04   | Protest Manifesto - Group Exercise      | [Link](Exercises/E05-LCA.pdf)                      |
-| E05   | Circular Society - Group Exercise       | [Link](Exercises/E06-Circular-Societies.pdf)       |
+| E00   | Getting to know you and your strengths! | [Link](The-Limits-to-Growth/Exercises/E00-Getting to know you.pdf)          |
+| E01   | Ecological Footprint                    | [Link](The-Limits-to-Growth/Exercises/E01-Ecological Footprint.pdf)        |
+| E02   | Household Waste                         | [Link](The-Limits-to-Growth/Exercises/E02-Household Waste.pdf)   |
+| E03   | Der Verein - Group Exercise             | [Link](The-Limits-to-Growth/Exercises/E03-Der Verein - Group exercise.pdf)         |
+| E04   | Protest Manifesto - Group Exercise      | [Link](The-Limits-to-Growth/Exercises/E04-Protest Manifesto - Group Exercise.pdf)                      |
+| E05   | Circular Society - Group Exercise       | [Link](The-Limits-to-Growth/Exercises/E05-Circular Society - Group Exercise.pdf)       |
 
 
 
