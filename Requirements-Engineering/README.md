@@ -24,7 +24,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID  | Topic                                               | Slides                                                                   | Video                                    |
 |-----|-----------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------|
-| L00 | Organization                                        | [Slides](RE-L00-Organization.pdf)                                        |[Link](https://youtu.be/oTpTjCEDv8Q)     |
+| L00 | Organization                                        | [Slides](RE-L00-Organization.pdf)                                        |    |
 | L01 | Introduction                                        | [Slides](RE-L01-Introduction.pdf)                                        |           |
 | L02 | System Context Boundaries and Types of Requirements | [Slides](RE-L02-System-Context-Boundaries-and-Types-of-Requirements.pdf) |            |
 | L03 | Elicitation - Part 1                                | [Slides](RE-L03-Elicitation--Part-1.pdf)                                 |           |
@@ -46,11 +46,10 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 |-----|--------------------------|-----------------------------------------------------------------------------|
 | E01 | Knowledge Test (MC)      | [Exercise](Exercises/E01-Knowledge-Test-MC/E01-Inital-MC-Knowledgetest.pdf) |
 | E02 | Elicitation I            | [Exercise](Exercises/E02-Elicitation-I/E02-Elicitation-I.pdf)               |
-| E03 | Elicitation II           | [Exercise](Exercises/E02-Elicitation-II/E03-Elicitation-II.pdf)             |
-| EXX | Bonus Task               | [Exercise](Exercises/EXX-Bonus-Task/EXX-Bonus-Task.pdf)                      
-| E04 | Agent-Oriented Modelling | [Exercise](Exercises/E04-AOM/E04-AOM.pdf)                                   |
-| E05 | CPN I                    | [Exercise](Exercises/E05-CPN-I/E05-CPN-I.pdf)                               |
-| E06 | CPN II                   | [Exercise](Exercises/E06-CPN-II/E06-CPN-II.pdf)                             |
+| E03 | Elicitation II           | [Exercise](Exercises/E02-Elicitation-II/E03-Elicitation-II.pdf)             |               
+| E04 | Agent-Oriented Modelling |                                  |
+| E05 | CPN I                    |                               |
+| E06 | CPN II                   |                        |
 | E07 | Management (MC)          | [Exercise](Exercises/E07-Management/E07-Management-MC.pdf)                  |
 | E08 | Traceability (MC)        | [Exercise](Exercises/E08-Traceability/E08-Traceability-MC.pdf)              |
                                 
