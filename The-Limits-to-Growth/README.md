@@ -43,12 +43,12 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
-| E02   | Resource Scarcity                       | [Link](Exercises/E02-Resource-Scarcity.pdf)        |
-| E03   | Environmental Pollution                 | [Link](Exercises/E03-EnvironmentalPollution.pdf)   |
-| E04   | Political Action - Protest movement     | [Link](Exercises/E04-protest-movement.pdf)         |
-| E05   | LCA                                     | [Link](Exercises/E05-LCA.pdf)                      |
-| E06   | Circular Societies                      | [Link](Exercises/E06-Circular-Societies.pdf)       |
+| E00   | Getting to know you and your strengths! | [Link](Exercises/E01-Household-Waste.pdf)          |
+| E01   | Ecological Footprint                    | [Link](Exercises/E02-Resource-Scarcity.pdf)        |
+| E02   | Household Waste                         | [Link](Exercises/E03-EnvironmentalPollution.pdf)   |
+| E03   | Der Verein - Group Exercise             | [Link](Exercises/E04-protest-movement.pdf)         |
+| E04   | Protest Manifesto - Group Exercise      | [Link](Exercises/E05-LCA.pdf)                      |
+| E05   | Circular Society - Group Exercise       | [Link](Exercises/E06-Circular-Societies.pdf)       |
 
 
 
