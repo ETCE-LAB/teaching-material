@@ -1,4 +1,4 @@
-<img src="https://www.presse.tu-clausthal.de/fileadmin/Presse/images/Corporate_Design/Logo/Logo_TUC_en_CMYK.jpg" width="300">
+<img src="https://github.com/user-attachments/assets/bb514772-084e-439f-997a-badfe089be76" width="300">
 
 This repository contains the teaching materials of the "Requirements Engineering" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
 
