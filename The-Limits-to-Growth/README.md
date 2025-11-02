@@ -43,12 +43,12 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E01   | Household Waste                         | [Link](Exercises/E01-Household-Waste.pdf)          |
-| E02   | Resource Scarcity                       | [Link](Exercises/E02-Resource-Scarcity.pdf)        |
-| E03   | Environmental Pollution                 | [Link](Exercises/E03-EnvironmentalPollution.pdf)   |
-| E04   | Political Action - Protest movement     | [Link](Exercises/E04-protest-movement.pdf)         |
-| E05   | LCA                                     | [Link](Exercises/E05-LCA.pdf)                      |
-| E06   | Circular Societies                      | [Link](Exercises/E06-Circular-Societies.pdf)       |
+| E00   | Getting to know you and your strengths! | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E00-Getting%20to%20know%20you.pdf)          |
+| E01   | Ecological Footprint                    | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E01-Ecological%20Footprint.pdf)        |
+| E02   | Household Waste                         | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E02-Household%20Waste.pdf)   |
+| E03   | Der Verein - Group Exercise             | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E03-Der%20Verein%20-%20Group%20exercise.pdf)         |
+| E04   | Protest Manifesto - Group Exercise      | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E04-Protest%20Manifesto%20-%20Group%20Exercise.pdf)                      |
+| E05   | Circular Society - Group Exercise       | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E05-Circular%20Society%20-%20Group%20Exercise.pdf)       |
 
 
 
