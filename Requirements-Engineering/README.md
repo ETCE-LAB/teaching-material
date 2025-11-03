@@ -1,4 +1,4 @@
-<img src="https://www.presse.tu-clausthal.de/fileadmin/Presse/images/Corporate_Design/Logo/Logo_TUC_en_CMYK.jpg" width="300">
+<img src="https://www.presse.tu-clausthal.de/fileadmin/Sites/Presse/Images/Corporate_Design/Logo/Logo_TUC_en_rgb.jpg" width="300">
 
 This repository contains the teaching materials of the "Requirements Engineering" course taught at TU Clausthal (Germany) [(link)](https://www.isse.tu-clausthal.de/en/) by the ETCE research group [(link)](https://etce-lab.com).
 
@@ -47,7 +47,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | E01 | Knowledge Test (MC)      | [Exercise](Exercises/E01-Knowledge-Test-MC/E01-Inital-MC-Knowledgetest.pdf) |
 | E02 | Elicitation I            | [Exercise](Exercises/E02-Elicitation-I/E02-Elicitation-I.pdf)               |
 | E03 | Elicitation II           | [Exercise](Exercises/E03-Elicitation-II/E03-Elicitation-II.pdf)             |
-| E04 | Agent-Oriented Modelling |                                  |
+| E04 | Agent-Oriented Modelling | [Exercise](Exercises/E04-AOM/E04-AOM.pdf)                                |
 | E05 | CPN I                    |                               |
 | E06 | CPN II                   |                        |
 | E07 | Management (MC)          | [Exercise](Exercises/E07-Management/E07-Management-MC.pdf)                  |
