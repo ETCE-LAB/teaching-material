@@ -20,8 +20,8 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID  | Topic                                                      | Slides                                                           | Video                                                          |
 |-----|------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|
-| L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | - |
-| L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | - |
+| L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | [Video](https://youtu.be/k5rbZb_8Y_E) |
+| L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | [Video](https://youtu.be/-FxfyV5-XIU) |
 | L02 | Challenges of the 21st Century I - Environmental Pollution and Resource Scarcity | [Slides](LTG-L02-Challenges-I.pdf)         | - |
 | L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              | - |
 | L04 | Overshoot, the Limits to Growth and Planetary Boundaries   | [Slides](LTG-L04-Limits-to-Growth-and-Planetary-Boundaries.pdf)  | - |
