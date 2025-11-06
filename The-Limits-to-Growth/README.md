@@ -20,7 +20,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID  | Topic                                                      | Slides                                                           | Video                                                          |
 |-----|------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|
-| L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                                   | - |
+| L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | - |
 | L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | - |
 | L02 | Challenges of the 21st Century I - Environmental Pollution and Resource Scarcity | [Slides](LTG-L02-Challenges-I.pdf)         | - |
 | L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              | - |
@@ -41,12 +41,12 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E00   | Who are you?                            | [Link]() |
-| E01   | Ecological Footprint                    | [Link]() |
-| E02   | Household Waste                         | [Link]() |
-| E03   | Der Verein - Group Exercise             | [Link]() |
-| E04   | Protest Manifesto - Group Exercise      | [Link]() |
-| E05   | Circular Society - Group Exercise       | [Link]() |
+| E00   | Who are you?                            | Coming Soon |
+| E01   | Ecological Footprint                    | [Link](Exercises/E01_Ecological-Footprint.pdf)     |
+| E02   | Household Waste                         | [Link](Exercises/E02_Household-Waste.pdf)          |
+| E03   | Der Verein - Group Exercise             | Coming Soon |
+| E04   | Protest Manifesto - Group Exercise      | Coming Soon |
+| E05   | Circular Society - Group Exercise       | [Link](Exercises/E05_Circular-Society-Group-Exercise.pdf) |
 
 
 
