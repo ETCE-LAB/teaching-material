@@ -20,35 +20,33 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID  | Topic                                                      | Slides                                                           | Video                                                          |
 |-----|------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|
-| L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | [Video](https://youtu.be/-mT3JjFKtwg)                           |
-| L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | [Video](https://youtu.be/JlxNfXUhMOY)                           |
-| L02 | Challenges of the 21st Century I - Environmental Pollution and Resources | [Slides](LTG-L02-Challenges-I.pdf)                 | [Video](https://youtu.be/HMFQHEzZS78)                           |
-| L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              | [Video](https://youtu.be/nnZKHqgPbew)                           |
-| L04 | A Short History Political (In-)Action                      | [Slides](LTG-L04-Sustainability-and-Political-(In-)Action.pdf)   | -                                                              |
-| L05 | Overshoot, the Limits to Growth and Planetary Boundaries   | [Slides](LTG-L05a-Limits-to-Growth-and-Planetary-Boundaries.pdf) | [Video](https://youtu.be/TLLNis9QIPM)                          |
-|     | Collapse                                                   | [Slides](LTG-L05b-Bonus-Collapse.pdf)                            | -                                                              |
-| L06 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L06-Lifecycle-Assessment.pdf)                       | -                                                              |
-| L07 | Invited Lecture - Sustainability and Ethics                                  | [Slides](LTG-L07-Ethics-and-Sustainability.pdf)                  | [Video](https://youtu.be/q1Vxzn5_b5E)                          |
-| L08 | Circular Economy                                           | [Slides](LTG-L08-Circular-Economy.pdf)                           | [Video](https://youtu.be/Mu2DiBM6MJ09)                        |
-|     | Invited Lecture - Developing Circularity                                     | The slides are available on StudIP                               | [Video](https://youtu.be/DlMdN6OQF0w)                          |
-| L09 | Circular Societies                                        | [Slides](LTG-L09-Circular-Societies.pdf)                         | [Video](https://youtu.be/VGDI2e9sw8A?feature=shared)            |
-| L10 | Beyond the Circular Economy I                              | [Slides](LTG-L10-Beyond-the-Circular-Economy--Part-1.pdf)        | [Video](https://youtu.be/Ml0YHUng08o)                          |
-| L11 | Invited Lecture - Power in Balance: Horizontal Governance for Collaborative Communities  | The slides are available on StudIP  | [Video](https://youtu.be/B27tabsSrjw)                         |
-| L12 | Beyond the Circular Economy II                             | [Slides](LTG-L12-Beyond-the-Circular-Economy--Part-2.pdf)        | [Video](https://youtu.be/1cBqzcyRAhI)                          |
-| L13 | Summary                                                    | [Slides](LTG-L13-Now-What.pdf)                                   | [Video](https://youtu.be/K0JMdroqPf8)                          |
-
-
+| L00 | Organization                                               | [Slides](LTG-L00-Organization)                                   | - |
+| L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | - |
+| L02 | Challenges of the 21st Century I - Environmental Pollution and Resource Scarcity | [Slides](LTG-L02-Challenges-I.pdf)         | - |
+| L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              | - |
+| L04 | Overshoot, the Limits to Growth and Planetary Boundaries   | [Slides](LTG-L04-Limits-to-Growth-and-Planetary-Boundaries.pdf)  | - |
+| L05 | Invited Lecture (Ani Melkonyan-Gottschalk) – Circular Economy | [Slides](LTG-L05-Circular-Economy.pdf)                        | - |
+| L06 | A Short History Political (In-)Action                      | [Slides](LTG-L06-Sustainability-and-Political-(In-)Action.pdf)   | - |
+| L07 | Circular Societies                                         | [Slides](LTG-L07-Circular-Societies.pdf)                         | - |
+| L08 | Invited Lecture (Johannes Müller-Salo) – Ethics & Moral of Sustainability | Coming Soon                                       | - |
+| L09 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L09-Lifecycle-Assessment.pdf)                       | - |
+| L10 | Invited Lecture (David Inkermann) – Life Cycle Planning of Durable Products | Coming Soon                                     | - |
+| L11 | Complex Societies and Technology                           | Coming Soon                                                      | - |
+| L12 | Beyond the Circular Economy                                | [Slides](LTG-L12-Beyond-the-Circular-Economy.pdf)                | - |
+| L13 | Invited Lecture (Roland Menges) – The Common Good and Collective Decision-Making | Coming Soon                                | - |
+| L14 | Invited Lecture (Gabriel Busato - CatFarm)                 | Coming Soon                                                      | - |
+| L15 | Summary                                                    | Coming Soon                                                      | - |
 
 ## Exercises
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E00   | Getting to know you and your strengths! | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E00-Getting%20to%20know%20you.pdf)          |
-| E01   | Ecological Footprint                    | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E01-Ecological%20Footprint.pdf)        |
-| E02   | Household Waste                         | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E02-Household%20Waste.pdf)   |
-| E03   | Der Verein - Group Exercise             | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E03-Der%20Verein%20-%20Group%20exercise.pdf)         |
-| E04   | Protest Manifesto - Group Exercise      | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E04-Protest%20Manifesto%20-%20Group%20Exercise.pdf)                      |
-| E05   | Circular Society - Group Exercise       | [Link](https://github.com/ETCE-LAB/teaching-material/blob/2dba36f4ebf152ee3d6d3e5e20b1a32b2dbdee8c/The-Limits-to-Growth/Exercises/E05-Circular%20Society%20-%20Group%20Exercise.pdf)       |
+| E00   | Who are you?                            | [Link]() |
+| E01   | Ecological Footprint                    | [Link]() |
+| E02   | Household Waste                         | [Link]() |
+| E03   | Der Verein - Group Exercise             | [Link]() |
+| E04   | Protest Manifesto - Group Exercise      | [Link]() |
+| E05   | Circular Society - Group Exercise       | [Link]() |
 
 
 
