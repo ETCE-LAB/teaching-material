@@ -41,12 +41,12 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID    | Topic                                   | Exercise Sheet                                     |
 |-------|-----------------------------------------|----------------------------------------------------|
-| E00   | Who are you?                            | Coming Soon |
+| E00   | Who are you?                            | [Link](Exercises/E00_Who-Are-You.pdf)              |
 | E01   | Ecological Footprint                    | [Link](Exercises/E01_Ecological-Footprint.pdf)     |
 | E02   | Household Waste                         | [Link](Exercises/E02_Household-Waste.pdf)          |
-| E03   | Der Verein - Group Exercise             | Coming Soon |
-| E04   | Protest Manifesto - Group Exercise      | Coming Soon |
-| E05   | Circular Society - Group Exercise       | [Link](Exercises/E05_Circular-Society-Group-Exercise.pdf) |
+| E03   | Der Verein - Group Exercise             | [Link](Exercises/E03_Der-Verein-Group-Exercise.pdf)|
+| E04   | Protest Manifesto - Group Exercise      | [Link](Exercises/E04_Protest-Manifesto-Group-Exercise.pdf) |
+| E05   | Circular Society - Group Exercise       | [Link](Exercises/E05_Circular-Society-Group-Exercise.pdf)  |
 
 
 
