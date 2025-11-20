@@ -23,7 +23,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | [Video](https://youtu.be/k5rbZb_8Y_E) |
 | L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | [Video](https://youtu.be/-FxfyV5-XIU) |
 | L02 | Challenges of the 21st Century I - Environmental Pollution and Resource Scarcity | [Slides](LTG-L02-Challenges-I.pdf)         | [Video - Reupload WS24/25](https://youtu.be/oDM7EsplzfU) |
-| L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              | - |
+| L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              | [Video](https://youtu.be/S9U6p7P0344) |
 | L04 | Overshoot, the Limits to Growth and Planetary Boundaries   | [Slides](LTG-L04-Limits-to-Growth-and-Planetary-Boundaries.pdf)  | - |
 | L05 | Invited Lecture (Ani Melkonyan-Gottschalk) – Circular Economy | [Slides](LTG-L05-Circular-Economy.pdf)                        | - |
 | L06 | A Short History Political (In-)Action                      | [Slides](LTG-L06-Sustainability-and-Political-(In-)Action.pdf)   | - |
