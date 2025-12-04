@@ -26,8 +26,8 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              | [Video](https://youtu.be/S9U6p7P0344) |
 | L04 | Overshoot, the Limits to Growth and Planetary Boundaries   | [Slides](LTG-L04-Limits-to-Growth-and-Planetary-Boundaries.pdf)  | [Part-1](https://youtu.be/J_Rpr_la4Ds), [Part-2](https://youtu.be/SXUJHlUySno), [Part-3](https://youtu.be/Cyjci_eKbLA) |
 | L05 | The Circular Economy                                       | [Slides](LTG-L05-Circular-Economy.pdf)                           | [Video](https://youtu.be/P7Y0szRF9K4) |
-| L06 | A Short History Political (In-)Action                      | [Slides](LTG-L06-Sustainability-and-Political-(In-)Action.pdf)   | - |
-| L07 | Invited Lecture (Ani Melkonyan-Gottschalk) – Circular Societies                                         | [Slides](LTG-L07-Circular-Societies.pdf)                         | - |
+| L06 | A Short History Political (In-)Action                      | [Slides](LTG-L06-Sustainability-and-Political-(In-)Action.pdf)   | [MOOC](https://ltg.etce-lab.de/) |
+| L07 | Invited Lecture (Ani Melkonyan-Gottschalk) – Circular Societies | [Slides](LTG-L07-Circular-Societies.pdf)                    | - |
 | L08 | Invited Lecture (Johannes Müller-Salo) – Ethics & Moral of Sustainability | Coming Soon                                       | - |
 | L09 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L09-Lifecycle-Assessment.pdf)                       | - |
 | L10 | Invited Lecture (David Inkermann) – Life Cycle Planning of Durable Products | Coming Soon                                     | - |
