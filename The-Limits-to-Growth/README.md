@@ -29,8 +29,8 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L06 | A Short History Political (In-)Action                      | [Slides](LTG-L06-Sustainability-and-Political-(In-)Action.pdf)   | [MOOC](https://ltg.etce-lab.de/) |
 | L07 | Invited Lecture (Ani Melkonyan-Gottschalk) – Circular Societies | [Slides-MOOC](LTG-L07-Circular-Societies.pdf), further slides on StudIP | [Part-1](https://youtu.be/3sdLOXU2xN4), [Part-2](https://youtu.be/SJOPIigi-v4), [Q&A](https://youtu.be/beVh_4SvEBU) |
 | L08 | Invited Lecture (Johannes Müller-Salo) – Ethics & Moral of Sustainability | StudIP | [Part-1](https://youtu.be/H2deprq1xz4), [Part-2](https://youtu.be/ddWNtXwEJGg), [Q&A](https://youtu.be/6liJJPt-h0o) |
-| L09 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L09-Lifecycle-Assessment.pdf)                       | - |
-| L10 | Invited Lecture (David Inkermann) – Life Cycle Planning of Durable Products | Coming Soon                                     | - |
+| L09 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L09-Lifecycle-Assessment.pdf)                       | [MOOC](https://ltg.etce-lab.de/) |
+| L10 | Invited Lecture (David Inkermann) – Life Cycle Planning of Durable Products | StudIP                                          | [Video](https://youtu.be/0zgWVtGwXO8), [Q&A](https://youtu.be/w-K8LicKMbY) |
 | L11 | Complex Societies and Technology                           | Coming Soon                                                      | - |
 | L12 | Beyond the Circular Economy                                | [Slides](LTG-L12-Beyond-the-Circular-Economy.pdf)                | - |
 | L13 | Invited Lecture (Roland Menges) – The Common Good and Collective Decision-Making | Coming Soon                                | - |
