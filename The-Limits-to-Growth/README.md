@@ -31,7 +31,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L08 | Invited Lecture (Johannes Müller-Salo) – Ethics & Moral of Sustainability | StudIP | [Part-1](https://youtu.be/H2deprq1xz4), [Part-2](https://youtu.be/ddWNtXwEJGg), [Q&A](https://youtu.be/6liJJPt-h0o) |
 | L09 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L09-Lifecycle-Assessment.pdf)                       | [MOOC](https://ltg.etce-lab.de/) |
 | L10 | Invited Lecture (David Inkermann) – Life Cycle Planning of Durable Products | StudIP                                          | [Video](https://youtu.be/0zgWVtGwXO8), [Q&A](https://youtu.be/w-K8LicKMbY) |
-| L11 | Complex Societies and Technology                           | Coming Soon                                                      | [Part-1](https://youtu.be/eLDajlrUpX8), [Part-2](https://youtu.be/qU0qfDe9HPE) |
+| L11 | Complex Societies and Technology                           | [Slides](LTG-L11-Complex-Societies-and-Technology.pdf)           | [Part-1](https://youtu.be/eLDajlrUpX8), [Part-2](https://youtu.be/qU0qfDe9HPE) |
 | L12 | Beyond the Circular Economy                                | [Slides](LTG-L12-Beyond-the-Circular-Economy.pdf)                | - |
 | L13 | Invited Lecture (Roland Menges) – The Common Good and Collective Decision-Making | Coming Soon                                | - |
 | L14 | Invited Lecture (Gabriel Busato - CatFarm)                 | Coming Soon                                                      | - |
