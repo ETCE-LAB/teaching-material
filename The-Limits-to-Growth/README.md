@@ -32,9 +32,9 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L09 | Lifecycle Assessment (LCA)                                 | [Slides](LTG-L09-Lifecycle-Assessment.pdf)                       | [MOOC](https://ltg.etce-lab.de/) |
 | L10 | Invited Lecture (David Inkermann) – Life Cycle Planning of Durable Products | StudIP                                          | [Video](https://youtu.be/0zgWVtGwXO8), [Q&A](https://youtu.be/w-K8LicKMbY) |
 | L11 | Complex Societies and Technology                           | [Slides](LTG-L11-Complex-Societies-and-Technology.pdf)           | [Part-1](https://youtu.be/eLDajlrUpX8), [Part-2](https://youtu.be/qU0qfDe9HPE) |
-| L12 | Beyond the Circular Economy                                | [Slides](LTG-L12-Beyond-the-Circular-Economy.pdf)                | - |
-| L13 | Invited Lecture (Roland Menges) – The Common Good and Collective Decision-Making | Coming Soon                                | - |
-| L14 | Invited Lecture (Gabriel Busato - CatFarm)                 | Coming Soon                                                      | - |
+| L12 | Beyond the Circular Economy                                | [Slides](LTG-L12-Beyond-the-Circular-Economy.pdf)                | [Part-1](https://youtu.be/pbEMuUl72ME), [Part-2](https://youtu.be/CSrZ2EZFc2o) |
+| L13 | Invited Lecture (Roland Menges) – The Common Good and Collective Decision-Making | Coming Soon                                | [Video](https://youtu.be/dLvO7bTwcIE), [Q&A](https://youtu.be/IK55qOi4AS8) |
+| L14 | Invited Lecture (CatFarm)                 | Coming Soon                                                      | - |
 | L15 | Summary                                                    | Coming Soon                                                      | - |
 
 ## Exercises
