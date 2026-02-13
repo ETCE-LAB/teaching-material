@@ -35,7 +35,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L12 | Beyond the Circular Economy                                | [Slides](LTG-L12-Beyond-the-Circular-Economy.pdf)                | [Part-1](https://youtu.be/pbEMuUl72ME), [Part-2](https://youtu.be/CSrZ2EZFc2o) |
 | L13 | Invited Lecture (Roland Menges) – The Common Good and Collective Decision-Making | StudIP                                     | [Video](https://youtu.be/dLvO7bTwcIE), [Q&A](https://youtu.be/IK55qOi4AS8) |
 | L14 | Invited Lecture (Dara - CatFarm) - Reimagining-Agriculture | StudIP                                                           | [Video](https://youtu.be/qewS5PkPEPE) |
-| L15 | Summary                                                    | Coming Soon                                                      | - |
+| L15 | Summary                                                    | [Slides](LTG-L15-Now-What.pdf)                                   | [Video](https://youtu.be/rBC3nnGZYBk) |
 
 ## Exercises
 
