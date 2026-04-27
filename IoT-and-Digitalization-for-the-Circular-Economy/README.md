@@ -15,7 +15,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 | ID  | Topic                                  | Slides                                | Video       |
 |-----|----------------------------------------|---------------------------------------|-------------|
-| L00 | Organization                           | [Slides](IoT-CE-L00-Organization.pdf) | Coming soon |
+| L00 | Organization                           | [Slides](IoT-CE-L00-Organization.pdf) | [Video](https://youtu.be/rw0q7lVpcE8) |
 | L01 | Introduction                           | Coming soon                           | Coming soon |
 | L02 | Circular Economy                       | Coming soon                           | Coming soon |
 | L03 | Lifecycle Assessment (LCA) I           | Coming soon                           | Coming soon |
