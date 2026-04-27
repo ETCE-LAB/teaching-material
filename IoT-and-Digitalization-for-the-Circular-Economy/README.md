@@ -13,32 +13,32 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 ## Lectures
 
-| ID   | Topic                                  | Slides                                                                                                                                               | Video                                                          |
-|------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| L00  | Organization                           | [Slides](IoT-CE-L00-Organization.pdf)                                                                                                                | Coming soon |
-| L01  | Introduction                           | Coming soon                               | Coming soon |
-| L02  | Circular Economy                       | Coming soon                               | Coming soon |
-| L03  | Lifecycle Assessment (LCA) I           | Coming soon                               | Coming soon |
-| L04  | Lifecycle Assessment (LCA) II          | Coming soon                               | Coming soon |
-| L05  | Introduction to the Internet of Things | Coming soon                               | Coming soon |
-| L06  | IoT Communication                      | Coming soon                               | Coming soon |
-| L07  | IoT Security & Privacy                 | Coming soon                               | Coming soon |
-| L08  | IoT Data Processing & Big Data         | Coming soon                               | Coming soon |
-| L09  | IoT in Mining I                        | Coming soon                               | Coming soon |
-| L10  | IoT in Mining II                       | Coming soon                               | Coming soon |
-| L11  | Digital Technologies and Greenwashing  | Coming soon                               | Coming soon |
+| ID  | Topic                                  | Slides                                | Video       |
+|-----|----------------------------------------|---------------------------------------|-------------|
+| L00 | Organization                           | [Slides](IoT-CE-L00-Organization.pdf) | Coming soon |
+| L01 | Introduction                           | Coming soon                           | Coming soon |
+| L02 | Circular Economy                       | Coming soon                           | Coming soon |
+| L03 | Lifecycle Assessment (LCA) I           | Coming soon                           | Coming soon |
+| L04 | Lifecycle Assessment (LCA) II          | Coming soon                           | Coming soon |
+| L05 | Introduction to the Internet of Things | Coming soon                           | Coming soon |
+| L06 | IoT Communication                      | Coming soon                           | Coming soon |
+| L07 | IoT Security & Privacy                 | Coming soon                           | Coming soon |
+| L08 | IoT Data Processing & Big Data         | Coming soon                           | Coming soon |
+| L09 | IoT in Mining I                        | Coming soon                           | Coming soon |
+| L10 | IoT in Mining II                       | Coming soon                           | Coming soon |
+| L11 | Digital Technologies and Greenwashing  | Coming soon                           | Coming soon |
 
 
 ## Exercises
 
-| ID    | Topic                                   | Exercise Sheets                                    |
-|-------|-----------------------------------------|----------------------------------------------------|
-| E01   | To be published                         | To be published                                    |
-| E02   | To be published                         | To be published                                    |
-| E03   | To be published                         | To be published                                    |
-| E04   | To be published                         | To be published                                    |
-| E05   | To be published                         | To be published                                    |
-| E06   | To be published                         | To be published                                    |
+| ID  | Topic                 | Exercise Sheets                      |
+|-----|-----------------------|--------------------------------------|
+| E01 | Circular Economy (MC) | [Link](Exercises/E01-CE-MC-Test.pdf) |
+| E02 | To be published       | To be published                      |
+| E03 | To be published       | To be published                      |
+| E04 | To be published       | To be published                      |
+| E05 | To be published       | To be published                      |
+| E06 | To be published       | To be published                      |
 
 
 
