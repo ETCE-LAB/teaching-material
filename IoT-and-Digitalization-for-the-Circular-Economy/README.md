@@ -16,7 +16,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | ID  | Topic                                  | Slides                                | Video       |
 |-----|----------------------------------------|---------------------------------------|-------------|
 | L00 | Organization                           | [Slides](IoT-CE-L00-Organization.pdf) | [Video](https://youtu.be/rw0q7lVpcE8) |
-| L01 | Introduction                           | Coming soon                           | Coming soon |
+| L01 | Introduction                           | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf) | Coming soon |
 | L02 | Circular Economy                       | Coming soon                           | Coming soon |
 | L03 | Lifecycle Assessment (LCA) I           | Coming soon                           | Coming soon |
 | L04 | Lifecycle Assessment (LCA) II          | Coming soon                           | Coming soon |
