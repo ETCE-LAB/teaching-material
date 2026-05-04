@@ -14,7 +14,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | ID  | Topic                                                          | Slides                              | Video       |
 |-----|----------------------------------------------------------------|-------------------------------------|-------------|
 | L00 | Organization                                                   | [Slides](ETCE-L00-Organization.pdf) | [Video](https://youtu.be/aglNlPsD-Qg) |
-| L01 | Introduction                                                   | Coming soon                         | Coming soon |
+| L01 | Introduction                                                   | [Slides](ETCE-L01-Introduction.pdf) | Coming soon |
 | L02 | Circular Economy                                               | Coming soon                         | Coming soon |
 | L03 | Lifecycle Assessment (LCA) I                                   | Coming soon                         | Coming soon |
 | L04 | Lifecycle Assessment (LCA) II                                  | Coming soon                         | Coming soon |
