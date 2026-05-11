@@ -11,20 +11,20 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 ## Lectures
 
-| ID  | Topic                                                          | Slides                              | Video       |
-|-----|----------------------------------------------------------------|-------------------------------------|-------------|
-| L00 | Organization                                                   | [Slides](ETCE-L00-Organization.pdf) | [Video](https://youtu.be/aglNlPsD-Qg) |
-| L01 | Introduction                                                   | [Slides](ETCE-L01-Introduction.pdf) | [Video](https://youtu.be/y4GqbdBS79M) |
-| L02 | Circular Economy                                               | Coming soon                         | Coming soon |
-| L03 | Lifecycle Assessment (LCA) I                                   | Coming soon                         | Coming soon |
-| L04 | Lifecycle Assessment (LCA) II                                  | Coming soon                         | Coming soon |
-| L05 | Introduction to the Internet of Things                         | Coming soon                         | Coming soon |
-| L06 | IoT Communication                                              | Coming soon                         | Coming soon |
-| L07 | IoT Security & Privacy                                         | Coming soon                         | Coming soon |
-| L08 | IoT Data Processing & Big Data                                 | Coming soon                         | Coming soon |
-| L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                         | Coming soon |
-| L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                         | Coming soon |
-| L11 | Digital Technologies and Greenwashing                          | Coming soon                         | Coming soon |
+| ID  | Topic                                                          | Slides                                  | Video                                 |
+|-----|----------------------------------------------------------------|-----------------------------------------|---------------------------------------|
+| L00 | Organization                                                   | [Slides](ETCE-L00-Organization.pdf)     | [Video](https://youtu.be/aglNlPsD-Qg) |
+| L01 | Introduction                                                   | [Slides](ETCE-L01-Introduction.pdf)     | [Video](https://youtu.be/y4GqbdBS79M) |
+| L02 | Circular Economy                                               | [Slides](ETCE-L02-Circular-Economy.pdf) | Coming soon                           |
+| L03 | Lifecycle Assessment (LCA) I                                   | Coming soon                             | Coming soon                           |
+| L04 | Lifecycle Assessment (LCA) II                                  | Coming soon                             | Coming soon                           |
+| L05 | Introduction to the Internet of Things                         | Coming soon                             | Coming soon                           |
+| L06 | IoT Communication                                              | Coming soon                             | Coming soon                           |
+| L07 | IoT Security & Privacy                                         | Coming soon                             | Coming soon                           |
+| L08 | IoT Data Processing & Big Data                                 | Coming soon                             | Coming soon                           |
+| L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                             | Coming soon                           |
+| L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                             | Coming soon                           |
+| L11 | Digital Technologies and Greenwashing                          | Coming soon                             | Coming soon                           |
 
 
 ## Exercises
