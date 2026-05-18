@@ -11,37 +11,37 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 ## Lectures
 
-| ID  | Topic                                                          | Slides                                  | Video                                 |
-|-----|----------------------------------------------------------------|-----------------------------------------|---------------------------------------|
-| L00 | Organization                                                   | [Slides](ETCE-L00-Organization.pdf)     | [Video](https://youtu.be/aglNlPsD-Qg) |
-| L01 | Introduction                                                   | [Slides](ETCE-L01-Introduction.pdf)     | [Video](https://youtu.be/y4GqbdBS79M) |
-| L02 | Circular Economy                                               | [Slides](ETCE-L02-Circular-Economy.pdf) | [Video](https://youtu.be/QTCnt3dQHeU) |
-| L03 | Lifecycle Assessment (LCA) I                                   | Coming soon                             | Coming soon                           |
-| L04 | Lifecycle Assessment (LCA) II                                  | Coming soon                             | Coming soon                           |
-| L05 | Introduction to the Internet of Things                         | Coming soon                             | Coming soon                           |
-| L06 | IoT Communication                                              | Coming soon                             | Coming soon                           |
-| L07 | IoT Security & Privacy                                         | Coming soon                             | Coming soon                           |
-| L08 | IoT Data Processing & Big Data                                 | Coming soon                             | Coming soon                           |
-| L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                             | Coming soon                           |
-| L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                             | Coming soon                           |
-| L11 | Digital Technologies and Greenwashing                          | Coming soon                             | Coming soon                           |
+| ID  | Topic                                                          | Slides                                              | Video                                 |
+|-----|----------------------------------------------------------------|-----------------------------------------------------|---------------------------------------|
+| L00 | Organization                                                   | [Slides](ETCE-L00-Organization.pdf)                 | [Video](https://youtu.be/aglNlPsD-Qg) |
+| L01 | Introduction                                                   | [Slides](ETCE-L01-Introduction.pdf)                 | [Video](https://youtu.be/y4GqbdBS79M) |
+| L02 | Circular Economy                                               | [Slides](ETCE-L02-Circular-Economy.pdf)             | [Video](https://youtu.be/QTCnt3dQHeU) |
+| L03 | Lifecycle Assessment (LCA) I                                   | [Slides](ETCE-L03-Lifecycle-Assessment--Part-1.pdf) | Coming soon                           |
+| L04 | Lifecycle Assessment (LCA) II                                  | Coming soon                                         | Coming soon                           |
+| L05 | Introduction to the Internet of Things                         | Coming soon                                         | Coming soon                           |
+| L06 | IoT Communication                                              | Coming soon                                         | Coming soon                           |
+| L07 | IoT Security & Privacy                                         | Coming soon                                         | Coming soon                           |
+| L08 | IoT Data Processing & Big Data                                 | Coming soon                                         | Coming soon                           |
+| L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                                         | Coming soon                           |
+| L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                                         | Coming soon                           |
+| L11 | Digital Technologies and Greenwashing                          | Coming soon                                         | Coming soon                           |
 
 
 ## Exercises
 
-| ID  | Topic                 | Exercise Sheets                                   |
-|-----|-----------------------|---------------------------------------------------|
-| E01 | Knowledge Test (MC)   | [Link](Exercises/E01-Inital-MC-Knowledgetest.pdf) |
-| E02 | Circular Economy (MC) | [Link](Exercises/E02-CE-MC-Test.pdf)              |
-| E03 | To be published       | To be published                                   |
-| E04 | To be published       | To be published                                   |
-| E05 | To be published       | To be published                                   |
-| E06 | To be published       | To be published                                   |
-| E08 | To be published       | To be published                                   |
-| E08 | To be published       | To be published                                   |
-| E09 | To be published       | To be published                                   |
-| E10 | To be published       | To be published                                   |
-| E11 | To be published       | To be published                                   |
+| ID  | Topic                          | Exercise Sheets                                   |
+|-----|--------------------------------|---------------------------------------------------|
+| E01 | Knowledge Test (MC)            | [Link](Exercises/E01-Inital-MC-Knowledgetest.pdf) |
+| E02 | Circular Economy (MC)          | [Link](Exercises/E02-CE-MC-Test.pdf)              |
+| E03 | Lifecycle Assessment -- Part I | [Link](Exercises/E03-LCA-Part-1.pdf)              |
+| E04 | To be published                | To be published                                   |
+| E05 | To be published                | To be published                                   |
+| E06 | To be published                | To be published                                   |
+| E08 | To be published                | To be published                                   |
+| E08 | To be published                | To be published                                   |
+| E09 | To be published                | To be published                                   |
+| E10 | To be published                | To be published                                   |
+| E11 | To be published                | To be published                                   |
 
 ## Lecture Materials of Previous Semesters
 
