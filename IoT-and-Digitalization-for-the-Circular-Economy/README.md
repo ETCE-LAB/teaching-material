@@ -31,14 +31,14 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 
 ## Exercises
 
-| ID  | Topic                 | Exercise Sheets                      |
-|-----|-----------------------|--------------------------------------|
-| E01 | Circular Economy (MC) | [Link](Exercises/E01-CE-MC-Test.pdf) |
-| E02 | To be published       | To be published                      |
-| E03 | To be published       | To be published                      |
-| E04 | To be published       | To be published                      |
-| E05 | To be published       | To be published                      |
-| E06 | To be published       | To be published                      |
+| ID  | Topic                  | Exercise Sheets                      |
+|-----|------------------------|--------------------------------------|
+| E01 | Circular Economy (MC)  | [Link](Exercises/E01-CE-MC-Test.pdf) |
+| E02 | Lifecycle Assessment I | [Link](Exercises/E02-LCA-Part-1.pdf)                      |
+| E03 | To be published        | To be published                      |
+| E04 | To be published        | To be published                      |
+| E05 | To be published        | To be published                      |
+| E06 | To be published        | To be published                      |
 
 
 
