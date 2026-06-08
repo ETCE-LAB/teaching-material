@@ -18,7 +18,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L02 | Circular Economy                                               | [Slides](ETCE-L02-Circular-Economy.pdf)             | [Video](https://youtu.be/QTCnt3dQHeU) |
 | L03 | Lifecycle Assessment (LCA) I                                   | [Slides](ETCE-L03-Lifecycle-Assessment--Part-1.pdf) | [Video](https://youtu.be/MAH8UeNVfXs) |
 | L04 | Lifecycle Assessment (LCA) II                                  | [Slides](ETCE-L04-Lifecycle-Assessment--Part-2.pdf) | [Video](https://youtu.be/bEDZFUURaBg) |
-| L05 | Introduction to the Internet of Things                         | [Slides](ETCE-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf)| Coming soon          |
+| L05 | Introduction to the Internet of Things                         | [Slides](ETCE-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf)| [Video](https://youtu.be/4Z7y0qogK04) |
 | L06 | IoT Communication                                              | Coming soon                                         | Coming soon                           |
 | L07 | IoT Security & Privacy                                         | Coming soon                                         | Coming soon                           |
 | L08 | IoT Data Processing & Big Data                                 | Coming soon                                         | Coming soon                           |
