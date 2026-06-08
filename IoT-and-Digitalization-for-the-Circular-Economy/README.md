@@ -19,8 +19,8 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L01 | Introduction                           | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L01-Introduction.pdf) | [Video](https://youtu.be/y4GqbdBS79M) |
 | L02 | Circular Economy                       | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L02-Circular-Economy.pdf) | [Video](https://youtu.be/QTCnt3dQHeU) |
 | L03 | Lifecycle Assessment (LCA) I           | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L03-Lifecycle-Assessment--Part-1.pdf) | [Video](https://youtu.be/MAH8UeNVfXs) |
-| L04 | Lifecycle Assessment (LCA) II          | Coming soon                           | Coming soon |
-| L05 | Introduction to the Internet of Things | Coming soon                           | Coming soon |
+| L04 | Lifecycle Assessment (LCA) II          | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L04-Lifecycle-Assessment--Part-2.pdf) | [Video](https://youtu.be/bEDZFUURaBg) |
+| L05 | Introduction to the Internet of Things | [Slides](https://github.com/ETCE-LAB/teaching-material/blob/master/Emerging-Technologies-for-the-Circular-Economy/ETCE-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf) | Coming soon |
 | L06 | IoT Communication                      | Coming soon                           | Coming soon |
 | L07 | IoT Security & Privacy                 | Coming soon                           | Coming soon |
 | L08 | IoT Data Processing & Big Data         | Coming soon                           | Coming soon |
@@ -34,8 +34,8 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | ID  | Topic                  | Exercise Sheets                      |
 |-----|------------------------|--------------------------------------|
 | E01 | Circular Economy (MC)  | [Link](Exercises/E01-CE-MC-Test.pdf) |
-| E02 | Lifecycle Assessment I | [Link](Exercises/E02-LCA-Part-1.pdf)                      |
-| E03 | To be published        | To be published                      |
+| E02 | Lifecycle Assessment I | [Link](Exercises/E02-LCA-Part-1.pdf) |
+| E03 | Lifecycle Assessment II| [Link](Exercises/E03-LCA-Part-2.pdf) |
 | E04 | To be published        | To be published                      |
 | E05 | To be published        | To be published                      |
 | E06 | To be published        | To be published                      |
