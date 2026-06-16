@@ -36,7 +36,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E03 | Lifecycle Assessment -- Part I | [Link](Exercises/E03-LCA-Part-1.pdf)              |
 | E04 | Lifecycle Assessment -- Part II| [Link](Exercises/E04-LCA-Part-2.pdf)              |
 | E05 | IoT Sensing                    | [Link](Exercises/E05-IoT-Sensing.pdf)                                   |
-| E06 | To be published                | To be published                                   |
+| E06 | To be published                | [Link](Exercises/E06-IoT-Processing.pdf)                                   |
 | E08 | To be published                | To be published                                   |
 | E08 | To be published                | To be published                                   |
 | E09 | To be published                | To be published                                   |
