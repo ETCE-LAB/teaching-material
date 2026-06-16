@@ -21,8 +21,8 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L03 | Lifecycle Assessment (LCA) I           | [Slides](IoT-L03-Lifecycle-Assessment--Part-1.pdf) | [Video](https://youtu.be/MAH8UeNVfXs) |
 | L04 | Lifecycle Assessment (LCA) II          | [Slides](IoT-L04-Lifecycle-Assessment--Part-2.pdf) | [Video](https://youtu.be/bEDZFUURaBg) |
 | L05 | Introduction to the Internet of Things | [Slides](IoT-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf) | [Video](https://youtu.be/4Z7y0qogK04) |
-| L06 | IoT Communication                      | Coming soon                           | Coming soon |
-| L07 | IoT Security & Privacy                 | Coming soon                           | Coming soon |
+| L06 | IoT Communication                      | [Slides](IoT-L06-IoT-Communications.pdf) | [Video](https://youtu.be/iCWi5N1pXSo) |
+| L07 | IoT Security & Privacy                 | Coming soon                           | [Video](https://youtu.be/lsK8biZwsZo) |
 | L08 | IoT Data Processing & Big Data         | Coming soon                           | Coming soon |
 | L09 | IoT in Mining I                        | Coming soon                           | Coming soon |
 | L10 | IoT in Mining II                       | Coming soon                           | Coming soon |
