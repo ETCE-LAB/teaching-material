@@ -11,20 +11,20 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 ## Lectures
 
-| ID  | Topic                                                          | Slides                                              | Video                                 |
-|-----|----------------------------------------------------------------|-----------------------------------------------------|---------------------------------------|
-| L00 | Organization                                                   | [Slides](ETCE-L00-Organization.pdf)                 | [Video](https://youtu.be/aglNlPsD-Qg) |
-| L01 | Introduction                                                   | [Slides](ETCE-L01-Introduction.pdf)                 | [Video](https://youtu.be/y4GqbdBS79M) |
-| L02 | Circular Economy                                               | [Slides](ETCE-L02-Circular-Economy.pdf)             | [Video](https://youtu.be/QTCnt3dQHeU) |
-| L03 | Lifecycle Assessment (LCA) I                                   | [Slides](ETCE-L03-Lifecycle-Assessment--Part-1.pdf) | [Video](https://youtu.be/MAH8UeNVfXs) |
-| L04 | Lifecycle Assessment (LCA) II                                  | [Slides](ETCE-L04-Lifecycle-Assessment--Part-2.pdf) | [Video](https://youtu.be/bEDZFUURaBg) |
-| L05 | Introduction to the Internet of Things                         | [Slides](ETCE-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf)| [Video](https://youtu.be/4Z7y0qogK04) |
-| L06 | IoT Communication                                              | [Slides](ETCE-L06-IoT-Communications.pdf)           | [Video](https://youtu.be/iCWi5N1pXSo) |
-| L07 | IoT Security & Privacy                                         | Coming soon                                         | [Video](https://youtu.be/lsK8biZwsZo) |
-| L08 | IoT Data Processing & Big Data                                 | Coming soon                                         | Coming soon                           |
-| L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                                         | Coming soon                           |
-| L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                                         | Coming soon                           |
-| L11 | Digital Technologies and Greenwashing                          | Coming soon                                         | Coming soon                           |
+| ID  | Topic                                                          | Slides                                                                | Video                                 |
+|-----|----------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------|
+| L00 | Organization                                                   | [Slides](ETCE-L00-Organization.pdf)                                   | [Video](https://youtu.be/aglNlPsD-Qg) |
+| L01 | Introduction                                                   | [Slides](ETCE-L01-Introduction.pdf)                                   | [Video](https://youtu.be/y4GqbdBS79M) |
+| L02 | Circular Economy                                               | [Slides](ETCE-L02-Circular-Economy.pdf)                               | [Video](https://youtu.be/QTCnt3dQHeU) |
+| L03 | Lifecycle Assessment (LCA) I                                   | [Slides](ETCE-L03-Lifecycle-Assessment--Part-1.pdf)                   | [Video](https://youtu.be/MAH8UeNVfXs) |
+| L04 | Lifecycle Assessment (LCA) II                                  | [Slides](ETCE-L04-Lifecycle-Assessment--Part-2.pdf)                   | [Video](https://youtu.be/bEDZFUURaBg) |
+| L05 | Introduction to the Internet of Things                         | [Slides](ETCE-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf) | [Video](https://youtu.be/4Z7y0qogK04) |
+| L06 | IoT Communication                                              | [Slides](ETCE-L06-IoT-Communication.pdf)                              | Coming soon                           |
+| L07 | IoT Security & Privacy                                         | [Slides](ETCE-L06-IoT-Security-and-Privacy.pdf)                       | Coming soon                           |
+| L08 | IoT Data Processing & Big Data                                 | Coming soon                                                           | Coming soon                           |
+| L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                                                           | Coming soon                           |
+| L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                                                           | Coming soon                           |
+| L11 | Digital Technologies and Greenwashing                          | Coming soon                                                           | Coming soon                           |
 
 
 ## Exercises
