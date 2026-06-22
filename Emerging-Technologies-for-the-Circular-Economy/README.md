@@ -19,9 +19,9 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L03 | Lifecycle Assessment (LCA) I                                   | [Slides](ETCE-L03-Lifecycle-Assessment--Part-1.pdf)                   | [Video](https://youtu.be/MAH8UeNVfXs) |
 | L04 | Lifecycle Assessment (LCA) II                                  | [Slides](ETCE-L04-Lifecycle-Assessment--Part-2.pdf)                   | [Video](https://youtu.be/bEDZFUURaBg) |
 | L05 | Introduction to the Internet of Things                         | [Slides](ETCE-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf) | [Video](https://youtu.be/4Z7y0qogK04) |
-| L06 | IoT Communication                                              | [Slides](ETCE-L06-IoT-Communications.pdf)                              | [Video](https://youtu.be/iCWi5N1pXSo) |
+| L06 | IoT Communication                                              | [Slides](ETCE-L06-IoT-Communications.pdf)                             | [Video](https://youtu.be/iCWi5N1pXSo) |
 | L07 | IoT Security & Privacy                                         | [Slides](ETCE-L07-IoT-Security-and-Privacy.pdf)                       | [Video](https://youtu.be/lsK8biZwsZo) |
-| L08 | IoT Data Processing & Big Data                                 | Coming soon                                                           | Coming soon                           |
+| L08 | IoT Data Processing & Big Data                                 | [Slides](ETCE-L08-IoT-Data-Processing-and-BigData.pdf)                | Coming soon                           |
 | L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                                                           | Coming soon                           |
 | L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                                                           | Coming soon                           |
 | L11 | Digital Technologies and Greenwashing                          | Coming soon                                                           | Coming soon                           |
@@ -29,19 +29,19 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 
 ## Exercises
 
-| ID  | Topic                          | Exercise Sheets                                   |
-|-----|--------------------------------|---------------------------------------------------|
-| E01 | Knowledge Test (MC)            | [Link](Exercises/E01-Inital-MC-Knowledgetest.pdf) |
-| E02 | Circular Economy (MC)          | [Link](Exercises/E02-CE-MC-Test.pdf)              |
-| E03 | Lifecycle Assessment -- Part I | [Link](Exercises/E03-LCA-Part-1.pdf)              |
-| E04 | Lifecycle Assessment -- Part II| [Link](Exercises/E04-LCA-Part-2.pdf)              |
-| E05 | IoT Sensing                    | [Link](Exercises/E05-IoT-Sensing.pdf)                                   |
-| E06 | To be published                | [Link](Exercises/E06-IoT-Processing.pdf)                                   |
-| E08 | To be published                | To be published                                   |
-| E08 | To be published                | To be published                                   |
-| E09 | To be published                | To be published                                   |
-| E10 | To be published                | To be published                                   |
-| E11 | To be published                | To be published                                   |
+| ID  | Topic                           | Exercise Sheets                                   |
+|-----|---------------------------------|---------------------------------------------------|
+| E01 | Knowledge Test (MC)             | [Link](Exercises/E01-Inital-MC-Knowledgetest.pdf) |
+| E02 | Circular Economy (MC)           | [Link](Exercises/E02-CE-MC-Test.pdf)              |
+| E03 | Lifecycle Assessment -- Part I  | [Link](Exercises/E03-LCA-Part-1.pdf)              |
+| E04 | Lifecycle Assessment -- Part II | [Link](Exercises/E04-LCA-Part-2.pdf)              |
+| E05 | IoT Sensing                     | [Link](Exercises/E05-IoT-Sensing.pdf)             |
+| E06 | IoT Processing                 | [Link](Exercises/E06-IoT-Processing.pdf)          |
+| E07 | To be published                 | To be published                                   |
+| E08 | To be published                 | To be published                                   |
+| E09 | To be published                 | To be published                                   |
+| E10 | To be published                 | To be published                                   |
+| E11 | To be published                 | To be published                                   |
 
 ## Lecture Materials of Previous Semesters
 
