@@ -21,7 +21,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L05 | Introduction to the Internet of Things                         | [Slides](ETCE-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf) | [Video](https://youtu.be/4Z7y0qogK04) |
 | L06 | IoT Communication                                              | [Slides](ETCE-L06-IoT-Communications.pdf)                             | [Video](https://youtu.be/iCWi5N1pXSo) |
 | L07 | IoT Security & Privacy                                         | [Slides](ETCE-L07-IoT-Security-and-Privacy.pdf)                       | [Video](https://youtu.be/lsK8biZwsZo) |
-| L08 | IoT Data Processing & Big Data                                 | [Slides](ETCE-L08-IoT-Data-Processing-and-BigData.pdf)                | Coming soon                           |
+| L08 | IoT Data Processing & Big Data                                 | [Slides](ETCE-L08-IoT-Data-Processing-and-BigData.pdf)                | [Video](https://youtu.be/pvxUqvy1N0E) |
 | L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                                                           | Coming soon                           |
 | L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                                                           | Coming soon                           |
 | L11 | Digital Technologies and Greenwashing                          | Coming soon                                                           | Coming soon                           |
