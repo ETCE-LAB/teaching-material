@@ -23,9 +23,9 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L05 | Introduction to the Internet of Things | [Slides](IoT-L05-Introduction-to-the-IoT-and-IoT-Infrastructure.pdf) | [Video](https://youtu.be/4Z7y0qogK04) |
 | L06 | IoT Communication                      | [Slides](IoT-L06-IoT-Communications.pdf)                             | [Video](https://youtu.be/iCWi5N1pXSo) |
 | L07 | IoT Security & Privacy                 | [Slides](IoT-L07-IoT-Security-and-Privacy.pdf)                       | [Video](https://youtu.be/lsK8biZwsZo) |
-| L08 | IoT Data Processing & Big Data         | [Slides](IoT-L08-IoT-Data-Processing-and-BigData.pdf)               | [Video](https://youtu.be/pvxUqvy1N0E) |
-| L09 | IoT in Mining I                        | Coming soon                                                          | Coming soon                           |
-| L10 | IoT in Mining II                       | Coming soon                                                          | Coming soon                           |
+| L08 | IoT Data Processing & Big Data         | [Slides](IoT-L08-IoT-Data-Processing-and-BigData.pdf)                | [Video](https://youtu.be/pvxUqvy1N0E) |
+| L09 | IoT in Mining I                        | StudIP                                                               | Coming soon                           |
+| L10 | IoT in Mining II                       | StudIP                                                               | Coming soon                           |
 | L11 | Digital Technologies and Greenwashing  | Coming soon                                                          | Coming soon                           |
 
 ## Exercises
