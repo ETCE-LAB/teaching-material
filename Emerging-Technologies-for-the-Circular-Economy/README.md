@@ -22,9 +22,8 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L06 | IoT Communication                                              | [Slides](ETCE-L06-IoT-Communications.pdf)                             | [Video](https://youtu.be/iCWi5N1pXSo) |
 | L07 | IoT Security & Privacy                                         | [Slides](ETCE-L07-IoT-Security-and-Privacy.pdf)                       | [Video](https://youtu.be/lsK8biZwsZo) |
 | L08 | IoT Data Processing & Big Data                                 | [Slides](ETCE-L08-IoT-Data-Processing-and-BigData.pdf)                | [Video](https://youtu.be/pvxUqvy1N0E) |
-| L09 | IoT Applications I – Resilient and Sustainable Food Production | Coming soon                                                           | Coming soon                           |
-| L10 | IoT Applications II – Biodiversity Monitoring                  | Coming soon                                                           | Coming soon                           |
-| L11 | Digital Technologies and Greenwashing                          | Coming soon                                                           | Coming soon                           |
+| L09 | IoT Applications – Resilient and Sustainable Food Production   | [Slides](ETCE-L09-IoT-In-Food-Production.pdf)                         | [Video](https://youtu.be/XDKw8sKT7ek) |
+| L10 | Digital Technologies and Greenwashing                          | Coming soon                                                           | Coming soon                           |
 
 
 ## Exercises
@@ -38,10 +37,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | E05 | IoT Sensing                     | [Link](Exercises/E05-IoT-Sensing.pdf)             |
 | E06 | IoT Processing                  | [Link](Exercises/E06-IoT-Processing.pdf)          |
 | E07 | IoT Security                    | [Link](Exercises/E07-IoT-Security.pdf)            |
-| E08 | To be published                 | To be published                                   |
-| E09 | To be published                 | To be published                                   |
-| E10 | To be published                 | To be published                                   |
-| E11 | To be published                 | To be published                                   |
+| E08 | Food Production                 | [Link](Exercises/E08-Food-Production.pdf)         |
 
 ## Lecture Materials of Previous Semesters
 
