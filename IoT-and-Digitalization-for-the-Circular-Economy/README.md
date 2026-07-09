@@ -24,8 +24,8 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L06 | IoT Communication                      | [Slides](IoT-L06-IoT-Communications.pdf)                             | [Video](https://youtu.be/iCWi5N1pXSo) |
 | L07 | IoT Security & Privacy                 | [Slides](IoT-L07-IoT-Security-and-Privacy.pdf)                       | [Video](https://youtu.be/lsK8biZwsZo) |
 | L08 | IoT Data Processing & Big Data         | [Slides](IoT-L08-IoT-Data-Processing-and-BigData.pdf)                | [Video](https://youtu.be/pvxUqvy1N0E) |
-| L09 | IoT in Mining I                        | StudIP                                                               | Coming soon                           |
-| L10 | IoT in Mining II                       | StudIP                                                               | Coming soon                           |
+| L09 | IoT in Mining I                        | StudIP                                                               | - |
+| L10 | IoT in Mining II                       | StudIP                                                               | - |
 | L11 | Digital Technologies and Greenwashing  | Coming soon                                                          | Coming soon                           |
 
 ## Exercises
@@ -35,7 +35,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | E01 | Circular Economy (MC)  | [Link](Exercises/E01-CE-MC-Test.pdf) |
 | E02 | Lifecycle Assessment I | [Link](Exercises/E02-LCA-Part-1.pdf) |
 | E03 | Lifecycle Assessment II| [Link](Exercises/E03-LCA-Part-2.pdf) |
-| E04 | To be published        | To be published                      |
+| E04 | Mining Operations      | [Link](Exercises/E04-Mining-Operations.pdf) |
 | E05 | To be published        | To be published                      |
 | E06 | To be published        | To be published                      |
 
