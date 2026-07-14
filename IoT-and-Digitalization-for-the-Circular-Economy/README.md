@@ -26,7 +26,7 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | L08 | IoT Data Processing & Big Data          | [Slides](IoT-L08-IoT-Data-Processing-and-BigData.pdf)                | [Video](https://youtu.be/pvxUqvy1N0E) |
 | L09 | IoT in Mining I                         | StudIP                                                               | -                                     |
 | L10 | IoT in Mining II                        | StudIP                                                               | -                                     |
-| L11 | Sustainability of Emerging Technologies | [Slides](IoT-L11-Sustainability-of-Emerging-Technologies.pdf)        | Coming soon                           |
+| L11 | Sustainability of Emerging Technologies | [Slides](IoT-L11-Sustainability-of-Emerging-Technologies.pdf)        | [Video](https://youtu.be/X423FD78fTs) |
 
 ## Exercises
 
@@ -36,10 +36,6 @@ This repository contains the teaching materials of the "IoT and Digitalization f
 | E02 | Lifecycle Assessment I | [Link](Exercises/E02-LCA-Part-1.pdf) |
 | E03 | Lifecycle Assessment II| [Link](Exercises/E03-LCA-Part-2.pdf) |
 | E04 | Mining Operations      | [Link](Exercises/E04-Mining-Operations.pdf) |
-| E05 | To be published        | To be published                      |
-| E06 | To be published        | To be published                      |
-
-
 
 ## Lecture Materials of Previous Semesters
 

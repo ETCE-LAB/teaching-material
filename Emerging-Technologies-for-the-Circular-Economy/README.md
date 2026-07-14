@@ -23,7 +23,7 @@ This repository contains the teaching materials of the "Emerging Technologies fo
 | L07 | IoT Security & Privacy                                       | [Slides](ETCE-L07-IoT-Security-and-Privacy.pdf)                       | [Video](https://youtu.be/lsK8biZwsZo) |
 | L08 | IoT Data Processing & Big Data                               | [Slides](ETCE-L08-IoT-Data-Processing-and-BigData.pdf)                | [Video](https://youtu.be/pvxUqvy1N0E) |
 | L09 | IoT Applications – Resilient and Sustainable Food Production | [Slides](ETCE-L09-IoT-In-Food-Production.pdf)                         | [Video](https://youtu.be/XDKw8sKT7ek) |
-| L10 | Sustainability of Emerging Technologies                      | [Slides](ETCE-L10-Sustainability-of-Emerging-Technologies.pdf)        | Coming soon                           |
+| L10 | Sustainability of Emerging Technologies                      | [Slides](ETCE-L10-Sustainability-of-Emerging-Technologies.pdf)        | [Video](https://youtu.be/X423FD78fTs)                           |
 
 
 ## Exercises
