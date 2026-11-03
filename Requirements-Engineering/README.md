@@ -42,7 +42,7 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 | ID  | Topic                    | Exercise Sheets                                                             |
 |-----|--------------------------|-----------------------------------------------------------------------------|
-| E01 | Knowledge Test (MC)      | [Exercise](Exercises/E01-Knowledge-Test-MC/E01-Inital-MC-Knowledgetest.pdf) |
+| E01 | Knowledge Test (MC)      | [Exercise](Exercises/E01-Knowledge-Test-MC/E01-Initial-MC-Knowledgetest.pdf) |
 | E02 | Elicitation I            | [Exercise](Exercises/E02-Elicitation-I/E02-Elicitation-I.pdf)               |
 | E03 | Elicitation II           | [Exercise](Exercises/E03-Elicitation-II/E03-Elicitation-II.pdf)             |
 | E04 | Agent-Oriented Modelling | [Exercise](Exercises/E04-AOM/E04-AOM.pdf)                                   |
