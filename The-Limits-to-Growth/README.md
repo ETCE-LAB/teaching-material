@@ -18,12 +18,12 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 
 ## Lectures
 
-| ID  | Topic                                                      | Slides                                                           | Video                                                          |
+| ID  | Topic                                                      | Slides                                                           | Video                                 |
 |-----|------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------|
 | L00 | Organization                                               | [Slides](LTG-L00-Organization.pdf)                               | [Video](https://youtu.be/8dAX7djX4f4) |
 | L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | [Video](https://youtu.be/iW7pQu10Fhc) |
-| L02 | Challenges of the 21st Century I - Environmental Pollution and Resource Scarcity | [Slides](LTG-L02-Challenges-I.pdf)                                           |                                       |
-| L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                                                                  |                                       |
+| L02 | Challenges of the 21st Century I - Environmental Pollution and Resource Scarcity | [Slides](LTG-L02-Challenges-I.pdf)         | [Video](https://youtu.be/4KojrBZ1ZA0) |
+| L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              |                                       |
 | L04 | Overshoot, the Limits to Growth and Planetary Boundaries (MOOC)  |                                                            |                                       |
 | L05 | The Circular Economy                                       |                                                                  |                                       |
 | L06 | A Short History Political (In-)Action                      |                                                                  |                                       |
