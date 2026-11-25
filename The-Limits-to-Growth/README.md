@@ -24,11 +24,11 @@ The MOOC (Massive Open Online Course) for this course is available online: [Link
 | L01 | Introduction                                               | [Slides](LTG-L01-Introduction.pdf)                               | [Video](https://youtu.be/iW7pQu10Fhc) |
 | L02 | Challenges of the 21st Century I - Environmental Pollution and Resource Scarcity | [Slides](LTG-L02-Challenges-I.pdf)         | [Video](https://youtu.be/4KojrBZ1ZA0) |
 | L03 | Challenges of the 21st Century II - Climate Change         | [Slides](LTG-L03-Challenges-II.pdf)                              | [Video](https://youtu.be/ies0Vt0Nt-A) |
-| L04 | Overshoot, the Limits to Growth and Planetary Boundaries (MOOC)  |     [Slides](LTG-L04-Limits-to-Growth-and-Planetary-Boundaries.pdf)                                                   | [Part-1](https://youtu.be/J_Rpr_la4Ds), [Part-2](https://youtu.be/SXUJHlUySno), [Part-3](https://youtu.be/Cyjci_eKbLA) |
-| L05 | The Circular Economy                                       |                                                                  |                                       |
-| L06 | A Short History Political (In-)Action                      |                                                                  |                                       |
-| L07 | Circular Societies                                         |                                                                  |                                       |
-| L08 | Complex Societies and Technology                           |                                                                  |                                       |
+| L04 | Overshoot, the Limits to Growth and Planetary Boundaries (MOOC)  |     [Slides](LTG-L04-Limits-to-Growth-and-Planetary-Boundaries.pdf)   | [Part-1](https://youtu.be/J_Rpr_la4Ds), [Part-2](https://youtu.be/SXUJHlUySno), [Part-3](https://youtu.be/Cyjci_eKbLA) |
+| L05 | The Circular Economy                                | [Slides](LTG-L05-Circular-Economy.pdf)    |                                       |
+| L06 | Sustainability and Political (In-)Action                      |   [Slides](LTG-L06-Sustainability-and-Political-(In-)Action.pdf) |                                       |
+| L07 | Circular Societies    |   [Slides](LTG-L07-Circular-Societies.pdf)                |                                       |
+| L08 | Complex Societies and Technology   |     [Slides](LTG-L08-Complex-Societies-and-Technology.pdf)                                   |                                       |
 | L09 | Recorded Lecture (David Inkermann) – Life Cycle Planning of Durable Products |                                                |                                       |
 | L10 | Recorded Lecture (Johannes Müller-Salo) – Ethics & Moral of Sustainability |                                                  |                                       |
 | L11 | Beyond the Circular Economy                                |                                                                  |                                       |
